@@ -1,0 +1,13 @@
+{
+  "name": "setter-kpi-dashboard",
+  "version": "1.0.0",
+  "description": "Live setter KPI dashboard for Top Drawer Cabinetry — pulls from GoHighLevel.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "refresh": "node scripts/refresh.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
