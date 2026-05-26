@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-26T03:59:17.113Z",
+  "today": {
+    "uniqueCallsAttempted": 0,
+    "uniqueTextsSent": 2,
+    "uniqueCallsAnswered": 0,
+    "uniqueTextsResponded": 0,
+    "calledContacts": [],
+    "textedContacts": [
+      {"name": "Douglas S Diffendall", "texts": 1, "responded": false, "lastAt": "2026-05-26T01:57:29.374Z"},
+      {"name": "Denitsa", "texts": 1, "responded": false, "lastAt": "2026-05-25T19:13:29.556Z"}
+    ]
+  },
+  "mtd": {
+    "uniqueCallsAttempted": 35,
+    "uniqueTextsSent": 77,
+    "uniqueCallsAnswered": 12,
+    "uniqueTextsResponded": 13
+  },
+  "daily": [
+    {"date":"2026-05-19","uniqueCallsAttempted":15,"uniqueTextsSent":17,"uniqueCallsAnswered":3,"uniqueTextsResponded":3},
+    {"date":"2026-05-20","uniqueCallsAttempted":18,"uniqueTextsSent":13,"uniqueCallsAnswered":3,"uniqueTextsResponded":1},
+    {"date":"2026-05-21","uniqueCallsAttempted":21,"uniqueTextsSent":33,"uniqueCallsAnswered":4,"uniqueTextsResponded":3},
+    {"date":"2026-05-22","uniqueCallsAttempted":19,"uniqueTextsSent":26,"uniqueCallsAnswered":2,"uniqueTextsResponded":5},
+    {"date":"2026-05-23","uniqueCallsAttempted":0,"uniqueTextsSent":5,"uniqueCallsAnswered":0,"uniqueTextsResponded":1},
+    {"date":"2026-05-24","uniqueCallsAttempted":0,"uniqueTextsSent":8,"uniqueCallsAnswered":0,"uniqueTextsResponded":0},
+    {"date":"2026-05-25","uniqueCallsAttempted":0,"uniqueTextsSent":2,"uniqueCallsAnswered":0,"uniqueTextsResponded":0}
+  ]
+}
