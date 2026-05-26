@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Setter KPI Dashboard — Top Drawer Cabinetry</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #f7f7f5; color: #1a1a1a; margin: 0; padding: 20px;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 18px; border-bottom: 1px solid #e3e1dc; padding-bottom: 12px;
+    flex-wrap: wrap; gap: 10px;
+  }
+  .header h1 { font-size: 22px; margin: 0; font-weight: 600; letter-spacing: -0.01em; }
+  .header .meta { font-size: 12px; color: #6b6b6b; display: flex; align-items: center; gap: 12px; }
+  .refresh-btn {
+    padding: 6px 12px; border: 1px solid #d1cfca; background: white;
+    border-radius: 6px; cursor: pointer; font-size: 12px; color: #1a1a1a; font-weight: 500;
+  }
+  .refresh-btn:hover { background: #f5f5f5; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
+  .card { background: white; border: 1px solid #e3e1dc; border-radius: 10px; padding: 22px; }
+  .card .label {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em;
+    color: #6b6b6b; font-weight: 600; margin-bottom: 8px;
+  }
+  .card .number { font-size: 56px; font-weight: 700; line-height: 1; letter-spacing: -0.02em; }
+  .card .number .target { font-size: 22px; color: #9a9a9a; font-weight: 400; }
+  .card .status { margin-top: 12px; font-size: 13px; font-weight: 600; }
+  .bar { margin-top: 14px; background: #ececea; height: 8px; border-radius: 4px; overflow: hidden; }
+  .bar > div { height: 100%; border-radius: 4px; transition: width 0.4s ease; }
+  .status.hit, .bar.hit > div { color: #15803d; background: #15803d; }
+  .status.close, .bar.close > div { color: #b45309; background: #d97706; }
+  .status.miss, .bar.miss > div { color: #b91c1c; background: #dc2626; }
+  .chart-card, .lists-wrap {
+    background: white; border: 1px solid #e3e1dc;
+    border-radius: 10px; padding: 22px; margin-bottom: 16px;
+  }
+  .chart-card h2, .lists-wrap h2 {
+    margin: 0 0 14px 0; font-size: 14px; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #6b6b6b; font-weight: 600;
+  }
+  .chart-wrap { height: 280px; position: relative; }
+  .sub {
+    margin-top: 14px; padding-top: 12px; border-top: 1px solid #eeece6;
+    display: flex; justify-content: space-between; font-size: 13px;
+  }
+  .sub .k { color: #6b6b6b; }
+  .sub .v { color: #1a1a1a; font-weight: 600; }
+  .sub .pct { color: #6b6b6b; font-size: 12px; margin-left: 6px; }
+  .mtd { display: flex; gap: 24px; font-size: 12px; color: #6b6b6b; margin-top: 8px; flex-wrap: wrap; }
+  .mtd strong { color: #1a1a1a; font-weight: 600; }
+  .lists-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .list-col h3 {
+    margin: 0 0 10px 0; font-size: 13px; font-weight: 600; color: #1a1a1a;
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  .list-col h3 .count { color: #6b6b6b; font-weight: 400; font-size: 12px; }
+  .lead-list {
+    list-style: none; padding: 0; margin: 0;
+    max-height: 360px; overflow-y: auto;
+    border: 1px solid #eeece6; border-radius: 8px;
+  }
+  .lead-list li {
+    display: flex; align-items: center; gap: 10px;
+    padding: 9px 12px; font-size: 13px;
+    border-bottom: 1px solid #f3f1ec;
+  }
+  .lead-list li:last-child { border-bottom: none; }
+  .lead-name { flex: 1; color: #1a1a1a; }
+  .lead-meta { color: #6b6b6b; font-size: 11px; }
+  .badge {
+    display: inline-flex; align-items: center;
+    padding: 2px 7px; border-radius: 999px;
+    font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .badge.green { background: #dcfce7; color: #15803d; }
+  .badge.gray { background: #f1f1ee; color: #6b6b6b; }
+  .empty { padding: 24px 16px; text-align: center; color: #9a9a9a; font-size: 13px; }
+  .err { background: #fef2f2; border: 1px solid #fecaca; color: #991b1b; padding: 12px 16px; border-radius: 8px; }
+  .loading { text-align: center; padding: 60px 20px; color: #6b6b6b; font-size: 14px; }
+  @media (max-width: 700px) {
+    .grid, .lists-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="header">
+    <h1>Setter KPI — <span id="today-date">Today</span></h1>
+    <div class="meta">
+      <span id="updated">Loading…</span>
+      <button class="refresh-btn" id="refresh-btn" type="button">Refresh</button>
+    </div>
+  </div>
+  <div id="content"><div class="loading">Loading data…</div></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js"></script>
+<script>
+  const CALL_TARGET = 30;
+  const TEXT_TARGET = 50;
+  let chartInstance = null;
+
+  function classFor(actual, target) {
+    if (actual >= target) return "hit";
+    if (actual >= target * 0.7) return "close";
+    return "miss";
+  }
+  function labelFor(actual, target) {
+    if (actual >= target) return "Target hit (" + actual + "/" + target + ")";
+    const pct = Math.round((actual / target) * 100);
+    return pct + "% of goal — " + (target - actual) + " to go";
+  }
+  function escapeHtml(s) {
+    return String(s || "").replace(/[&<>"']/g, ch =>
+      ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[ch])
+    );
+  }
+  function shortTime(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (isNaN(d)) return "";
+    return d.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+  }
+  function titleCase(name) {
+    return String(name || "").replace(/\b\w/g, (c) => c.toUpperCase());
+  }
+
+  function render(data) {
+    const genDate = new Date(data.generatedAt);
+    const todayDate = new Date();
+
+    document.getElementById("today-date").textContent =
+      todayDate.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" });
+
+    const dataAge = Math.round((Date.now() - genDate.getTime()) / 60000);
+    const ageText = dataAge < 1 ? "just now" :
+                    dataAge < 60 ? dataAge + " min ago" :
+                    Math.round(dataAge / 60) + " hr ago";
+    document.getElementById("updated").textContent = "Updated " + ageText;
+
+    const t = data.today || {};
+    const m = data.mtd || {};
+    const callsToday = t.uniqueCallsAttempted || 0;
+    const textsToday = t.uniqueTextsSent || 0;
+    const answeredToday = t.uniqueCallsAnswered || 0;
+    const respondedToday = t.uniqueTextsResponded || 0;
+
+    const callsClass = classFor(callsToday, CALL_TARGET);
+    const textsClass = classFor(textsToday, TEXT_TARGET);
+    const callsPct = Math.min(100, (callsToday / CALL_TARGET) * 100);
+    const textsPct = Math.min(100, (textsToday / TEXT_TARGET) * 100);
+    const ansPct = callsToday > 0 ? Math.round((answeredToday / callsToday) * 100) : 0;
+    const respPct = textsToday > 0 ? Math.round((respondedToday / textsToday) * 100) : 0;
+
+    function renderLeadItem(lead, kind) {
+      const name = titleCase(lead.name) || "(unnamed)";
+      const count = kind === "calls" ? lead.calls : lead.texts;
+      const status = kind === "calls"
+        ? (lead.answered ? '<span class="badge green">Answered</span>' : '<span class="badge gray">No answer</span>')
+        : (lead.responded ? '<span class="badge green">Responded</span>' : '<span class="badge gray">No reply</span>');
+      const repeated = count > 1 ? ` &middot; ${count}×` : "";
+      return `<li>
+        <div class="lead-name">${escapeHtml(name)}<div class="lead-meta">${shortTime(lead.lastAt)}${repeated}</div></div>
+        ${status}
+      </li>`;
+    }
+
+    const calledList = (t.calledContacts || []).map(c => renderLeadItem(c, "calls")).join("");
+    const textedList = (t.textedContacts || []).map(c => renderLeadItem(c, "texts")).join("");
+
+    document.getElementById("content").innerHTML = `
+      <div class="grid">
+        <div class="card">
+          <div class="label">Unique leads called today</div>
+          <div class="number">${callsToday}<span class="target"> / ${CALL_TARGET}</span></div>
+          <div class="bar ${callsClass}"><div style="width:${callsPct}%"></div></div>
+          <div class="status ${callsClass}">${labelFor(callsToday, CALL_TARGET)}</div>
+          <div class="sub"><span class="k">Answered (≥30s)</span><span class="v">${answeredToday}<span class="pct">${ansPct}%</span></span></div>
+          <div class="mtd">MTD: <strong>${m.uniqueCallsAttempted || 0}</strong> unique called &middot; <strong>${m.uniqueCallsAnswered || 0}</strong> answered</div>
+        </div>
+        <div class="card">
+          <div class="label">Unique leads texted today</div>
+          <div class="number">${textsToday}<span class="target"> / ${TEXT_TARGET}</span></div>
+          <div class="bar ${textsClass}"><div style="width:${textsPct}%"></div></div>
+          <div class="status ${textsClass}">${labelFor(textsToday, TEXT_TARGET)}</div>
+          <div class="sub"><span class="k">Responded same-day</span><span class="v">${respondedToday}<span class="pct">${respPct}%</span></span></div>
+          <div class="mtd">MTD: <strong>${m.uniqueTextsSent || 0}</strong> unique texted &middot; <strong>${m.uniqueTextsResponded || 0}</strong> responded</div>
+        </div>
+      </div>
+      <div class="chart-card">
+        <h2>Last 7 days — unique leads attempted</h2>
+        <div class="chart-wrap"><canvas id="trend"></canvas></div>
+      </div>
+      <div class="lists-wrap">
+        <h2>Today's leads — spot check</h2>
+        <div class="lists-grid">
+          <div class="list-col">
+            <h3>Called <span class="count">${(t.calledContacts || []).length} leads</span></h3>
+            ${calledList ? `<ul class="lead-list">${calledList}</ul>` : `<div class="empty">No outbound calls yet today.</div>`}
+          </div>
+          <div class="list-col">
+            <h3>Texted <span class="count">${(t.textedContacts || []).length} leads</span></h3>
+            ${textedList ? `<ul class="lead-list">${textedList}</ul>` : `<div class="empty">No outbound texts yet today.</div>`}
+          </div>
+        </div>
+      </div>
+    `;
+
+    // Build last 7 days chart (Phoenix-local day keys)
+    const days = [];
+    const PHX_OFFSET_MS = 7 * 60 * 60 * 1000;
+    const nowPhx = new Date(Date.now() - PHX_OFFSET_MS);
+    const todayMid = new Date(Date.UTC(nowPhx.getUTCFullYear(), nowPhx.getUTCMonth(), nowPhx.getUTCDate()));
+    for (let i = 6; i >= 0; i--) {
+      const d = new Date(todayMid);
+      d.setUTCDate(d.getUTCDate() - i);
+      const y = d.getUTCFullYear();
+      const mo = String(d.getUTCMonth() + 1).padStart(2, "0");
+      const da = String(d.getUTCDate()).padStart(2, "0");
+      days.push({
+        key: y + "-" + mo + "-" + da,
+        label: d.toLocaleDateString("en-US", { weekday: "short", month: "numeric", day: "numeric", timeZone: "UTC" }),
+        calls: 0, texts: 0,
+      });
+    }
+    const byKey = Object.fromEntries(days.map(d => [d.key, d]));
+    for (const row of (data.daily || [])) {
+      if (byKey[row.date]) {
+        byKey[row.date].calls = row.uniqueCallsAttempted || 0;
+        byKey[row.date].texts = row.uniqueTextsSent || 0;
+      }
+    }
+    if (chartInstance) chartInstance.destroy();
+    chartInstance = new Chart(document.getElementById("trend"), {
+      type: "bar",
+      data: {
+        labels: days.map(d => d.label),
+        datasets: [
+          { label: "Calls", data: days.map(d => d.calls), backgroundColor: "#1f6feb", borderRadius: 4 },
+          { label: "Texts", data: days.map(d => d.texts), backgroundColor: "#16a34a", borderRadius: 4 },
+        ],
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: { legend: { position: "bottom" } },
+        scales: { x: { grid: { display: false } }, y: { beginAtZero: true, ticks: { precision: 0 } } },
+      },
+    });
+  }
+
+  async function load() {
+    document.getElementById("updated").textContent = "Loading…";
+    try {
+      // Cache-bust so we always get the latest data.json (GitHub Pages aggressively caches)
+      const url = "data.json?t=" + Date.now();
+      const res = await fetch(url);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+      render(data);
+    } catch (e) {
+      document.getElementById("content").innerHTML =
+        `<div class="err"><strong>Couldn't load:</strong> ${e.message || e}. The dashboard auto-refreshes every 15 min during business hours. Try Refresh in a moment.</div>`;
+      document.getElementById("updated").textContent = "Load failed";
+    }
+  }
+
+  document.getElementById("refresh-btn").addEventListener("click", load);
+  // Auto-refresh every 5 minutes while page is open
+  setInterval(load, 5 * 60 * 1000);
+  load();
+</script>
+</body>
+</html>
