@@ -1,21 +1,45 @@
 {
-  "generatedAt": "2026-05-26T16:14:38.612Z",
+  "generatedAt": "2026-05-26T17:28:57.087Z",
   "ranges": {
     "todayIso": "2026-05-26T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-26T16:14:18.979Z"
+    "nowIso": "2026-05-26T17:28:38.886Z"
   },
   "today": {
-    "contacts": 2,
-    "uniqueCallsAttempted": 6,
+    "contacts": 4,
+    "uniqueCallsAttempted": 9,
     "uniqueTextsSent": 4,
-    "uniqueCallsAnswered": 1,
+    "uniqueCallsAnswered": 3,
     "uniqueTextsResponded": 2,
     "calledContacts": [
       {
-        "name": "Jason F. Miller",
+        "name": "Douglas S Diffendall",
         "calls": 1,
         "answered": false,
+        "lastAt": "2026-05-26T17:28:21.118Z"
+      },
+      {
+        "name": "David Rucker",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-05-26T17:12:01.849Z"
+      },
+      {
+        "name": "Denitsa",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-05-26T16:15:48.850Z"
+      },
+      {
+        "name": "Jimmy Nutron",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-05-26T16:14:57.390Z"
+      },
+      {
+        "name": "Jason F. Miller",
+        "calls": 1,
+        "answered": true,
         "lastAt": "2026-05-26T16:13:44.845Z"
       },
       {
@@ -29,12 +53,6 @@
         "calls": 2,
         "answered": false,
         "lastAt": "2026-05-26T16:09:11.303Z"
-      },
-      {
-        "name": "David Rucker",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-05-26T15:49:55.104Z"
       },
       {
         "name": "Cory Fuller",
@@ -51,16 +69,16 @@
     ],
     "textedContacts": [
       {
+        "name": "David Rucker",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-05-26T17:12:01.849Z"
+      },
+      {
         "name": "Connor Mcknight",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-05-26T16:11:03.209Z"
-      },
-      {
-        "name": "David Rucker",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-05-26T15:49:55.104Z"
       },
       {
         "name": "Sonia Traywick Boirum",
@@ -77,11 +95,11 @@
     ]
   },
   "mtd": {
-    "contacts": 178,
-    "uniqueCallsAttempted": 65,
-    "uniqueTextsSent": 144,
-    "uniqueCallsAnswered": 21,
-    "uniqueTextsResponded": 46
+    "contacts": 180,
+    "uniqueCallsAttempted": 68,
+    "uniqueTextsSent": 153,
+    "uniqueCallsAnswered": 24,
+    "uniqueTextsResponded": 53
   },
   "daily": [
     {
@@ -108,7 +126,7 @@
     {
       "date": "2026-05-04",
       "uniqueCallsAttempted": 6,
-      "uniqueTextsSent": 12,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 0
     },
@@ -122,28 +140,28 @@
     {
       "date": "2026-05-06",
       "uniqueCallsAttempted": 4,
-      "uniqueTextsSent": 6,
+      "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-07",
       "uniqueCallsAttempted": 4,
-      "uniqueTextsSent": 4,
+      "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-05-08",
       "uniqueCallsAttempted": 3,
-      "uniqueTextsSent": 7,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-05-09",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 1,
+      "uniqueTextsSent": 2,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
@@ -156,38 +174,38 @@
     },
     {
       "date": "2026-05-11",
-      "uniqueCallsAttempted": 9,
+      "uniqueCallsAttempted": 11,
       "uniqueTextsSent": 12,
-      "uniqueCallsAnswered": 0,
+      "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-12",
-      "uniqueCallsAttempted": 5,
-      "uniqueTextsSent": 17,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 5
+      "uniqueCallsAttempted": 6,
+      "uniqueTextsSent": 19,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 6
     },
     {
       "date": "2026-05-13",
-      "uniqueCallsAttempted": 10,
-      "uniqueTextsSent": 9,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 2
+      "uniqueCallsAttempted": 12,
+      "uniqueTextsSent": 15,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 4
     },
     {
       "date": "2026-05-14",
-      "uniqueCallsAttempted": 9,
-      "uniqueTextsSent": 21,
-      "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 2
+      "uniqueCallsAttempted": 11,
+      "uniqueTextsSent": 35,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 8
     },
     {
       "date": "2026-05-15",
       "uniqueCallsAttempted": 12,
       "uniqueTextsSent": 17,
       "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 5
+      "uniqueTextsResponded": 6
     },
     {
       "date": "2026-05-16",
@@ -205,31 +223,31 @@
     },
     {
       "date": "2026-05-18",
-      "uniqueCallsAttempted": 18,
-      "uniqueTextsSent": 27,
+      "uniqueCallsAttempted": 16,
+      "uniqueTextsSent": 25,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 6
     },
     {
       "date": "2026-05-19",
-      "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 37,
-      "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 15
+      "uniqueCallsAttempted": 19,
+      "uniqueTextsSent": 33,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 12
     },
     {
       "date": "2026-05-20",
-      "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 24,
+      "uniqueCallsAttempted": 17,
+      "uniqueTextsSent": 18,
       "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 5
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-05-21",
-      "uniqueCallsAttempted": 21,
-      "uniqueTextsSent": 33,
-      "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 3
+      "uniqueCallsAttempted": 18,
+      "uniqueTextsSent": 29,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-05-22",
@@ -261,9 +279,9 @@
     },
     {
       "date": "2026-05-26",
-      "uniqueCallsAttempted": 6,
+      "uniqueCallsAttempted": 9,
       "uniqueTextsSent": 4,
-      "uniqueCallsAnswered": 1,
+      "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 2
     }
   ],
