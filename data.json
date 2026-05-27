@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-27T17:23:49.545Z",
+  "generatedAt": "2026-05-27T17:39:46.796Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T17:22:17.425Z"
+    "nowIso": "2026-05-27T17:38:49.933Z"
   },
   "today": {
     "contacts": 1,
     "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 8,
+    "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 1,
     "uniqueTextsResponded": 5,
     "calledContacts": [
@@ -16,7 +16,7 @@
         "name": "Travis Morris",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-05-27T16:41:25.857Z"
+        "lastAt": "2026-05-27T17:35:03.770Z"
       },
       {
         "name": "Andrea Weber-Pomykala",
@@ -26,6 +26,30 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Chad Willis",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:37:04.041Z"
+      },
+      {
+        "name": "Travis Morris",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-05-27T17:35:03.770Z"
+      },
+      {
+        "name": "Hector Diaz",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:25:51.946Z"
+      },
+      {
+        "name": "Tessa Roloson",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-05-27T17:23:02.321Z"
+      },
       {
         "name": "David Rucker",
         "texts": 1,
@@ -37,18 +61,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-05-27T16:44:18.889Z"
-      },
-      {
-        "name": "Tessa Roloson",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-05-27T16:42:47.440Z"
-      },
-      {
-        "name": "Travis Morris",
-        "texts": 3,
-        "responded": true,
-        "lastAt": "2026-05-27T16:41:25.857Z"
       },
       {
         "name": "Fabian Zaragoza",
@@ -269,7 +281,7 @@
     {
       "date": "2026-05-27",
       "uniqueCallsAttempted": 2,
-      "uniqueTextsSent": 8,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 5
     }
