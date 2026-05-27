@@ -1,17 +1,53 @@
 {
-  "generatedAt": "2026-05-27T17:46:20.781Z",
+  "generatedAt": "2026-05-27T17:55:14.191Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T17:45:06.967Z"
+    "nowIso": "2026-05-27T17:54:26.336Z"
   },
   "today": {
     "contacts": 1,
-    "uniqueCallsAttempted": 5,
-    "uniqueTextsSent": 11,
+    "uniqueCallsAttempted": 10,
+    "uniqueTextsSent": 16,
     "uniqueCallsAnswered": 1,
     "uniqueTextsResponded": 5,
     "calledContacts": [
+      {
+        "name": "Dan Olin",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:54:04.388Z"
+      },
+      {
+        "name": "Travis Morris",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:53:54.202Z"
+      },
+      {
+        "name": "Desert Elevated Investments",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:49:52.429Z"
+      },
+      {
+        "name": "Kc",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:48:52.983Z"
+      },
+      {
+        "name": "Scott Thomas",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:47:39.819Z"
+      },
+      {
+        "name": "Nick Reyes",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:46:33.574Z"
+      },
       {
         "name": "Jill Brugman",
         "calls": 1,
@@ -23,12 +59,6 @@
         "calls": 1,
         "answered": false,
         "lastAt": "2026-05-27T17:44:22.249Z"
-      },
-      {
-        "name": "Travis Morris",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-05-27T17:43:25.416Z"
       },
       {
         "name": "Eileen Nelson",
@@ -45,16 +75,46 @@
     ],
     "textedContacts": [
       {
+        "name": "Dan Olin",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:54:04.388Z"
+      },
+      {
+        "name": "Travis Morris",
+        "texts": 9,
+        "responded": true,
+        "lastAt": "2026-05-27T17:53:54.202Z"
+      },
+      {
+        "name": "Desert Elevated Investments",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:49:52.429Z"
+      },
+      {
+        "name": "Kc",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:48:52.983Z"
+      },
+      {
+        "name": "Scott Thomas",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:47:39.819Z"
+      },
+      {
+        "name": "Nick Reyes",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:46:33.574Z"
+      },
+      {
         "name": "Howard Thruston",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-05-27T17:44:22.249Z"
-      },
-      {
-        "name": "Travis Morris",
-        "texts": 5,
-        "responded": true,
-        "lastAt": "2026-05-27T17:43:25.416Z"
       },
       {
         "name": "David Rucker",
@@ -304,8 +364,8 @@
     },
     {
       "date": "2026-05-27",
-      "uniqueCallsAttempted": 5,
-      "uniqueTextsSent": 11,
+      "uniqueCallsAttempted": 10,
+      "uniqueTextsSent": 16,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 5
     }
