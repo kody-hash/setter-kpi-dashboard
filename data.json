@@ -1,22 +1,40 @@
 {
-  "generatedAt": "2026-05-27T17:39:46.796Z",
+  "generatedAt": "2026-05-27T17:46:20.781Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T17:38:49.933Z"
+    "nowIso": "2026-05-27T17:45:06.967Z"
   },
   "today": {
     "contacts": 1,
-    "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 10,
+    "uniqueCallsAttempted": 5,
+    "uniqueTextsSent": 11,
     "uniqueCallsAnswered": 1,
     "uniqueTextsResponded": 5,
     "calledContacts": [
       {
+        "name": "Jill Brugman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:44:44.340Z"
+      },
+      {
+        "name": "Howard Thruston",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:44:22.249Z"
+      },
+      {
         "name": "Travis Morris",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-05-27T17:35:03.770Z"
+        "lastAt": "2026-05-27T17:43:25.416Z"
+      },
+      {
+        "name": "Eileen Nelson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-05-27T17:41:35.073Z"
       },
       {
         "name": "Andrea Weber-Pomykala",
@@ -27,16 +45,28 @@
     ],
     "textedContacts": [
       {
+        "name": "Howard Thruston",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T17:44:22.249Z"
+      },
+      {
+        "name": "Travis Morris",
+        "texts": 5,
+        "responded": true,
+        "lastAt": "2026-05-27T17:43:25.416Z"
+      },
+      {
+        "name": "David Rucker",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-05-27T17:43:06.191Z"
+      },
+      {
         "name": "Chad Willis",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-05-27T17:37:04.041Z"
-      },
-      {
-        "name": "Travis Morris",
-        "texts": 4,
-        "responded": true,
-        "lastAt": "2026-05-27T17:35:03.770Z"
       },
       {
         "name": "Hector Diaz",
@@ -49,12 +79,6 @@
         "texts": 2,
         "responded": true,
         "lastAt": "2026-05-27T17:23:02.321Z"
-      },
-      {
-        "name": "David Rucker",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-05-27T17:19:34.033Z"
       },
       {
         "name": "Sonia Traywick Boirum",
@@ -280,8 +304,8 @@
     },
     {
       "date": "2026-05-27",
-      "uniqueCallsAttempted": 2,
-      "uniqueTextsSent": 10,
+      "uniqueCallsAttempted": 5,
+      "uniqueTextsSent": 11,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 5
     }
