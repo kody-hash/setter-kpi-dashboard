@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-27T00:31:20.095Z",
+  "generatedAt": "2026-05-27T03:41:57.761Z",
   "ranges": {
     "todayIso": "2026-05-26T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T00:31:12.029Z"
+    "nowIso": "2026-05-27T03:41:51.219Z"
   },
   "today": {
-    "contacts": 9,
+    "contacts": 10,
     "uniqueCallsAttempted": 27,
-    "uniqueTextsSent": 23,
+    "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 5,
-    "uniqueTextsResponded": 4,
+    "uniqueTextsResponded": 5,
     "calledContacts": [
       {
         "name": "Ayhab Kadhum",
@@ -177,9 +177,15 @@
     ],
     "textedContacts": [
       {
-        "name": "Alan Poland",
+        "name": "Andrea Weber-Pomykala",
         "texts": 1,
         "responded": false,
+        "lastAt": "2026-05-27T01:08:44.631Z"
+      },
+      {
+        "name": "Alan Poland",
+        "texts": 1,
+        "responded": true,
         "lastAt": "2026-05-27T00:00:01.908Z"
       },
       {
@@ -317,11 +323,11 @@
     ]
   },
   "mtd": {
-    "contacts": 185,
+    "contacts": 186,
     "uniqueCallsAttempted": 41,
     "uniqueTextsSent": 76,
     "uniqueCallsAnswered": 13,
-    "uniqueTextsResponded": 16
+    "uniqueTextsResponded": 17
   },
   "daily": [
     {
@@ -355,7 +361,7 @@
     {
       "date": "2026-05-05",
       "uniqueCallsAttempted": 1,
-      "uniqueTextsSent": 3,
+      "uniqueTextsSent": 2,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
@@ -467,7 +473,7 @@
     {
       "date": "2026-05-21",
       "uniqueCallsAttempted": 18,
-      "uniqueTextsSent": 25,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 2
     },
@@ -502,9 +508,9 @@
     {
       "date": "2026-05-26",
       "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 23,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 4
+      "uniqueTextsResponded": 5
     }
   ],
   "conversationsScanned": 250
