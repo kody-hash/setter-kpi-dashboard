@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-27T19:21:08.520Z",
+  "generatedAt": "2026-05-27T19:26:59.196Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T19:19:47.210Z"
+    "nowIso": "2026-05-27T19:26:00.783Z"
   },
   "today": {
-    "contacts": 1,
+    "contacts": 2,
     "uniqueCallsAttempted": 18,
-    "uniqueTextsSent": 25,
+    "uniqueTextsSent": 29,
     "uniqueCallsAnswered": 4,
     "uniqueTextsResponded": 6,
     "calledContacts": [
@@ -122,6 +122,30 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Mariam Herrera",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-05-27T19:25:20.053Z"
+      },
+      {
+        "name": "Rich",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T19:23:18.127Z"
+      },
+      {
+        "name": "Michael Lyons",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T19:22:33.321Z"
+      },
+      {
+        "name": "Travis Mast",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T19:22:09.967Z"
+      },
       {
         "name": "Mira Johnson",
         "texts": 1,
@@ -275,16 +299,16 @@
     ]
   },
   "mtd": {
-    "contacts": 188,
-    "uniqueCallsAttempted": 86,
-    "uniqueTextsSent": 200,
+    "contacts": 189,
+    "uniqueCallsAttempted": 87,
+    "uniqueTextsSent": 201,
     "uniqueCallsAnswered": 37,
     "uniqueTextsResponded": 68
   },
   "daily": [
     {
       "date": "2026-05-01",
-      "uniqueCallsAttempted": 6,
+      "uniqueCallsAttempted": 7,
       "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 1
@@ -305,28 +329,28 @@
     },
     {
       "date": "2026-05-04",
-      "uniqueCallsAttempted": 8,
-      "uniqueTextsSent": 15,
+      "uniqueCallsAttempted": 9,
+      "uniqueTextsSent": 16,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-05",
-      "uniqueCallsAttempted": 6,
-      "uniqueTextsSent": 9,
+      "uniqueCallsAttempted": 7,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 2
     },
     {
       "date": "2026-05-06",
-      "uniqueCallsAttempted": 5,
-      "uniqueTextsSent": 8,
+      "uniqueCallsAttempted": 6,
+      "uniqueTextsSent": 9,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-07",
-      "uniqueCallsAttempted": 6,
+      "uniqueCallsAttempted": 7,
       "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 3
@@ -354,8 +378,8 @@
     },
     {
       "date": "2026-05-11",
-      "uniqueCallsAttempted": 15,
-      "uniqueTextsSent": 22,
+      "uniqueCallsAttempted": 16,
+      "uniqueTextsSent": 21,
       "uniqueCallsAnswered": 5,
       "uniqueTextsResponded": 2
     },
@@ -368,7 +392,7 @@
     },
     {
       "date": "2026-05-13",
-      "uniqueCallsAttempted": 14,
+      "uniqueCallsAttempted": 15,
       "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 5
@@ -382,7 +406,7 @@
     },
     {
       "date": "2026-05-15",
-      "uniqueCallsAttempted": 12,
+      "uniqueCallsAttempted": 13,
       "uniqueTextsSent": 18,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 6
@@ -467,7 +491,7 @@
     {
       "date": "2026-05-27",
       "uniqueCallsAttempted": 18,
-      "uniqueTextsSent": 25,
+      "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 4,
       "uniqueTextsResponded": 6
     }
