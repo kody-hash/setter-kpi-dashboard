@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-27T19:37:47.617Z",
+  "generatedAt": "2026-05-27T19:58:51.486Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T19:36:58.402Z"
+    "nowIso": "2026-05-27T19:58:22.212Z"
   },
   "today": {
     "contacts": 2,
     "uniqueCallsAttempted": 18,
     "uniqueTextsSent": 29,
     "uniqueCallsAnswered": 4,
-    "uniqueTextsResponded": 7,
+    "uniqueTextsResponded": 8,
     "calledContacts": [
       {
         "name": "Douglas S Diffendall",
@@ -137,7 +137,7 @@
       {
         "name": "Michael Lyons",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-05-27T19:22:33.321Z"
       },
       {
@@ -159,7 +159,7 @@
         "lastAt": "2026-05-27T18:53:22.236Z"
       },
       {
-        "name": "Randy Shepherd",
+        "name": "Randal Shepherd",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-05-27T18:52:22.129Z"
@@ -303,7 +303,7 @@
     "uniqueCallsAttempted": 87,
     "uniqueTextsSent": 201,
     "uniqueCallsAnswered": 37,
-    "uniqueTextsResponded": 69
+    "uniqueTextsResponded": 70
   },
   "daily": [
     {
@@ -493,7 +493,7 @@
       "uniqueCallsAttempted": 18,
       "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 7
+      "uniqueTextsResponded": 8
     }
   ],
   "conversationsScanned": 250
