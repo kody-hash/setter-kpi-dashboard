@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-27T19:26:59.196Z",
+  "generatedAt": "2026-05-27T19:37:47.617Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T19:26:00.783Z"
+    "nowIso": "2026-05-27T19:36:58.402Z"
   },
   "today": {
     "contacts": 2,
     "uniqueCallsAttempted": 18,
     "uniqueTextsSent": 29,
     "uniqueCallsAnswered": 4,
-    "uniqueTextsResponded": 6,
+    "uniqueTextsResponded": 7,
     "calledContacts": [
       {
         "name": "Douglas S Diffendall",
@@ -123,9 +123,9 @@
     ],
     "textedContacts": [
       {
-        "name": "Mariam Herrera",
+        "name": "Mariam Herrera Rodriguez",
         "texts": 2,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-05-27T19:25:20.053Z"
       },
       {
@@ -303,7 +303,7 @@
     "uniqueCallsAttempted": 87,
     "uniqueTextsSent": 201,
     "uniqueCallsAnswered": 37,
-    "uniqueTextsResponded": 68
+    "uniqueTextsResponded": 69
   },
   "daily": [
     {
@@ -493,7 +493,7 @@
       "uniqueCallsAttempted": 18,
       "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 6
+      "uniqueTextsResponded": 7
     }
   ],
   "conversationsScanned": 250
