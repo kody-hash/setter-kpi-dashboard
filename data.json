@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-27T16:43:30.415Z",
+  "generatedAt": "2026-05-27T17:23:49.545Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T16:42:33.230Z"
+    "nowIso": "2026-05-27T17:22:17.425Z"
   },
   "today": {
     "contacts": 1,
     "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 5,
+    "uniqueTextsSent": 8,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 3,
+    "uniqueTextsResponded": 5,
     "calledContacts": [
       {
         "name": "Travis Morris",
@@ -26,6 +26,24 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "David Rucker",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-05-27T17:19:34.033Z"
+      },
+      {
+        "name": "Sonia Traywick Boirum",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T16:44:18.889Z"
+      },
+      {
+        "name": "Tessa Roloson",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-05-27T16:42:47.440Z"
+      },
       {
         "name": "Travis Morris",
         "texts": 3,
@@ -251,9 +269,9 @@
     {
       "date": "2026-05-27",
       "uniqueCallsAttempted": 2,
-      "uniqueTextsSent": 5,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 3
+      "uniqueTextsResponded": 5
     }
   ],
   "conversationsScanned": 250
