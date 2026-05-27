@@ -1,22 +1,28 @@
 {
-  "generatedAt": "2026-05-27T18:39:34.341Z",
+  "generatedAt": "2026-05-27T19:21:08.520Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T18:38:45.976Z"
+    "nowIso": "2026-05-27T19:19:47.210Z"
   },
   "today": {
     "contacts": 1,
-    "uniqueCallsAttempted": 17,
-    "uniqueTextsSent": 21,
+    "uniqueCallsAttempted": 18,
+    "uniqueTextsSent": 25,
     "uniqueCallsAnswered": 4,
     "uniqueTextsResponded": 6,
     "calledContacts": [
       {
+        "name": "Douglas S Diffendall",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T18:39:26.705Z"
+      },
+      {
         "name": "Jimmy Nutron",
         "calls": 2,
         "answered": false,
-        "lastAt": "2026-05-27T18:38:46.769Z"
+        "lastAt": "2026-05-27T18:38:59.390Z"
       },
       {
         "name": "Jason F. Miller",
@@ -116,6 +122,30 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Mira Johnson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T19:18:50.371Z"
+      },
+      {
+        "name": "Richard Edwards",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T18:53:22.236Z"
+      },
+      {
+        "name": "Randy Shepherd",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T18:52:22.129Z"
+      },
+      {
+        "name": "Jimmy Nutron",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T18:38:59.390Z"
+      },
       {
         "name": "Cory Fuller",
         "texts": 1,
@@ -246,15 +276,15 @@
   },
   "mtd": {
     "contacts": 188,
-    "uniqueCallsAttempted": 87,
-    "uniqueTextsSent": 199,
+    "uniqueCallsAttempted": 86,
+    "uniqueTextsSent": 200,
     "uniqueCallsAnswered": 37,
-    "uniqueTextsResponded": 67
+    "uniqueTextsResponded": 68
   },
   "daily": [
     {
       "date": "2026-05-01",
-      "uniqueCallsAttempted": 7,
+      "uniqueCallsAttempted": 6,
       "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 1
@@ -275,28 +305,28 @@
     },
     {
       "date": "2026-05-04",
-      "uniqueCallsAttempted": 9,
-      "uniqueTextsSent": 16,
+      "uniqueCallsAttempted": 8,
+      "uniqueTextsSent": 15,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-05",
-      "uniqueCallsAttempted": 7,
-      "uniqueTextsSent": 10,
+      "uniqueCallsAttempted": 6,
+      "uniqueTextsSent": 9,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 2
     },
     {
       "date": "2026-05-06",
-      "uniqueCallsAttempted": 6,
-      "uniqueTextsSent": 9,
+      "uniqueCallsAttempted": 5,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-07",
-      "uniqueCallsAttempted": 7,
+      "uniqueCallsAttempted": 6,
       "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 3
@@ -324,7 +354,7 @@
     },
     {
       "date": "2026-05-11",
-      "uniqueCallsAttempted": 16,
+      "uniqueCallsAttempted": 15,
       "uniqueTextsSent": 22,
       "uniqueCallsAnswered": 5,
       "uniqueTextsResponded": 2
@@ -338,7 +368,7 @@
     },
     {
       "date": "2026-05-13",
-      "uniqueCallsAttempted": 15,
+      "uniqueCallsAttempted": 14,
       "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 5
@@ -352,7 +382,7 @@
     },
     {
       "date": "2026-05-15",
-      "uniqueCallsAttempted": 13,
+      "uniqueCallsAttempted": 12,
       "uniqueTextsSent": 18,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 6
@@ -436,8 +466,8 @@
     },
     {
       "date": "2026-05-27",
-      "uniqueCallsAttempted": 17,
-      "uniqueTextsSent": 21,
+      "uniqueCallsAttempted": 18,
+      "uniqueTextsSent": 25,
       "uniqueCallsAnswered": 4,
       "uniqueTextsResponded": 6
     }
