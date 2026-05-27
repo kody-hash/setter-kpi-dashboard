@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Setter KPI Dashboard — Top Drawer Cabinetry</title>
+<title>Setter KPI Dashboard - Top Drawer Cabinetry</title>
 <style>
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
@@ -24,6 +24,7 @@
     border-radius: 6px; cursor: pointer; font-size: 12px; color: #1a1a1a; font-weight: 500;
   }
   .refresh-btn:hover { background: #f5f5f5; }
+  .refresh-btn:disabled { opacity: 0.6; cursor: not-allowed; }
   .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
   .card { background: white; border: 1px solid #e3e1dc; border-radius: 10px; padding: 22px; }
   .card .label {
@@ -93,19 +94,20 @@
 <body>
 <div class="wrap">
   <div class="header">
-    <h1>Setter KPI — <span id="today-date">Today</span></h1>
+    <h1>Setter KPI - <span id="today-date">Today</span></h1>
     <div class="meta">
-      <span id="updated">Loading…</span>
+      <span id="updated">Loading...</span>
       <button class="refresh-btn" id="refresh-btn" type="button">Refresh</button>
     </div>
   </div>
-  <div id="content"><div class="loading">Loading data…</div></div>
+  <div id="content"><div class="loading">Loading data...</div></div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js"></script>
 <script>
   const CALL_TARGET = 30;
   const TEXT_TARGET = 50;
+  const WORKER_URL = "https://setter-kpi-refresh.kody-5c1.workers.dev/";
   let chartInstance = null;
 
   function classFor(actual, target) {
@@ -116,7 +118,7 @@
   function labelFor(actual, target) {
     if (actual >= target) return "Target hit (" + actual + "/" + target + ")";
     const pct = Math.round((actual / target) * 100);
-    return pct + "% of goal — " + (target - actual) + " to go";
+    return pct + "% of goal - " + (target - actual) + " to go";
   }
   function escapeHtml(s) {
     return String(s || "").replace(/[&<>"']/g, ch =>
@@ -166,7 +168,7 @@
       const status = kind === "calls"
         ? (lead.answered ? '<span class="badge green">Answered</span>' : '<span class="badge gray">No answer</span>')
         : (lead.responded ? '<span class="badge green">Responded</span>' : '<span class="badge gray">No reply</span>');
-      const repeated = count > 1 ? ` &middot; ${count}×` : "";
+      const repeated = count > 1 ? ` &middot; ${count}x` : "";
       return `<li>
         <div class="lead-name">${escapeHtml(name)}<div class="lead-meta">${shortTime(lead.lastAt)}${repeated}</div></div>
         ${status}
@@ -183,7 +185,7 @@
           <div class="number">${callsToday}<span class="target"> / ${CALL_TARGET}</span></div>
           <div class="bar ${callsClass}"><div style="width:${callsPct}%"></div></div>
           <div class="status ${callsClass}">${labelFor(callsToday, CALL_TARGET)}</div>
-          <div class="sub"><span class="k">Answered (≥30s)</span><span class="v">${answeredToday}<span class="pct">${ansPct}%</span></span></div>
+          <div class="sub"><span class="k">Answered (>=30s)</span><span class="v">${answeredToday}<span class="pct">${ansPct}%</span></span></div>
           <div class="mtd">MTD: <strong>${m.uniqueCallsAttempted || 0}</strong> unique called &middot; <strong>${m.uniqueCallsAnswered || 0}</strong> answered</div>
         </div>
         <div class="card">
@@ -196,11 +198,11 @@
         </div>
       </div>
       <div class="chart-card">
-        <h2>Last 7 days — unique leads attempted</h2>
+        <h2>Last 7 days - unique leads attempted</h2>
         <div class="chart-wrap"><canvas id="trend"></canvas></div>
       </div>
       <div class="lists-wrap">
-        <h2>Today's leads — spot check</h2>
+        <h2>Today's leads - spot check</h2>
         <div class="lists-grid">
           <div class="list-col">
             <h3>Called <span class="count">${(t.calledContacts || []).length} leads</span></h3>
@@ -214,7 +216,6 @@
       </div>
     `;
 
-    // Build last 7 days chart (Phoenix-local day keys)
     const days = [];
     const PHX_OFFSET_MS = 7 * 60 * 60 * 1000;
     const nowPhx = new Date(Date.now() - PHX_OFFSET_MS);
@@ -257,23 +258,62 @@
   }
 
   async function load() {
-    document.getElementById("updated").textContent = "Loading…";
+    document.getElementById("updated").textContent = "Loading...";
     try {
-      // Cache-bust so we always get the latest data.json (GitHub Pages aggressively caches)
       const url = "data.json?t=" + Date.now();
       const res = await fetch(url);
       if (!res.ok) throw new Error("HTTP " + res.status);
       const data = await res.json();
       render(data);
+      return data;
     } catch (e) {
       document.getElementById("content").innerHTML =
-        `<div class="err"><strong>Couldn't load:</strong> ${e.message || e}. The dashboard auto-refreshes every 15 min during business hours. Try Refresh in a moment.</div>`;
+        `<div class="err"><strong>Couldn\'t load:</strong> ${e.message || e}. The dashboard auto-refreshes every 15 min during business hours. Try Refresh in a moment.</div>`;
       document.getElementById("updated").textContent = "Load failed";
     }
   }
 
-  document.getElementById("refresh-btn").addEventListener("click", load);
-  // Auto-refresh every 5 minutes while page is open
+  async function forceRefresh() {
+    const btn = document.getElementById("refresh-btn");
+    const updatedEl = document.getElementById("updated");
+    btn.disabled = true;
+    const originalLabel = btn.textContent;
+    btn.textContent = "Refreshing...";
+    updatedEl.textContent = "Pulling fresh data from GHL...";
+    try {
+      let beforeAt = null;
+      try { beforeAt = (await (await fetch("data.json?t=" + Date.now())).json()).refreshedAt; } catch (_) {}
+
+      const trig = await fetch(WORKER_URL, { method: "POST", headers: { "Content-Type": "application/json" }, body: "{}" });
+      if (!trig.ok) throw new Error("Trigger failed: HTTP " + trig.status);
+
+      const deadline = Date.now() + 240000;
+      while (Date.now() < deadline) {
+        await new Promise(r => setTimeout(r, 8000));
+        try {
+          const r = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
+          if (r.ok) {
+            const d = await r.json();
+            if (d.refreshedAt && d.refreshedAt !== beforeAt) {
+              render(d);
+              btn.disabled = false;
+              btn.textContent = originalLabel;
+              return;
+            }
+          }
+        } catch (_) {}
+        updatedEl.textContent = "Refreshing... (still pulling)";
+      }
+      updatedEl.textContent = "Refresh timed out - try again in a minute";
+    } catch (e) {
+      updatedEl.textContent = "Refresh failed: " + (e.message || e);
+    } finally {
+      btn.disabled = false;
+      btn.textContent = originalLabel;
+    }
+  }
+
+  document.getElementById("refresh-btn").addEventListener("click", forceRefresh);
   setInterval(load, 5 * 60 * 1000);
   load();
 </script>
