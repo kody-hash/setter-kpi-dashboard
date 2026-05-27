@@ -1,28 +1,70 @@
 {
-  "generatedAt": "2026-05-27T17:55:14.191Z",
+  "generatedAt": "2026-05-27T18:39:34.341Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T17:54:26.336Z"
+    "nowIso": "2026-05-27T18:38:45.976Z"
   },
   "today": {
     "contacts": 1,
-    "uniqueCallsAttempted": 10,
-    "uniqueTextsSent": 16,
-    "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 5,
+    "uniqueCallsAttempted": 17,
+    "uniqueTextsSent": 21,
+    "uniqueCallsAnswered": 4,
+    "uniqueTextsResponded": 6,
     "calledContacts": [
       {
-        "name": "Dan Olin",
+        "name": "Jimmy Nutron",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-05-27T18:38:46.769Z"
+      },
+      {
+        "name": "Jason F. Miller",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-05-27T18:36:46.038Z"
+      },
+      {
+        "name": "Cory Fuller",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-05-27T17:54:04.388Z"
+        "lastAt": "2026-05-27T18:36:26.526Z"
+      },
+      {
+        "name": "Gerry",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-05-27T18:35:25.947Z"
+      },
+      {
+        "name": "Erick Baer",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-05-27T18:25:57.867Z"
+      },
+      {
+        "name": "Doug Klimek",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T18:24:46.087Z"
       },
       {
         "name": "Travis Morris",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-05-27T17:53:54.202Z"
+        "lastAt": "2026-05-27T17:58:31.217Z"
+      },
+      {
+        "name": "Deirdre Lind",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-05-27T17:55:05.308Z"
+      },
+      {
+        "name": "Dan Olin",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T17:54:04.388Z"
       },
       {
         "name": "Desert Elevated Investments",
@@ -75,16 +117,46 @@
     ],
     "textedContacts": [
       {
+        "name": "Cory Fuller",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T18:36:26.526Z"
+      },
+      {
+        "name": "Gerry",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T18:35:25.947Z"
+      },
+      {
+        "name": "Laurie Iben",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T18:28:56.429Z"
+      },
+      {
+        "name": "Justin Roberts",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T18:24:48.521Z"
+      },
+      {
+        "name": "David Detrick",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-05-27T18:08:53.285Z"
+      },
+      {
+        "name": "Travis Morris",
+        "texts": 10,
+        "responded": true,
+        "lastAt": "2026-05-27T17:58:31.217Z"
+      },
+      {
         "name": "Dan Olin",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-05-27T17:54:04.388Z"
-      },
-      {
-        "name": "Travis Morris",
-        "texts": 9,
-        "responded": true,
-        "lastAt": "2026-05-27T17:53:54.202Z"
       },
       {
         "name": "Desert Elevated Investments",
@@ -176,7 +248,7 @@
     "contacts": 188,
     "uniqueCallsAttempted": 87,
     "uniqueTextsSent": 199,
-    "uniqueCallsAnswered": 35,
+    "uniqueCallsAnswered": 37,
     "uniqueTextsResponded": 67
   },
   "daily": [
@@ -364,10 +436,10 @@
     },
     {
       "date": "2026-05-27",
-      "uniqueCallsAttempted": 10,
-      "uniqueTextsSent": 16,
-      "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 5
+      "uniqueCallsAttempted": 17,
+      "uniqueTextsSent": 21,
+      "uniqueCallsAnswered": 4,
+      "uniqueTextsResponded": 6
     }
   ],
   "conversationsScanned": 250
