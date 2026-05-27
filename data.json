@@ -1,18 +1,55 @@
 {
-  "generatedAt": "2026-05-27T15:03:50.376Z",
+  "generatedAt": "2026-05-27T16:43:30.415Z",
   "ranges": {
     "todayIso": "2026-05-27T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-27T15:01:53.157Z"
+    "nowIso": "2026-05-27T16:42:33.230Z"
   },
   "today": {
     "contacts": 1,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 1,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
-    "calledContacts": [],
+    "uniqueCallsAttempted": 2,
+    "uniqueTextsSent": 5,
+    "uniqueCallsAnswered": 1,
+    "uniqueTextsResponded": 3,
+    "calledContacts": [
+      {
+        "name": "Travis Morris",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-05-27T16:41:25.857Z"
+      },
+      {
+        "name": "Andrea Weber-Pomykala",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-05-27T15:51:40.308Z"
+      }
+    ],
     "textedContacts": [
+      {
+        "name": "Travis Morris",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-05-27T16:41:25.857Z"
+      },
+      {
+        "name": "Fabian Zaragoza",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-05-27T16:39:17.132Z"
+      },
+      {
+        "name": "Alan Poland",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-05-27T15:59:20.694Z"
+      },
+      {
+        "name": "Andrea Weber-Pomykala",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-27T15:51:40.308Z"
+      },
       {
         "name": "Elke Seelos",
         "texts": 2,
@@ -23,10 +60,10 @@
   },
   "mtd": {
     "contacts": 188,
-    "uniqueCallsAttempted": 85,
+    "uniqueCallsAttempted": 87,
     "uniqueTextsSent": 199,
-    "uniqueCallsAnswered": 34,
-    "uniqueTextsResponded": 66
+    "uniqueCallsAnswered": 35,
+    "uniqueTextsResponded": 67
   },
   "daily": [
     {
@@ -213,10 +250,10 @@
     },
     {
       "date": "2026-05-27",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 1,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0
+      "uniqueCallsAttempted": 2,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 3
     }
   ],
   "conversationsScanned": 250
