@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-28T23:39:50.526Z",
+  "generatedAt": "2026-05-28T23:43:33.005Z",
   "ranges": {
     "todayIso": "2026-05-28T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-28T23:39:41.657Z"
+    "nowIso": "2026-05-28T23:43:23.943Z"
   },
   "today": {
     "contacts": 7,
@@ -264,10 +264,10 @@
   },
   "mtd": {
     "contacts": 197,
-    "uniqueCallsAttempted": 40,
-    "uniqueTextsSent": 75,
-    "uniqueCallsAnswered": 16,
-    "uniqueTextsResponded": 22
+    "uniqueCallsAttempted": 39,
+    "uniqueTextsSent": 74,
+    "uniqueCallsAnswered": 15,
+    "uniqueTextsResponded": 21
   },
   "daily": [
     {
@@ -364,7 +364,7 @@
     {
       "date": "2026-05-14",
       "uniqueCallsAttempted": 4,
-      "uniqueTextsSent": 4,
+      "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
@@ -392,23 +392,23 @@
     {
       "date": "2026-05-18",
       "uniqueCallsAttempted": 7,
-      "uniqueTextsSent": 8,
+      "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-19",
-      "uniqueCallsAttempted": 14,
-      "uniqueTextsSent": 15,
-      "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 3
+      "uniqueCallsAttempted": 13,
+      "uniqueTextsSent": 14,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-05-20",
       "uniqueCallsAttempted": 14,
-      "uniqueTextsSent": 10,
+      "uniqueTextsSent": 9,
       "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-21",
@@ -434,7 +434,7 @@
     {
       "date": "2026-05-24",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 8,
+      "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
