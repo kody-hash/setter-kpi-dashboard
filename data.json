@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-28T23:33:50.865Z",
+  "generatedAt": "2026-05-28T23:39:50.526Z",
   "ranges": {
     "todayIso": "2026-05-28T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-28T23:33:43.376Z"
+    "nowIso": "2026-05-28T23:39:41.657Z"
   },
   "today": {
     "contacts": 7,
@@ -129,6 +129,12 @@
     ],
     "textedContacts": [
       {
+        "name": "Laurie Iben",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-05-28T23:34:52.458Z"
+      },
+      {
         "name": "Alberto Espinoza",
         "texts": 2,
         "responded": false,
@@ -187,12 +193,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-05-28T20:36:21.000Z"
-      },
-      {
-        "name": "Laurie Iben",
-        "texts": 3,
-        "responded": true,
-        "lastAt": "2026-05-28T18:14:28.172Z"
       },
       {
         "name": "Kris Ontiveros",
@@ -265,7 +265,7 @@
   "mtd": {
     "contacts": 197,
     "uniqueCallsAttempted": 40,
-    "uniqueTextsSent": 76,
+    "uniqueTextsSent": 75,
     "uniqueCallsAnswered": 16,
     "uniqueTextsResponded": 22
   },
@@ -364,7 +364,7 @@
     {
       "date": "2026-05-14",
       "uniqueCallsAttempted": 4,
-      "uniqueTextsSent": 5,
+      "uniqueTextsSent": 4,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
