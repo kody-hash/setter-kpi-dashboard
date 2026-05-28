@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-28T23:15:27.366Z",
+  "generatedAt": "2026-05-28T23:33:50.865Z",
   "ranges": {
     "todayIso": "2026-05-28T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-28T23:15:19.099Z"
+    "nowIso": "2026-05-28T23:33:43.376Z"
   },
   "today": {
-    "contacts": 6,
+    "contacts": 7,
     "uniqueCallsAttempted": 19,
-    "uniqueTextsSent": 21,
+    "uniqueTextsSent": 22,
     "uniqueCallsAnswered": 3,
     "uniqueTextsResponded": 6,
     "calledContacts": [
@@ -128,6 +128,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Alberto Espinoza",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-05-28T23:24:57.229Z"
+      },
       {
         "name": "Dax Mays",
         "texts": 2,
@@ -257,9 +263,9 @@
     ]
   },
   "mtd": {
-    "contacts": 196,
+    "contacts": 197,
     "uniqueCallsAttempted": 40,
-    "uniqueTextsSent": 74,
+    "uniqueTextsSent": 76,
     "uniqueCallsAnswered": 16,
     "uniqueTextsResponded": 22
   },
@@ -414,7 +420,7 @@
     {
       "date": "2026-05-22",
       "uniqueCallsAttempted": 17,
-      "uniqueTextsSent": 14,
+      "uniqueTextsSent": 15,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 4
     },
@@ -456,7 +462,7 @@
     {
       "date": "2026-05-28",
       "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 21,
+      "uniqueTextsSent": 22,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 6
     }
