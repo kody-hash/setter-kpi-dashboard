@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-28T23:43:33.005Z",
+  "generatedAt": "2026-05-28T23:53:36.426Z",
   "ranges": {
     "todayIso": "2026-05-28T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-28T23:43:23.943Z"
+    "nowIso": "2026-05-28T23:53:29.806Z"
   },
   "today": {
     "contacts": 7,
     "uniqueCallsAttempted": 19,
-    "uniqueTextsSent": 22,
+    "uniqueTextsSent": 23,
     "uniqueCallsAnswered": 3,
     "uniqueTextsResponded": 6,
     "calledContacts": [
@@ -128,6 +128,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Kyle Greiert",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-28T23:48:13.303Z"
+      },
       {
         "name": "Laurie Iben",
         "texts": 4,
@@ -264,10 +270,10 @@
   },
   "mtd": {
     "contacts": 197,
-    "uniqueCallsAttempted": 39,
-    "uniqueTextsSent": 74,
-    "uniqueCallsAnswered": 15,
-    "uniqueTextsResponded": 21
+    "uniqueCallsAttempted": 40,
+    "uniqueTextsSent": 75,
+    "uniqueCallsAnswered": 16,
+    "uniqueTextsResponded": 22
   },
   "daily": [
     {
@@ -392,23 +398,23 @@
     {
       "date": "2026-05-18",
       "uniqueCallsAttempted": 7,
-      "uniqueTextsSent": 7,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-05-19",
-      "uniqueCallsAttempted": 13,
-      "uniqueTextsSent": 14,
-      "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 2
+      "uniqueCallsAttempted": 14,
+      "uniqueTextsSent": 15,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 3
     },
     {
       "date": "2026-05-20",
       "uniqueCallsAttempted": 14,
-      "uniqueTextsSent": 9,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 0
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-05-21",
@@ -420,7 +426,7 @@
     {
       "date": "2026-05-22",
       "uniqueCallsAttempted": 17,
-      "uniqueTextsSent": 15,
+      "uniqueTextsSent": 14,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 4
     },
@@ -462,7 +468,7 @@
     {
       "date": "2026-05-28",
       "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 22,
+      "uniqueTextsSent": 23,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 6
     }
