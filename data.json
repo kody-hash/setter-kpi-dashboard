@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-28T23:53:36.426Z",
+  "generatedAt": "2026-05-29T01:48:44.196Z",
   "ranges": {
     "todayIso": "2026-05-28T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-28T23:53:29.806Z"
+    "nowIso": "2026-05-29T01:48:36.048Z"
   },
   "today": {
     "contacts": 7,
     "uniqueCallsAttempted": 19,
-    "uniqueTextsSent": 23,
+    "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 3,
     "uniqueTextsResponded": 6,
     "calledContacts": [
@@ -128,6 +128,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Austyn Hineman",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-05-29T00:19:31.831Z"
+      },
       {
         "name": "Kyle Greiert",
         "texts": 1,
@@ -370,7 +376,7 @@
     {
       "date": "2026-05-14",
       "uniqueCallsAttempted": 4,
-      "uniqueTextsSent": 5,
+      "uniqueTextsSent": 4,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
@@ -440,7 +446,7 @@
     {
       "date": "2026-05-24",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 7,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
@@ -468,7 +474,7 @@
     {
       "date": "2026-05-28",
       "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 23,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 6
     }
