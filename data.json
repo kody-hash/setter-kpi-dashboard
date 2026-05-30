@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-30T01:28:12.593Z",
+  "generatedAt": "2026-05-30T02:57:29.591Z",
   "ranges": {
     "todayIso": "2026-05-29T07:00:00.000Z",
     "monthIso": "2026-05-01T07:00:00.000Z",
-    "nowIso": "2026-05-30T01:28:06.208Z"
+    "nowIso": "2026-05-30T02:57:20.987Z"
   },
   "today": {
     "contacts": 3,
@@ -41,8 +41,8 @@
   },
   "mtd": {
     "contacts": 201,
-    "uniqueCallsAttempted": 39,
-    "uniqueTextsSent": 74,
+    "uniqueCallsAttempted": 38,
+    "uniqueTextsSent": 73,
     "uniqueCallsAnswered": 15,
     "uniqueTextsResponded": 21
   },
@@ -190,7 +190,7 @@
     {
       "date": "2026-05-21",
       "uniqueCallsAttempted": 16,
-      "uniqueTextsSent": 17,
+      "uniqueTextsSent": 16,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 1
     },
@@ -224,8 +224,8 @@
     },
     {
       "date": "2026-05-26",
-      "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 25,
+      "uniqueCallsAttempted": 26,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 5,
       "uniqueTextsResponded": 5
     },
