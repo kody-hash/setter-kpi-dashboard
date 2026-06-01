@@ -1,18 +1,42 @@
 {
-  "generatedAt": "2026-06-01T19:22:21.320Z",
+  "generatedAt": "2026-06-01T22:20:58.851Z",
   "ranges": {
     "todayIso": "2026-06-01T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-01T19:22:19.566Z"
+    "nowIso": "2026-06-01T22:20:56.437Z"
   },
   "today": {
-    "contacts": 2,
+    "contacts": 7,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 6,
+    "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1,
+    "uniqueTextsResponded": 2,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Guy Cooksey",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-01T21:38:02.875Z"
+      },
+      {
+        "name": "Jose Flores",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-01T20:48:48.178Z"
+      },
+      {
+        "name": "Randy Wood",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-01T20:36:38.344Z"
+      },
+      {
+        "name": "Lori Simpson",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-01T19:27:05.813Z"
+      },
       {
         "name": "Isaac Curtis",
         "texts": 1,
@@ -52,20 +76,20 @@
     ]
   },
   "mtd": {
-    "contacts": 2,
+    "contacts": 7,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 6,
+    "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1
+    "uniqueTextsResponded": 2
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 6,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 2
     }
   ],
-  "conversationsScanned": 13
+  "conversationsScanned": 19
 }
