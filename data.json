@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-01T17:54:14.807Z",
+  "generatedAt": "2026-06-01T19:22:21.320Z",
   "ranges": {
     "todayIso": "2026-06-01T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-01T17:54:13.302Z"
+    "nowIso": "2026-06-01T19:22:19.566Z"
   },
   "today": {
     "contacts": 2,
@@ -67,5 +67,5 @@
       "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 12
+  "conversationsScanned": 13
 }
