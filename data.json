@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-06-01T22:20:58.851Z",
+  "generatedAt": "2026-06-01T23:51:26.777Z",
   "ranges": {
     "todayIso": "2026-06-01T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-01T22:20:56.437Z"
+    "nowIso": "2026-06-01T23:51:24.221Z"
   },
   "today": {
     "contacts": 7,
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 2,
+    "uniqueTextsResponded": 3,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Jose Flores",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-01T23:38:04.365Z"
+      },
       {
         "name": "Guy Cooksey",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-01T21:38:02.875Z"
-      },
-      {
-        "name": "Jose Flores",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-01T20:48:48.178Z"
       },
       {
         "name": "Randy Wood",
@@ -80,7 +80,7 @@
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 2
+    "uniqueTextsResponded": 3
   },
   "daily": [
     {
@@ -88,8 +88,8 @@
       "uniqueCallsAttempted": 0,
       "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 2
+      "uniqueTextsResponded": 3
     }
   ],
-  "conversationsScanned": 19
+  "conversationsScanned": 20
 }
