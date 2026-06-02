@@ -1,18 +1,54 @@
 {
-  "generatedAt": "2026-06-02T21:24:37.638Z",
+  "generatedAt": "2026-06-02T23:16:25.100Z",
   "ranges": {
     "todayIso": "2026-06-02T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-02T21:24:35.730Z"
+    "nowIso": "2026-06-02T23:16:22.590Z"
   },
   "today": {
-    "contacts": 8,
+    "contacts": 10,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 11,
+    "uniqueTextsSent": 17,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
+    "uniqueTextsResponded": 1,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Geo Are",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T23:08:19.786Z"
+      },
+      {
+        "name": "Colleen Byrne Halverson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T22:39:54.453Z"
+      },
+      {
+        "name": "Teddy Archuleta",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-02T21:28:58.600Z"
+      },
+      {
+        "name": "Cory Neumeyer",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T21:26:36.754Z"
+      },
+      {
+        "name": "Jose Socorro Acosta Nava",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T21:25:36.345Z"
+      },
+      {
+        "name": "Jared Palmer",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T21:24:45.582Z"
+      },
       {
         "name": "Scott Muhly",
         "texts": 1,
@@ -82,11 +118,11 @@
     ]
   },
   "mtd": {
-    "contacts": 19,
+    "contacts": 21,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 25,
+    "uniqueTextsSent": 31,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 4
+    "uniqueTextsResponded": 5
   },
   "daily": [
     {
@@ -99,10 +135,10 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 11,
+      "uniqueTextsSent": 17,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0
+      "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 38
+  "conversationsScanned": 43
 }
