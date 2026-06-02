@@ -1,113 +1,84 @@
 {
-  "generatedAt": "2026-06-02T03:54:06.281Z",
+  "generatedAt": "2026-06-02T18:06:53.157Z",
   "ranges": {
-    "todayIso": "2026-06-01T07:00:00.000Z",
+    "todayIso": "2026-06-02T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-02T03:54:05.047Z"
+    "nowIso": "2026-06-02T18:06:49.256Z"
   },
   "today": {
-    "contacts": 10,
+    "contacts": 5,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 13,
+    "uniqueTextsSent": 7,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 3,
+    "uniqueTextsResponded": 0,
     "calledContacts": [],
     "textedContacts": [
       {
-        "name": "Christopher Dunbar",
+        "name": "Alberto Varajas",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-02T03:18:49.109Z"
+        "lastAt": "2026-06-02T17:13:08.938Z"
       },
       {
-        "name": "Scott Herrell",
+        "name": "Tru Home Repairs Llc",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-02T01:01:53.493Z"
+        "lastAt": "2026-06-02T15:41:53.329Z"
       },
       {
-        "name": "Jackie Winderman-Shore",
+        "name": "Adam Ogle",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T15:13:26.605Z"
+      },
+      {
+        "name": "Jeff Haymaker",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T15:12:18.847Z"
+      },
+      {
+        "name": "Carlos Calkins",
         "texts": 2,
         "responded": false,
-        "lastAt": "2026-06-02T00:57:22.226Z"
+        "lastAt": "2026-06-02T14:08:51.295Z"
       },
       {
-        "name": "Jose Flores",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-01T23:38:04.365Z"
-      },
-      {
-        "name": "Guy Cooksey",
+        "name": "Ricky Ricardo",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-01T21:38:02.875Z"
+        "lastAt": "2026-06-02T13:25:31.288Z"
       },
       {
-        "name": "Randy Wood",
+        "name": "Candice Combs",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-01T20:36:38.344Z"
-      },
-      {
-        "name": "Lori Simpson",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-06-01T19:27:05.813Z"
-      },
-      {
-        "name": "Isaac Curtis",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-01T17:48:13.059Z"
-      },
-      {
-        "name": "Bill Kuniej",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-01T15:26:13.993Z"
-      },
-      {
-        "name": "Manny Silva",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-01T15:21:17.650Z"
-      },
-      {
-        "name": "Adam Campbell",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-01T14:42:07.392Z"
-      },
-      {
-        "name": "Phil Sarkisian",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-01T14:25:43.217Z"
-      },
-      {
-        "name": "Kris Ontiveros",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-01T14:12:27.647Z"
+        "lastAt": "2026-06-02T13:19:40.792Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 10,
+    "contacts": 16,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 13,
+    "uniqueTextsSent": 21,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 3
+    "uniqueTextsResponded": 4
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 13,
+      "uniqueTextsSent": 14,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 3
+      "uniqueTextsResponded": 4
+    },
+    {
+      "date": "2026-06-02",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 7,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 0
     }
   ],
-  "conversationsScanned": 24
+  "conversationsScanned": 33
 }
