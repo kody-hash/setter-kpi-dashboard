@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-06-01T23:51:26.777Z",
+  "generatedAt": "2026-06-02T03:54:06.281Z",
   "ranges": {
     "todayIso": "2026-06-01T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-01T23:51:24.221Z"
+    "nowIso": "2026-06-02T03:54:05.047Z"
   },
   "today": {
-    "contacts": 7,
+    "contacts": 10,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 10,
+    "uniqueTextsSent": 13,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 3,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Christopher Dunbar",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T03:18:49.109Z"
+      },
+      {
+        "name": "Scott Herrell",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-02T01:01:53.493Z"
+      },
+      {
+        "name": "Jackie Winderman-Shore",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-02T00:57:22.226Z"
+      },
       {
         "name": "Jose Flores",
         "texts": 2,
@@ -44,7 +62,7 @@
         "lastAt": "2026-06-01T17:48:13.059Z"
       },
       {
-        "name": "Bill K",
+        "name": "Bill Kuniej",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-01T15:26:13.993Z"
@@ -76,9 +94,9 @@
     ]
   },
   "mtd": {
-    "contacts": 7,
+    "contacts": 10,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 10,
+    "uniqueTextsSent": 13,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 3
   },
@@ -86,10 +104,10 @@
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 10,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 3
     }
   ],
-  "conversationsScanned": 20
+  "conversationsScanned": 24
 }
