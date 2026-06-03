@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-03T18:24:13.348Z",
+  "generatedAt": "2026-06-03T21:35:46.766Z",
   "ranges": {
     "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-03T18:24:10.728Z"
+    "nowIso": "2026-06-03T21:35:42.729Z"
   },
   "today": {
-    "contacts": 1,
+    "contacts": 6,
     "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 8,
+    "uniqueTextsSent": 15,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 3,
+    "uniqueTextsResponded": 5,
     "calledContacts": [
       {
         "name": "Elliot Campbell",
@@ -27,10 +27,58 @@
     ],
     "textedContacts": [
       {
-        "name": "Green Zone Concrete & Construction",
+        "name": "James Mack",
         "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T21:27:54.888Z"
+      },
+      {
+        "name": "Dax Mays",
+        "texts": 2,
         "responded": true,
-        "lastAt": "2026-06-03T18:15:05.769Z"
+        "lastAt": "2026-06-03T21:24:33.217Z"
+      },
+      {
+        "name": "Lori Simpson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T21:24:01.000Z"
+      },
+      {
+        "name": "Bill Kuniej",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-03T21:18:04.383Z"
+      },
+      {
+        "name": "Tadd P",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-03T20:59:19.169Z"
+      },
+      {
+        "name": "Green Zone Concrete & Construction",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-03T20:46:52.671Z"
+      },
+      {
+        "name": "Jose Hernandez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T20:16:34.533Z"
+      },
+      {
+        "name": "Ryan Dame",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T18:58:29.110Z"
+      },
+      {
+        "name": "Brian Shulda",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T18:57:38.651Z"
       },
       {
         "name": "Tyler Shipman",
@@ -43,12 +91,6 @@
         "texts": 2,
         "responded": true,
         "lastAt": "2026-06-03T16:52:39.708Z"
-      },
-      {
-        "name": "Bill Kuniej",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-03T16:38:15.388Z"
       },
       {
         "name": "Kris Blanchard",
@@ -77,11 +119,11 @@
     ]
   },
   "mtd": {
-    "contacts": 26,
+    "contacts": 31,
     "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 42,
+    "uniqueTextsSent": 47,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 8
+    "uniqueTextsResponded": 10
   },
   "daily": [
     {
@@ -101,10 +143,10 @@
     {
       "date": "2026-06-03",
       "uniqueCallsAttempted": 2,
-      "uniqueTextsSent": 8,
+      "uniqueTextsSent": 15,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 3
+      "uniqueTextsResponded": 5
     }
   ],
-  "conversationsScanned": 54
+  "conversationsScanned": 61
 }
