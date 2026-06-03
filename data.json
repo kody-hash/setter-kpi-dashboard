@@ -1,22 +1,58 @@
 {
-  "generatedAt": "2026-06-03T22:07:20.507Z",
+  "generatedAt": "2026-06-03T22:29:37.876Z",
   "ranges": {
     "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-03T22:07:16.028Z"
+    "nowIso": "2026-06-03T22:29:35.285Z"
   },
   "today": {
-    "contacts": 7,
-    "uniqueCallsAttempted": 3,
-    "uniqueTextsSent": 20,
-    "uniqueCallsAnswered": 1,
+    "contacts": 8,
+    "uniqueCallsAttempted": 9,
+    "uniqueTextsSent": 26,
+    "uniqueCallsAnswered": 2,
     "uniqueTextsResponded": 7,
     "calledContacts": [
+      {
+        "name": "Rob Getzelman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:21:25.937Z"
+      },
+      {
+        "name": "Katrina Mott",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:20:11.177Z"
+      },
+      {
+        "name": "Sergioaldaco",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T22:16:41.140Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:15:59.424Z"
+      },
+      {
+        "name": "Lawrence Naranjo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:15:36.786Z"
+      },
+      {
+        "name": "Vince Reyes",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:15:07.567Z"
+      },
       {
         "name": "Diana Mena",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-06-03T22:04:43.997Z"
+        "lastAt": "2026-06-03T22:10:47.061Z"
       },
       {
         "name": "Elliot Campbell",
@@ -32,6 +68,42 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Katrina Mott",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:20:11.177Z"
+      },
+      {
+        "name": "Dan Matson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:19:15.108Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:15:59.424Z"
+      },
+      {
+        "name": "Lawrence Naranjo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:15:36.786Z"
+      },
+      {
+        "name": "Vince Reyes",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:15:07.567Z"
+      },
+      {
+        "name": "Diana Mena",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:10:47.061Z"
+      },
       {
         "name": "Diana Rodriquez",
         "texts": 1,
@@ -155,10 +227,10 @@
     ]
   },
   "mtd": {
-    "contacts": 32,
-    "uniqueCallsAttempted": 3,
-    "uniqueTextsSent": 52,
-    "uniqueCallsAnswered": 1,
+    "contacts": 33,
+    "uniqueCallsAttempted": 9,
+    "uniqueTextsSent": 58,
+    "uniqueCallsAnswered": 2,
     "uniqueTextsResponded": 11
   },
   "daily": [
@@ -178,11 +250,11 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 3,
-      "uniqueTextsSent": 20,
-      "uniqueCallsAnswered": 1,
+      "uniqueCallsAttempted": 9,
+      "uniqueTextsSent": 26,
+      "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 7
     }
   ],
-  "conversationsScanned": 68
+  "conversationsScanned": 75
 }
