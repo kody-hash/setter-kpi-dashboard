@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-06-03T21:35:46.766Z",
+  "generatedAt": "2026-06-03T22:07:20.507Z",
   "ranges": {
     "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-03T21:35:42.729Z"
+    "nowIso": "2026-06-03T22:07:16.028Z"
   },
   "today": {
-    "contacts": 6,
-    "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 15,
+    "contacts": 7,
+    "uniqueCallsAttempted": 3,
+    "uniqueTextsSent": 20,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 5,
+    "uniqueTextsResponded": 7,
     "calledContacts": [
+      {
+        "name": "Diana Mena",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:04:43.997Z"
+      },
       {
         "name": "Elliot Campbell",
         "calls": 1,
@@ -27,9 +33,45 @@
     ],
     "textedContacts": [
       {
-        "name": "James Mack",
+        "name": "Diana Rodriquez",
         "texts": 1,
         "responded": false,
+        "lastAt": "2026-06-03T21:43:00.416Z"
+      },
+      {
+        "name": "Brian Shulda",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-03T21:39:51.897Z"
+      },
+      {
+        "name": "Mario Vasquez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T21:39:27.222Z"
+      },
+      {
+        "name": "Gary Peters",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T21:38:15.240Z"
+      },
+      {
+        "name": "Austin Orr",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T21:37:23.284Z"
+      },
+      {
+        "name": "Camila Espino",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T21:36:25.466Z"
+      },
+      {
+        "name": "James Mack",
+        "texts": 1,
+        "responded": true,
         "lastAt": "2026-06-03T21:27:54.888Z"
       },
       {
@@ -65,7 +107,7 @@
       {
         "name": "Jose Hernandez",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-03T20:16:34.533Z"
       },
       {
@@ -73,12 +115,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-03T18:58:29.110Z"
-      },
-      {
-        "name": "Brian Shulda",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-03T18:57:38.651Z"
       },
       {
         "name": "Tyler Shipman",
@@ -119,11 +155,11 @@
     ]
   },
   "mtd": {
-    "contacts": 31,
-    "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 47,
+    "contacts": 32,
+    "uniqueCallsAttempted": 3,
+    "uniqueTextsSent": 52,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 10
+    "uniqueTextsResponded": 11
   },
   "daily": [
     {
@@ -142,11 +178,11 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 2,
-      "uniqueTextsSent": 15,
+      "uniqueCallsAttempted": 3,
+      "uniqueTextsSent": 20,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 5
+      "uniqueTextsResponded": 7
     }
   ],
-  "conversationsScanned": 61
+  "conversationsScanned": 68
 }
