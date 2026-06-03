@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-06-02T23:16:25.100Z",
+  "generatedAt": "2026-06-03T02:09:26.449Z",
   "ranges": {
     "todayIso": "2026-06-02T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-02T23:16:22.590Z"
+    "nowIso": "2026-06-03T02:09:24.029Z"
   },
   "today": {
-    "contacts": 10,
+    "contacts": 12,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 17,
+    "uniqueTextsSent": 19,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 1,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Guy Wood",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-03T01:13:54.043Z"
+      },
+      {
+        "name": "Cameron Tate",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-03T00:11:32.688Z"
+      },
       {
         "name": "Geo Are",
         "texts": 1,
@@ -118,9 +130,9 @@
     ]
   },
   "mtd": {
-    "contacts": 21,
+    "contacts": 23,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 31,
+    "uniqueTextsSent": 33,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 5
   },
@@ -135,10 +147,10 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 17,
+      "uniqueTextsSent": 19,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 43
+  "conversationsScanned": 45
 }
