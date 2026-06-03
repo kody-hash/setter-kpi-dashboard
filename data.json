@@ -1,22 +1,124 @@
 {
-  "generatedAt": "2026-06-03T22:29:37.876Z",
+  "generatedAt": "2026-06-03T23:23:43.555Z",
   "ranges": {
     "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-03T22:29:35.285Z"
+    "nowIso": "2026-06-03T23:23:40.451Z"
   },
   "today": {
-    "contacts": 8,
-    "uniqueCallsAttempted": 9,
-    "uniqueTextsSent": 26,
-    "uniqueCallsAnswered": 2,
-    "uniqueTextsResponded": 7,
+    "contacts": 10,
+    "uniqueCallsAttempted": 26,
+    "uniqueTextsSent": 38,
+    "uniqueCallsAnswered": 10,
+    "uniqueTextsResponded": 10,
     "calledContacts": [
+      {
+        "name": "Colleen Byrne Halverson",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T23:21:54.837Z"
+      },
+      {
+        "name": "Laura Jean",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:16:42.870Z"
+      },
+      {
+        "name": "Carlos Calkins",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:15:37.720Z"
+      },
+      {
+        "name": "Ricky Ricardo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:09:32.255Z"
+      },
+      {
+        "name": "Candice Combs",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T23:09:20.725Z"
+      },
+      {
+        "name": "Christopher Dunbar",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:07:03.551Z"
+      },
+      {
+        "name": "Scott Herrell",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T23:06:26.508Z"
+      },
+      {
+        "name": "Christiana King",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:03:09.811Z"
+      },
+      {
+        "name": "Jackie Winderman-Shore",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T23:00:46.544Z"
+      },
+      {
+        "name": "Guy Cooksey",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:00:19.321Z"
+      },
+      {
+        "name": "Randy Wood",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T22:56:48.321Z"
+      },
+      {
+        "name": "Adam Campbell",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T22:55:27.948Z"
+      },
+      {
+        "name": "Phil Sarkisian",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T22:54:53.882Z"
+      },
+      {
+        "name": "Alison",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:49:41.261Z"
+      },
+      {
+        "name": "Dave Lee",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:48:49.775Z"
+      },
+      {
+        "name": "Colby Macumber",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T22:47:04.506Z"
+      },
       {
         "name": "Rob Getzelman",
         "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T22:45:59.819Z"
+      },
+      {
+        "name": "Ernesto Diaz",
+        "calls": 1,
         "answered": false,
-        "lastAt": "2026-06-03T22:21:25.937Z"
+        "lastAt": "2026-06-03T22:42:29.259Z"
       },
       {
         "name": "Katrina Mott",
@@ -69,13 +171,85 @@
     ],
     "textedContacts": [
       {
+        "name": "Colleen Byrne Halverson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:21:54.837Z"
+      },
+      {
+        "name": "Laura Jean",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:16:42.870Z"
+      },
+      {
+        "name": "Carlos Calkins",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-03T23:15:37.720Z"
+      },
+      {
+        "name": "Candice Combs",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:09:20.725Z"
+      },
+      {
+        "name": "Scott Herrell",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:06:26.508Z"
+      },
+      {
+        "name": "Christiana King",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:03:09.811Z"
+      },
+      {
+        "name": "Guy Cooksey",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:00:19.321Z"
+      },
+      {
+        "name": "Phil Sarkisian",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:54:53.882Z"
+      },
+      {
+        "name": "Alison",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-03T22:49:41.261Z"
+      },
+      {
+        "name": "Dave Lee",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-03T22:48:49.775Z"
+      },
+      {
+        "name": "Colby Macumber",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:47:04.506Z"
+      },
+      {
+        "name": "Rob Getzelman",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T22:45:59.819Z"
+      },
+      {
         "name": "Katrina Mott",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-03T22:20:11.177Z"
       },
       {
-        "name": "Dan Matson",
+        "name": "Daniel Matson",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-03T22:19:15.108Z"
@@ -227,11 +401,11 @@
     ]
   },
   "mtd": {
-    "contacts": 33,
-    "uniqueCallsAttempted": 9,
-    "uniqueTextsSent": 58,
-    "uniqueCallsAnswered": 2,
-    "uniqueTextsResponded": 11
+    "contacts": 35,
+    "uniqueCallsAttempted": 26,
+    "uniqueTextsSent": 63,
+    "uniqueCallsAnswered": 10,
+    "uniqueTextsResponded": 14
   },
   "daily": [
     {
@@ -250,11 +424,11 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 9,
-      "uniqueTextsSent": 26,
-      "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 7
+      "uniqueCallsAttempted": 26,
+      "uniqueTextsSent": 38,
+      "uniqueCallsAnswered": 10,
+      "uniqueTextsResponded": 10
     }
   ],
-  "conversationsScanned": 75
+  "conversationsScanned": 82
 }
