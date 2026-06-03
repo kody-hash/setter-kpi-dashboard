@@ -1,140 +1,87 @@
 {
-  "generatedAt": "2026-06-03T04:00:19.086Z",
+  "generatedAt": "2026-06-03T18:24:13.348Z",
   "ranges": {
-    "todayIso": "2026-06-02T07:00:00.000Z",
+    "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-03T04:00:16.315Z"
+    "nowIso": "2026-06-03T18:24:10.728Z"
   },
   "today": {
-    "contacts": 12,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 19,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1,
-    "calledContacts": [],
+    "contacts": 1,
+    "uniqueCallsAttempted": 2,
+    "uniqueTextsSent": 8,
+    "uniqueCallsAnswered": 1,
+    "uniqueTextsResponded": 3,
+    "calledContacts": [
+      {
+        "name": "Elliot Campbell",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T16:43:39.882Z"
+      },
+      {
+        "name": "Kris Blanchard",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T16:37:18.027Z"
+      }
+    ],
     "textedContacts": [
       {
-        "name": "Guy Wood",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-03T01:13:54.043Z"
-      },
-      {
-        "name": "Cameron Tate",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-03T00:11:32.688Z"
-      },
-      {
-        "name": "Geo Are",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T23:08:19.786Z"
-      },
-      {
-        "name": "Colleen Byrne Halverson",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T22:39:54.453Z"
-      },
-      {
-        "name": "Teddy Archuleta",
+        "name": "Green Zone Concrete & Construction",
         "texts": 1,
         "responded": true,
-        "lastAt": "2026-06-02T21:28:58.600Z"
+        "lastAt": "2026-06-03T18:15:05.769Z"
       },
       {
-        "name": "Cory Neumeyer",
+        "name": "Tyler Shipman",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-02T21:26:36.754Z"
+        "lastAt": "2026-06-03T17:42:49.698Z"
       },
       {
-        "name": "Jose Socorro Acosta Nava",
+        "name": "Kristi Harris",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-03T16:52:39.708Z"
+      },
+      {
+        "name": "Bill Kuniej",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-03T16:38:15.388Z"
+      },
+      {
+        "name": "Kris Blanchard",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-02T21:25:36.345Z"
+        "lastAt": "2026-06-03T16:37:18.027Z"
       },
       {
-        "name": "Jared Palmer",
+        "name": "Kevin Roever",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-02T21:24:45.582Z"
+        "lastAt": "2026-06-03T16:16:49.435Z"
       },
       {
-        "name": "Scott Muhly",
+        "name": "Adam Johnson",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-02T21:24:15.155Z"
+        "lastAt": "2026-06-03T15:20:36.402Z"
       },
       {
-        "name": "Michael Innes",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T20:26:18.297Z"
-      },
-      {
-        "name": "Laura Jean",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T18:23:27.989Z"
-      },
-      {
-        "name": "Nic Palladino",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T18:23:17.415Z"
-      },
-      {
-        "name": "Alberto Varajas",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T17:13:08.938Z"
-      },
-      {
-        "name": "Tru Home Repairs Llc",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T15:41:53.329Z"
-      },
-      {
-        "name": "Adam Ogle",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T15:13:26.605Z"
-      },
-      {
-        "name": "Jeff Haymaker",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T15:12:18.847Z"
-      },
-      {
-        "name": "Carlos Calkins",
+        "name": "Denise Dunne",
         "texts": 2,
         "responded": false,
-        "lastAt": "2026-06-02T14:08:51.295Z"
-      },
-      {
-        "name": "Ricky Ricardo",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T13:25:31.288Z"
-      },
-      {
-        "name": "Candice Combs",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-02T13:19:40.792Z"
+        "lastAt": "2026-06-03T14:31:06.977Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 23,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 33,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 5
+    "contacts": 26,
+    "uniqueCallsAttempted": 2,
+    "uniqueTextsSent": 42,
+    "uniqueCallsAnswered": 1,
+    "uniqueTextsResponded": 8
   },
   "daily": [
     {
@@ -147,10 +94,17 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 19,
+      "uniqueTextsSent": 21,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
+    },
+    {
+      "date": "2026-06-03",
+      "uniqueCallsAttempted": 2,
+      "uniqueTextsSent": 8,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 3
     }
   ],
-  "conversationsScanned": 45
+  "conversationsScanned": 54
 }
