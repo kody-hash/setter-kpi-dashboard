@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-04T02:06:43.453Z",
+  "generatedAt": "2026-06-04T03:55:33.042Z",
   "ranges": {
     "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T02:06:37.971Z"
+    "nowIso": "2026-06-04T03:55:29.383Z"
   },
   "today": {
-    "contacts": 13,
+    "contacts": 15,
     "uniqueCallsAttempted": 42,
-    "uniqueTextsSent": 51,
+    "uniqueTextsSent": 53,
     "uniqueCallsAnswered": 11,
     "uniqueTextsResponded": 13,
     "calledContacts": [
@@ -266,6 +266,18 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Craig Rounds",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-04T02:50:56.405Z"
+      },
+      {
+        "name": "Randy Wothke",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-04T02:18:47.077Z"
+      },
       {
         "name": "Greg Fletcher",
         "texts": 1,
@@ -575,9 +587,9 @@
     ]
   },
   "mtd": {
-    "contacts": 38,
+    "contacts": 40,
     "uniqueCallsAttempted": 42,
-    "uniqueTextsSent": 73,
+    "uniqueTextsSent": 74,
     "uniqueCallsAnswered": 11,
     "uniqueTextsResponded": 17
   },
@@ -585,7 +597,7 @@
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 13,
+      "uniqueTextsSent": 12,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 4
     },
@@ -599,10 +611,10 @@
     {
       "date": "2026-06-03",
       "uniqueCallsAttempted": 42,
-      "uniqueTextsSent": 51,
+      "uniqueTextsSent": 53,
       "uniqueCallsAnswered": 11,
       "uniqueTextsResponded": 13
     }
   ],
-  "conversationsScanned": 101
+  "conversationsScanned": 103
 }
