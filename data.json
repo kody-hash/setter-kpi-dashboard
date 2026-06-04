@@ -1,23 +1,228 @@
 {
-  "generatedAt": "2026-06-04T16:56:10.189Z",
+  "generatedAt": "2026-06-04T19:25:59.446Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T16:56:06.184Z"
+    "nowIso": "2026-06-04T19:25:53.691Z"
   },
   "today": {
-    "contacts": 5,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 6,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 2,
-    "calledContacts": [],
+    "contacts": 8,
+    "uniqueCallsAttempted": 15,
+    "uniqueTextsSent": 23,
+    "uniqueCallsAnswered": 5,
+    "uniqueTextsResponded": 5,
+    "calledContacts": [
+      {
+        "name": "Marcella Pagliuco",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T18:58:33.464Z"
+      },
+      {
+        "name": "Guy Wood",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-04T18:57:25.947Z"
+      },
+      {
+        "name": "Laura Jean",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-04T18:56:54.268Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T18:55:49.884Z"
+      },
+      {
+        "name": "Guy Cooksey",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T18:55:00.644Z"
+      },
+      {
+        "name": "Candice Combs",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-04T18:53:43.580Z"
+      },
+      {
+        "name": "Alberto Espinoza",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-04T18:51:54.150Z"
+      },
+      {
+        "name": "Dan Olin",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T18:49:30.224Z"
+      },
+      {
+        "name": "Doug Klimek",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T18:31:53.840Z"
+      },
+      {
+        "name": "Paul Grosser",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T18:23:08.383Z"
+      },
+      {
+        "name": "Assif Kevin Khan",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-04T18:21:53.918Z"
+      },
+      {
+        "name": "Jose Romo",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-04T18:19:07.059Z"
+      },
+      {
+        "name": "Craig Rounds",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-04T18:12:26.104Z"
+      },
+      {
+        "name": "Randy Wothke",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-04T18:03:46.801Z"
+      },
+      {
+        "name": "Greg Fletcher",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T18:03:24.977Z"
+      }
+    ],
     "textedContacts": [
       {
-        "name": "Colby Macumber",
+        "name": "Marcella Pagliuco",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-04T16:55:39.169Z"
+        "lastAt": "2026-06-04T18:58:33.464Z"
+      },
+      {
+        "name": "Guy Wood",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:57:25.947Z"
+      },
+      {
+        "name": "Laura Jean",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:56:54.268Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:55:49.884Z"
+      },
+      {
+        "name": "Guy Cooksey",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:55:00.644Z"
+      },
+      {
+        "name": "Candice Combs",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:53:43.580Z"
+      },
+      {
+        "name": "Doug Klimek",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:31:53.840Z"
+      },
+      {
+        "name": "Paul Grosser",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-04T18:23:08.383Z"
+      },
+      {
+        "name": "Assif Kevin Khan",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-04T18:21:53.918Z"
+      },
+      {
+        "name": "Jose Romo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:19:07.059Z"
+      },
+      {
+        "name": "James Mack",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-04T18:16:04.952Z"
+      },
+      {
+        "name": "Christina R",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:15:12.052Z"
+      },
+      {
+        "name": "Craig Rounds",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:12:26.104Z"
+      },
+      {
+        "name": "Greg Fletcher",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T18:03:24.977Z"
+      },
+      {
+        "name": "Dave Lee",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-04T17:39:40.690Z"
+      },
+      {
+        "name": "Colby Macumber",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-04T17:26:24.927Z"
+      },
+      {
+        "name": "Jose Hernandez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T17:17:39.927Z"
+      },
+      {
+        "name": "Tbd",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T17:12:28.764Z"
+      },
+      {
+        "name": "Alison",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T17:09:44.482Z"
+      },
+      {
+        "name": "Lawrence Naranjo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T16:56:42.101Z"
       },
       {
         "name": "Jet Li",
@@ -36,26 +241,14 @@
         "texts": 3,
         "responded": false,
         "lastAt": "2026-06-04T16:46:21.509Z"
-      },
-      {
-        "name": "Paul Grosser",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-04T14:56:16.619Z"
-      },
-      {
-        "name": "Assif Kevin Khan",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-04T14:55:10.163Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 47,
-    "uniqueCallsAttempted": 42,
-    "uniqueTextsSent": 75,
-    "uniqueCallsAnswered": 11,
+    "contacts": 50,
+    "uniqueCallsAttempted": 49,
+    "uniqueTextsSent": 74,
+    "uniqueCallsAnswered": 15,
     "uniqueTextsResponded": 17
   },
   "daily": [
@@ -69,7 +262,7 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 18,
+      "uniqueTextsSent": 15,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
@@ -82,11 +275,11 @@
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 2
+      "uniqueCallsAttempted": 15,
+      "uniqueTextsSent": 23,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 5
     }
   ],
-  "conversationsScanned": 110
+  "conversationsScanned": 113
 }
