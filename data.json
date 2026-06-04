@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-06-04T21:54:54.601Z",
+  "generatedAt": "2026-06-04T22:25:20.088Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T21:54:50.722Z"
+    "nowIso": "2026-06-04T22:25:15.948Z"
   },
   "today": {
-    "contacts": 9,
+    "contacts": 10,
     "uniqueCallsAttempted": 22,
     "uniqueTextsSent": 35,
     "uniqueCallsAnswered": 7,
-    "uniqueTextsResponded": 9,
+    "uniqueTextsResponded": 11,
     "calledContacts": [
+      {
+        "name": "Marcella Pagliuco",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T22:07:38.650Z"
+      },
       {
         "name": "Lew Cooksey",
         "calls": 1,
@@ -53,12 +59,6 @@
         "calls": 1,
         "answered": false,
         "lastAt": "2026-06-04T20:36:04.077Z"
-      },
-      {
-        "name": "Marcella Pagliuco",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-06-04T20:30:25.616Z"
       },
       {
         "name": "Katrina Mott",
@@ -147,6 +147,24 @@
     ],
     "textedContacts": [
       {
+        "name": "Dax Mays",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-04T22:21:04.515Z"
+      },
+      {
+        "name": "Marcella Pagliuco",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-04T22:07:38.650Z"
+      },
+      {
+        "name": "Christopher Dunbar",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-04T22:06:23.706Z"
+      },
+      {
         "name": "Lew Cooksey",
         "texts": 2,
         "responded": true,
@@ -171,12 +189,6 @@
         "lastAt": "2026-06-04T21:51:10.251Z"
       },
       {
-        "name": "Dax Mays",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-04T21:47:26.342Z"
-      },
-      {
         "name": "Lori Simpson",
         "texts": 1,
         "responded": false,
@@ -185,14 +197,8 @@
       {
         "name": "Cameron Tate",
         "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-04T21:44:02.869Z"
-      },
-      {
-        "name": "Christopher Dunbar",
-        "texts": 1,
         "responded": true,
-        "lastAt": "2026-06-04T21:39:54.592Z"
+        "lastAt": "2026-06-04T21:44:02.869Z"
       },
       {
         "name": "Vince Reyes",
@@ -229,12 +235,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-04T20:36:04.077Z"
-      },
-      {
-        "name": "Marcella Pagliuco",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-04T20:30:25.616Z"
       },
       {
         "name": "Guy Wood",
@@ -359,11 +359,11 @@
     ]
   },
   "mtd": {
-    "contacts": 51,
+    "contacts": 52,
     "uniqueCallsAttempted": 50,
-    "uniqueTextsSent": 74,
+    "uniqueTextsSent": 73,
     "uniqueCallsAnswered": 17,
-    "uniqueTextsResponded": 21
+    "uniqueTextsResponded": 22
   },
   "daily": [
     {
@@ -376,7 +376,7 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 13,
+      "uniqueTextsSent": 12,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
@@ -392,8 +392,8 @@
       "uniqueCallsAttempted": 22,
       "uniqueTextsSent": 35,
       "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 9
+      "uniqueTextsResponded": 11
     }
   ],
-  "conversationsScanned": 116
+  "conversationsScanned": 117
 }
