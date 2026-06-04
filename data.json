@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-04T19:25:59.446Z",
+  "generatedAt": "2026-06-04T20:22:10.490Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T19:25:53.691Z"
+    "nowIso": "2026-06-04T20:22:05.915Z"
   },
   "today": {
     "contacts": 8,
     "uniqueCallsAttempted": 15,
     "uniqueTextsSent": 23,
     "uniqueCallsAnswered": 5,
-    "uniqueTextsResponded": 5,
+    "uniqueTextsResponded": 7,
     "calledContacts": [
       {
         "name": "Marcella Pagliuco",
@@ -107,7 +107,7 @@
       {
         "name": "Marcella Pagliuco",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-04T18:58:33.464Z"
       },
       {
@@ -173,7 +173,7 @@
       {
         "name": "Christina R",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-04T18:15:12.052Z"
       },
       {
@@ -249,7 +249,7 @@
     "uniqueCallsAttempted": 49,
     "uniqueTextsSent": 74,
     "uniqueCallsAnswered": 15,
-    "uniqueTextsResponded": 17
+    "uniqueTextsResponded": 19
   },
   "daily": [
     {
@@ -278,7 +278,7 @@
       "uniqueCallsAttempted": 15,
       "uniqueTextsSent": 23,
       "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 5
+      "uniqueTextsResponded": 7
     }
   ],
   "conversationsScanned": 113
