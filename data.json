@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-06-04T21:52:22.567Z",
+  "generatedAt": "2026-06-04T21:54:54.601Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T21:52:18.716Z"
+    "nowIso": "2026-06-04T21:54:50.722Z"
   },
   "today": {
     "contacts": 9,
     "uniqueCallsAttempted": 22,
-    "uniqueTextsSent": 34,
+    "uniqueTextsSent": 35,
     "uniqueCallsAnswered": 7,
     "uniqueTextsResponded": 9,
     "calledContacts": [
+      {
+        "name": "Lew Cooksey",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T21:54:45.005Z"
+      },
       {
         "name": "Eileen Nelson",
         "calls": 2,
@@ -79,12 +85,6 @@
         "lastAt": "2026-06-04T18:55:49.884Z"
       },
       {
-        "name": "Lew Cooksey",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-06-04T18:55:00.644Z"
-      },
-      {
         "name": "Candice Combs",
         "calls": 1,
         "answered": true,
@@ -146,6 +146,24 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Lew Cooksey",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-04T21:54:45.005Z"
+      },
+      {
+        "name": "Christina R",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-04T21:53:41.345Z"
+      },
+      {
+        "name": "Gary Peters",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T21:52:27.922Z"
+      },
       {
         "name": "Jared Williams",
         "texts": 1,
@@ -213,12 +231,6 @@
         "lastAt": "2026-06-04T20:36:04.077Z"
       },
       {
-        "name": "Christina R",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-04T20:32:10.258Z"
-      },
-      {
         "name": "Marcella Pagliuco",
         "texts": 2,
         "responded": true,
@@ -241,12 +253,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-04T18:55:49.884Z"
-      },
-      {
-        "name": "Lew Cooksey",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-06-04T18:55:00.644Z"
       },
       {
         "name": "Candice Combs",
@@ -355,7 +361,7 @@
   "mtd": {
     "contacts": 51,
     "uniqueCallsAttempted": 50,
-    "uniqueTextsSent": 76,
+    "uniqueTextsSent": 74,
     "uniqueCallsAnswered": 17,
     "uniqueTextsResponded": 21
   },
@@ -370,7 +376,7 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 15,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
@@ -384,7 +390,7 @@
     {
       "date": "2026-06-04",
       "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 34,
+      "uniqueTextsSent": 35,
       "uniqueCallsAnswered": 7,
       "uniqueTextsResponded": 9
     }
