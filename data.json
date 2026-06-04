@@ -1,17 +1,119 @@
 {
-  "generatedAt": "2026-06-03T23:23:43.555Z",
+  "generatedAt": "2026-06-04T00:48:22.633Z",
   "ranges": {
     "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-03T23:23:40.451Z"
+    "nowIso": "2026-06-04T00:48:19.058Z"
   },
   "today": {
-    "contacts": 10,
-    "uniqueCallsAttempted": 26,
-    "uniqueTextsSent": 38,
-    "uniqueCallsAnswered": 10,
-    "uniqueTextsResponded": 10,
+    "contacts": 12,
+    "uniqueCallsAttempted": 42,
+    "uniqueTextsSent": 50,
+    "uniqueCallsAnswered": 11,
+    "uniqueTextsResponded": 13,
     "calledContacts": [
+      {
+        "name": "Carlos Calkins",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:56:20.176Z"
+      },
+      {
+        "name": "Alberto Espinoza",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:46:39.762Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:46:12.287Z"
+      },
+      {
+        "name": "Gerry",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:45:10.129Z"
+      },
+      {
+        "name": "Douglas S Diffendall",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:42:16.846Z"
+      },
+      {
+        "name": "Dan Olin",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:41:48.032Z"
+      },
+      {
+        "name": "Desert Elevated Investments",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:40:39.105Z"
+      },
+      {
+        "name": "Kc",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:40:10.056Z"
+      },
+      {
+        "name": "Nick Reyes",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:39:34.801Z"
+      },
+      {
+        "name": "Scott Thomas",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:38:41.188Z"
+      },
+      {
+        "name": "Howard Thruston",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:36:27.097Z"
+      },
+      {
+        "name": "Jill Brugman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:33:54.218Z"
+      },
+      {
+        "name": "Marcella Pagliuco",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:32:49.719Z"
+      },
+      {
+        "name": "Robin Way",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-03T23:30:35.950Z"
+      },
+      {
+        "name": "Guy Wood",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:30:12.371Z"
+      },
+      {
+        "name": "Cameron Tate",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-03T23:28:18.783Z"
+      },
+      {
+        "name": "Geo Are",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-03T23:25:45.840Z"
+      },
       {
         "name": "Colleen Byrne Halverson",
         "calls": 1,
@@ -23,12 +125,6 @@
         "calls": 1,
         "answered": false,
         "lastAt": "2026-06-03T23:16:42.870Z"
-      },
-      {
-        "name": "Carlos Calkins",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-06-03T23:15:37.720Z"
       },
       {
         "name": "Ricky Ricardo",
@@ -171,6 +267,84 @@
     ],
     "textedContacts": [
       {
+        "name": "John Eng",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-04T00:33:06.726Z"
+      },
+      {
+        "name": "Carlos Calkins",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-03T23:56:20.176Z"
+      },
+      {
+        "name": "Jared Williams",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:55:23.360Z"
+      },
+      {
+        "name": "Michele",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-03T23:53:14.927Z"
+      },
+      {
+        "name": "Erick Baer",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:52:23.866Z"
+      },
+      {
+        "name": "Sonia Traywick Boirum",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:50:09.068Z"
+      },
+      {
+        "name": "Alberto Espinoza",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:46:39.762Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:46:12.287Z"
+      },
+      {
+        "name": "Gerry",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:45:10.129Z"
+      },
+      {
+        "name": "Doug Klimek",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:42:35.144Z"
+      },
+      {
+        "name": "Dan Olin",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:41:48.032Z"
+      },
+      {
+        "name": "Marcella Pagliuco",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:32:49.719Z"
+      },
+      {
+        "name": "Guy Wood",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-03T23:30:12.371Z"
+      },
+      {
         "name": "Colleen Byrne Halverson",
         "texts": 1,
         "responded": false,
@@ -181,12 +355,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-03T23:16:42.870Z"
-      },
-      {
-        "name": "Carlos Calkins",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-06-03T23:15:37.720Z"
       },
       {
         "name": "Candice Combs",
@@ -233,7 +401,7 @@
       {
         "name": "Colby Macumber",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-03T22:47:04.506Z"
       },
       {
@@ -263,7 +431,7 @@
       {
         "name": "Lawrence Naranjo",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-03T22:15:36.786Z"
       },
       {
@@ -401,17 +569,17 @@
     ]
   },
   "mtd": {
-    "contacts": 35,
-    "uniqueCallsAttempted": 26,
-    "uniqueTextsSent": 63,
-    "uniqueCallsAnswered": 10,
-    "uniqueTextsResponded": 14
+    "contacts": 37,
+    "uniqueCallsAttempted": 42,
+    "uniqueTextsSent": 72,
+    "uniqueCallsAnswered": 11,
+    "uniqueTextsResponded": 17
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 14,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 4
     },
@@ -424,11 +592,11 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 26,
-      "uniqueTextsSent": 38,
-      "uniqueCallsAnswered": 10,
-      "uniqueTextsResponded": 10
+      "uniqueCallsAttempted": 42,
+      "uniqueTextsSent": 50,
+      "uniqueCallsAnswered": 11,
+      "uniqueTextsResponded": 13
     }
   ],
-  "conversationsScanned": 82
+  "conversationsScanned": 100
 }
