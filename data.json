@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T22:25:20.088Z",
+  "generatedAt": "2026-06-04T22:31:21.898Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T22:25:15.948Z"
+    "nowIso": "2026-06-04T22:31:16.797Z"
   },
   "today": {
     "contacts": 10,
@@ -148,9 +148,9 @@
     "textedContacts": [
       {
         "name": "Dax Mays",
-        "texts": 2,
+        "texts": 3,
         "responded": true,
-        "lastAt": "2026-06-04T22:21:04.515Z"
+        "lastAt": "2026-06-04T22:25:43.345Z"
       },
       {
         "name": "Marcella Pagliuco",
