@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-06-04T23:06:07.209Z",
+  "generatedAt": "2026-06-04T23:28:43.461Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T23:06:04.314Z"
+    "nowIso": "2026-06-04T23:28:38.989Z"
   },
   "today": {
     "contacts": 10,
-    "uniqueCallsAttempted": 22,
+    "uniqueCallsAttempted": 23,
     "uniqueTextsSent": 35,
-    "uniqueCallsAnswered": 7,
+    "uniqueCallsAnswered": 8,
     "uniqueTextsResponded": 11,
     "calledContacts": [
+      {
+        "name": "Yeali Wellnitz",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-04T23:26:04.453Z"
+      },
       {
         "name": "Marcella Pagliuco",
         "calls": 1,
@@ -147,6 +153,12 @@
     ],
     "textedContacts": [
       {
+        "name": "Yeali Wellnitz",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T23:26:04.453Z"
+      },
+      {
         "name": "Dax Mays",
         "texts": 5,
         "responded": true,
@@ -223,12 +235,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-04T20:56:47.391Z"
-      },
-      {
-        "name": "Yeali Wellnitz",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-04T20:56:47.126Z"
       },
       {
         "name": "Carlos Calkins",
@@ -360,9 +366,9 @@
   },
   "mtd": {
     "contacts": 52,
-    "uniqueCallsAttempted": 50,
+    "uniqueCallsAttempted": 51,
     "uniqueTextsSent": 72,
-    "uniqueCallsAnswered": 17,
+    "uniqueCallsAnswered": 18,
     "uniqueTextsResponded": 22
   },
   "daily": [
@@ -389,9 +395,9 @@
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 22,
+      "uniqueCallsAttempted": 23,
       "uniqueTextsSent": 35,
-      "uniqueCallsAnswered": 7,
+      "uniqueCallsAnswered": 8,
       "uniqueTextsResponded": 11
     }
   ],
