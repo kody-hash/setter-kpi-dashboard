@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T22:59:52.133Z",
+  "generatedAt": "2026-06-04T23:06:07.209Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T22:59:48.412Z"
+    "nowIso": "2026-06-04T23:06:04.314Z"
   },
   "today": {
     "contacts": 10,
@@ -148,9 +148,9 @@
     "textedContacts": [
       {
         "name": "Dax Mays",
-        "texts": 4,
+        "texts": 5,
         "responded": true,
-        "lastAt": "2026-06-04T22:56:49.431Z"
+        "lastAt": "2026-06-04T23:05:07.685Z"
       },
       {
         "name": "Marcella Pagliuco",
@@ -361,7 +361,7 @@
   "mtd": {
     "contacts": 52,
     "uniqueCallsAttempted": 50,
-    "uniqueTextsSent": 73,
+    "uniqueTextsSent": 72,
     "uniqueCallsAnswered": 17,
     "uniqueTextsResponded": 22
   },
@@ -376,7 +376,7 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 12,
+      "uniqueTextsSent": 11,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
@@ -395,5 +395,5 @@
       "uniqueTextsResponded": 11
     }
   ],
-  "conversationsScanned": 117
+  "conversationsScanned": 118
 }
