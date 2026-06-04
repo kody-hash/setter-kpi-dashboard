@@ -1,17 +1,41 @@
 {
-  "generatedAt": "2026-06-04T21:13:14.925Z",
+  "generatedAt": "2026-06-04T21:37:44.829Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T21:13:09.726Z"
+    "nowIso": "2026-06-04T21:37:37.530Z"
   },
   "today": {
     "contacts": 9,
-    "uniqueCallsAttempted": 18,
-    "uniqueTextsSent": 27,
+    "uniqueCallsAttempted": 22,
+    "uniqueTextsSent": 29,
     "uniqueCallsAnswered": 7,
     "uniqueTextsResponded": 8,
     "calledContacts": [
+      {
+        "name": "Eileen Nelson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-04T21:35:31.637Z"
+      },
+      {
+        "name": "Robin Way",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-04T21:29:00.291Z"
+      },
+      {
+        "name": "Vince Reyes",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T21:28:27.035Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-04T21:26:37.054Z"
+      },
       {
         "name": "Christiana King",
         "calls": 1,
@@ -122,6 +146,18 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Vince Reyes",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T21:28:27.035Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T21:26:37.054Z"
+      },
       {
         "name": "Christiana King",
         "texts": 1,
@@ -288,8 +324,8 @@
   },
   "mtd": {
     "contacts": 51,
-    "uniqueCallsAttempted": 49,
-    "uniqueTextsSent": 75,
+    "uniqueCallsAttempted": 50,
+    "uniqueTextsSent": 74,
     "uniqueCallsAnswered": 17,
     "uniqueTextsResponded": 20
   },
@@ -304,7 +340,7 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 14,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
@@ -317,11 +353,11 @@
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 18,
-      "uniqueTextsSent": 27,
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 7,
       "uniqueTextsResponded": 8
     }
   ],
-  "conversationsScanned": 115
+  "conversationsScanned": 116
 }
