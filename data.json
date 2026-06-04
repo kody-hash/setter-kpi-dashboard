@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-04T21:37:44.829Z",
+  "generatedAt": "2026-06-04T21:52:22.567Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T21:37:37.530Z"
+    "nowIso": "2026-06-04T21:52:18.716Z"
   },
   "today": {
     "contacts": 9,
     "uniqueCallsAttempted": 22,
-    "uniqueTextsSent": 29,
+    "uniqueTextsSent": 34,
     "uniqueCallsAnswered": 7,
-    "uniqueTextsResponded": 8,
+    "uniqueTextsResponded": 9,
     "calledContacts": [
       {
         "name": "Eileen Nelson",
@@ -146,6 +146,36 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Jared Williams",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T21:51:10.251Z"
+      },
+      {
+        "name": "Dax Mays",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T21:47:26.342Z"
+      },
+      {
+        "name": "Lori Simpson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T21:45:35.861Z"
+      },
+      {
+        "name": "Cameron Tate",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T21:44:02.869Z"
+      },
+      {
+        "name": "Christopher Dunbar",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-04T21:39:54.592Z"
+      },
       {
         "name": "Vince Reyes",
         "texts": 1,
@@ -325,9 +355,9 @@
   "mtd": {
     "contacts": 51,
     "uniqueCallsAttempted": 50,
-    "uniqueTextsSent": 74,
+    "uniqueTextsSent": 76,
     "uniqueCallsAnswered": 17,
-    "uniqueTextsResponded": 20
+    "uniqueTextsResponded": 21
   },
   "daily": [
     {
@@ -340,7 +370,7 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 13,
+      "uniqueTextsSent": 15,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
@@ -354,9 +384,9 @@
     {
       "date": "2026-06-04",
       "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 29,
+      "uniqueTextsSent": 34,
       "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 8
+      "uniqueTextsResponded": 9
     }
   ],
   "conversationsScanned": 116
