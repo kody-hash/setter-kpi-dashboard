@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-04T00:48:22.633Z",
+  "generatedAt": "2026-06-04T02:06:43.453Z",
   "ranges": {
     "todayIso": "2026-06-03T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T00:48:19.058Z"
+    "nowIso": "2026-06-04T02:06:37.971Z"
   },
   "today": {
-    "contacts": 12,
+    "contacts": 13,
     "uniqueCallsAttempted": 42,
-    "uniqueTextsSent": 50,
+    "uniqueTextsSent": 51,
     "uniqueCallsAnswered": 11,
     "uniqueTextsResponded": 13,
     "calledContacts": [
@@ -266,6 +266,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Greg Fletcher",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-04T01:56:12.214Z"
+      },
       {
         "name": "John Eng",
         "texts": 2,
@@ -569,9 +575,9 @@
     ]
   },
   "mtd": {
-    "contacts": 37,
+    "contacts": 38,
     "uniqueCallsAttempted": 42,
-    "uniqueTextsSent": 72,
+    "uniqueTextsSent": 73,
     "uniqueCallsAnswered": 11,
     "uniqueTextsResponded": 17
   },
@@ -593,10 +599,10 @@
     {
       "date": "2026-06-03",
       "uniqueCallsAttempted": 42,
-      "uniqueTextsSent": 50,
+      "uniqueTextsSent": 51,
       "uniqueCallsAnswered": 11,
       "uniqueTextsResponded": 13
     }
   ],
-  "conversationsScanned": 100
+  "conversationsScanned": 101
 }
