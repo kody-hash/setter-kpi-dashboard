@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-06-05T22:53:22.076Z",
+  "generatedAt": "2026-06-05T23:29:00.494Z",
   "ranges": {
     "todayIso": "2026-06-05T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-05T22:53:17.780Z"
+    "nowIso": "2026-06-05T23:28:51.320Z"
   },
   "today": {
     "contacts": 6,
     "uniqueCallsAttempted": 27,
-    "uniqueTextsSent": 23,
+    "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 6,
-    "uniqueTextsResponded": 5,
+    "uniqueTextsResponded": 6,
     "calledContacts": [
+      {
+        "name": "William Thompson",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-06-05T23:21:47.702Z"
+      },
       {
         "name": "Moses O Beristain",
         "calls": 1,
@@ -115,12 +121,6 @@
         "lastAt": "2026-06-05T17:16:31.131Z"
       },
       {
-        "name": "William Thompson",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-06-05T16:49:28.246Z"
-      },
-      {
         "name": "Desert Elevated Investments",
         "calls": 1,
         "answered": false,
@@ -177,6 +177,30 @@
     ],
     "textedContacts": [
       {
+        "name": "William Thompson",
+        "texts": 5,
+        "responded": false,
+        "lastAt": "2026-06-05T23:21:47.702Z"
+      },
+      {
+        "name": "Katrina Mott",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-05T23:14:33.741Z"
+      },
+      {
+        "name": "Cameron Tate",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-05T23:08:26.522Z"
+      },
+      {
+        "name": "Lawrence Naranjo",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-05T22:53:45.870Z"
+      },
+      {
         "name": "Moses O Beristain",
         "texts": 3,
         "responded": true,
@@ -205,12 +229,6 @@
         "texts": 2,
         "responded": false,
         "lastAt": "2026-06-05T20:58:50.212Z"
-      },
-      {
-        "name": "Lawrence Naranjo",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-06-05T20:21:16.602Z"
       },
       {
         "name": "Austin Orr",
@@ -271,18 +289,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-05T17:16:31.131Z"
-      },
-      {
-        "name": "Katrina Mott",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-06-05T16:51:03.659Z"
-      },
-      {
-        "name": "William Thompson",
-        "texts": 3,
-        "responded": false,
-        "lastAt": "2026-06-05T16:49:28.246Z"
       },
       {
         "name": "Theresa Marie Gromann",
@@ -355,9 +361,9 @@
     {
       "date": "2026-06-05",
       "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 23,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 5
+      "uniqueTextsResponded": 6
     }
   ],
   "conversationsScanned": 132
