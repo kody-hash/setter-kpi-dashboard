@@ -1,17 +1,35 @@
 {
-  "generatedAt": "2026-06-04T23:28:43.461Z",
+  "generatedAt": "2026-06-05T00:09:57.860Z",
   "ranges": {
     "todayIso": "2026-06-04T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-04T23:28:38.989Z"
+    "nowIso": "2026-06-05T00:09:55.293Z"
   },
   "today": {
     "contacts": 10,
-    "uniqueCallsAttempted": 23,
+    "uniqueCallsAttempted": 24,
     "uniqueTextsSent": 35,
     "uniqueCallsAnswered": 8,
     "uniqueTextsResponded": 11,
     "calledContacts": [
+      {
+        "name": "Larry Lembo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-04T23:30:41.041Z"
+      },
+      {
+        "name": "Assif Kevin Khan",
+        "calls": 3,
+        "answered": false,
+        "lastAt": "2026-06-04T23:29:56.943Z"
+      },
+      {
+        "name": "Paul Grosser",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-04T23:28:55.362Z"
+      },
       {
         "name": "Yeali Wellnitz",
         "calls": 1,
@@ -115,18 +133,6 @@
         "lastAt": "2026-06-04T18:31:53.840Z"
       },
       {
-        "name": "Paul Grosser",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-06-04T18:23:08.383Z"
-      },
-      {
-        "name": "Assif Kevin Khan",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-06-04T18:21:53.918Z"
-      },
-      {
         "name": "Jose Romo",
         "calls": 1,
         "answered": true,
@@ -152,6 +158,24 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Larry Lembo",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-04T23:30:41.041Z"
+      },
+      {
+        "name": "Assif Kevin Khan",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-04T23:29:56.943Z"
+      },
+      {
+        "name": "Paul Grosser",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-04T23:28:55.362Z"
+      },
       {
         "name": "Yeali Wellnitz",
         "texts": 1,
@@ -273,18 +297,6 @@
         "lastAt": "2026-06-04T18:31:53.840Z"
       },
       {
-        "name": "Paul Grosser",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-04T18:23:08.383Z"
-      },
-      {
-        "name": "Assif Kevin Khan",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-04T18:21:53.918Z"
-      },
-      {
         "name": "Jose Romo",
         "texts": 1,
         "responded": false,
@@ -355,18 +367,12 @@
         "texts": 2,
         "responded": true,
         "lastAt": "2026-06-04T16:48:21.326Z"
-      },
-      {
-        "name": "Larry Lembo",
-        "texts": 3,
-        "responded": false,
-        "lastAt": "2026-06-04T16:46:21.509Z"
       }
     ]
   },
   "mtd": {
     "contacts": 52,
-    "uniqueCallsAttempted": 51,
+    "uniqueCallsAttempted": 52,
     "uniqueTextsSent": 72,
     "uniqueCallsAnswered": 18,
     "uniqueTextsResponded": 22
@@ -395,7 +401,7 @@
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 23,
+      "uniqueCallsAttempted": 24,
       "uniqueTextsSent": 35,
       "uniqueCallsAnswered": 8,
       "uniqueTextsResponded": 11
