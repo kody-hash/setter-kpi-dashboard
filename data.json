@@ -1,17 +1,161 @@
 {
-  "generatedAt": "2026-06-05T16:30:56.712Z",
+  "generatedAt": "2026-06-05T18:29:31.719Z",
   "ranges": {
     "todayIso": "2026-06-05T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-05T16:30:52.453Z"
+    "nowIso": "2026-06-05T18:29:22.690Z"
   },
   "today": {
     "contacts": 3,
-    "uniqueCallsAttempted": 1,
-    "uniqueTextsSent": 6,
-    "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 0,
+    "uniqueCallsAttempted": 25,
+    "uniqueTextsSent": 15,
+    "uniqueCallsAnswered": 5,
+    "uniqueTextsResponded": 1,
     "calledContacts": [
+      {
+        "name": "Larry Lembo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-05T17:31:24.960Z"
+      },
+      {
+        "name": "Assif Kevin Khan",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-05T17:29:53.170Z"
+      },
+      {
+        "name": "Greg Fletcher",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:29:20.459Z"
+      },
+      {
+        "name": "Paul Grosser",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:26:37.955Z"
+      },
+      {
+        "name": "Robin Way",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-05T17:25:41.611Z"
+      },
+      {
+        "name": "Guy Wood",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-05T17:24:13.676Z"
+      },
+      {
+        "name": "Vince Reyes",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:22:59.635Z"
+      },
+      {
+        "name": "Marcella Pagliuco",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:22:35.983Z"
+      },
+      {
+        "name": "Laura Jean",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-05T17:21:29.808Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:20:25.550Z"
+      },
+      {
+        "name": "Candice Combs",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:19:04.128Z"
+      },
+      {
+        "name": "Alberto Espinoza",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-05T17:18:25.804Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:17:29.985Z"
+      },
+      {
+        "name": "Doug Klimek",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T17:16:31.131Z"
+      },
+      {
+        "name": "William Thompson",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-06-05T16:49:28.246Z"
+      },
+      {
+        "name": "Jose Alfredo Suarez",
+        "calls": 3,
+        "answered": true,
+        "lastAt": "2026-06-05T16:46:01.266Z"
+      },
+      {
+        "name": "Desert Elevated Investments",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T16:42:16.488Z"
+      },
+      {
+        "name": "Scott Thomas",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T16:41:40.255Z"
+      },
+      {
+        "name": "Nick Reyes",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T16:40:49.938Z"
+      },
+      {
+        "name": "Kc",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T16:40:07.330Z"
+      },
+      {
+        "name": "Jill Brugman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T16:39:20.548Z"
+      },
+      {
+        "name": "Howard Thruston",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T16:38:19.380Z"
+      },
+      {
+        "name": "Lior Hartenstein",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T16:33:30.446Z"
+      },
+      {
+        "name": "Theresa Marie Gromann",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-05T16:33:08.439Z"
+      },
       {
         "name": "Michael Innes",
         "calls": 1,
@@ -20,6 +164,72 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Sharon Perkins",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T18:02:42.658Z"
+      },
+      {
+        "name": "Jose Romo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T17:40:13.349Z"
+      },
+      {
+        "name": "Larry Lembo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T17:31:24.960Z"
+      },
+      {
+        "name": "Greg Fletcher",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T17:29:20.459Z"
+      },
+      {
+        "name": "Alberto Espinoza",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T17:18:25.804Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T17:17:29.985Z"
+      },
+      {
+        "name": "Doug Klimek",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T17:16:31.131Z"
+      },
+      {
+        "name": "Katrina Mott",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-05T16:51:03.659Z"
+      },
+      {
+        "name": "William Thompson",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-05T16:49:28.246Z"
+      },
+      {
+        "name": "Jose Alfredo Suarez",
+        "texts": 4,
+        "responded": false,
+        "lastAt": "2026-06-05T16:46:01.266Z"
+      },
+      {
+        "name": "Theresa Marie Gromann",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T16:33:08.439Z"
+      },
       {
         "name": "Scott Muhly",
         "texts": 1,
@@ -43,33 +253,21 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-05T15:10:58.381Z"
-      },
-      {
-        "name": "Jose Alfredo Suarez",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-05T13:54:49.000Z"
-      },
-      {
-        "name": "William Thompson",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-05T13:41:17.158Z"
       }
     ]
   },
   "mtd": {
     "contacts": 57,
-    "uniqueCallsAttempted": 42,
-    "uniqueTextsSent": 56,
-    "uniqueCallsAnswered": 11,
-    "uniqueTextsResponded": 17
+    "uniqueCallsAttempted": 55,
+    "uniqueTextsSent": 73,
+    "uniqueCallsAnswered": 21,
+    "uniqueTextsResponded": 21
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 4,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 2
     },
@@ -82,10 +280,10 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 31,
-      "uniqueTextsSent": 34,
-      "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 9
+      "uniqueCallsAttempted": 40,
+      "uniqueTextsSent": 47,
+      "uniqueCallsAnswered": 10,
+      "uniqueTextsResponded": 12
     },
     {
       "date": "2026-06-04",
@@ -96,11 +294,11 @@
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 1,
-      "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 0
+      "uniqueCallsAttempted": 25,
+      "uniqueTextsSent": 15,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 124
+  "conversationsScanned": 126
 }
