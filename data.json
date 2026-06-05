@@ -1,22 +1,34 @@
 {
-  "generatedAt": "2026-06-05T20:37:40.942Z",
+  "generatedAt": "2026-06-05T22:05:59.260Z",
   "ranges": {
     "todayIso": "2026-06-05T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-05T20:37:35.127Z"
+    "nowIso": "2026-06-05T22:05:52.069Z"
   },
   "today": {
-    "contacts": 5,
-    "uniqueCallsAttempted": 25,
-    "uniqueTextsSent": 22,
-    "uniqueCallsAnswered": 5,
-    "uniqueTextsResponded": 4,
+    "contacts": 6,
+    "uniqueCallsAttempted": 26,
+    "uniqueTextsSent": 23,
+    "uniqueCallsAnswered": 6,
+    "uniqueTextsResponded": 5,
     "calledContacts": [
       {
         "name": "Jose Alfredo Suarez",
         "calls": 3,
         "answered": true,
-        "lastAt": "2026-06-05T20:20:08.460Z"
+        "lastAt": "2026-06-05T21:10:21.192Z"
+      },
+      {
+        "name": "Moses O Beristain",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-05T21:05:02.629Z"
+      },
+      {
+        "name": "Brian Smith",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-05T20:58:50.212Z"
       },
       {
         "name": "Larry Lembo",
@@ -53,12 +65,6 @@
         "calls": 2,
         "answered": false,
         "lastAt": "2026-06-05T17:24:13.676Z"
-      },
-      {
-        "name": "Vince Reyes",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-06-05T17:22:59.635Z"
       },
       {
         "name": "Marcella Pagliuco",
@@ -165,40 +171,46 @@
     ],
     "textedContacts": [
       {
+        "name": "Craig Rounds",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-05T21:36:30.042Z"
+      },
+      {
+        "name": "Michael Viscusi",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T21:35:24.963Z"
+      },
+      {
+        "name": "Jose Alfredo Suarez",
+        "texts": 7,
+        "responded": true,
+        "lastAt": "2026-06-05T21:10:21.192Z"
+      },
+      {
+        "name": "Moses O Beristain",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-05T21:05:02.629Z"
+      },
+      {
+        "name": "Brian Smith",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-05T20:58:50.212Z"
+      },
+      {
         "name": "Lawrence Naranjo",
         "texts": 1,
         "responded": true,
         "lastAt": "2026-06-05T20:21:16.602Z"
       },
       {
-        "name": "Jose Alfredo Suarez",
-        "texts": 6,
-        "responded": true,
-        "lastAt": "2026-06-05T20:20:08.460Z"
-      },
-      {
-        "name": "Moses O Beristain",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-05T20:15:35.291Z"
-      },
-      {
         "name": "Austin Orr",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-05T19:23:30.584Z"
-      },
-      {
-        "name": "Brian Smith",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-05T19:21:57.396Z"
-      },
-      {
-        "name": "Craig Rounds",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-05T18:41:07.132Z"
       },
       {
         "name": "Yeali Wellnitz",
@@ -299,17 +311,17 @@
     ]
   },
   "mtd": {
-    "contacts": 59,
-    "uniqueCallsAttempted": 55,
-    "uniqueTextsSent": 75,
-    "uniqueCallsAnswered": 21,
+    "contacts": 60,
+    "uniqueCallsAttempted": 56,
+    "uniqueTextsSent": 73,
+    "uniqueCallsAnswered": 22,
     "uniqueTextsResponded": 22
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 10,
+      "uniqueTextsSent": 9,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 2
     },
@@ -322,25 +334,25 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 40,
-      "uniqueTextsSent": 46,
+      "uniqueCallsAttempted": 39,
+      "uniqueTextsSent": 43,
       "uniqueCallsAnswered": 10,
-      "uniqueTextsResponded": 11
+      "uniqueTextsResponded": 10
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 38,
+      "uniqueCallsAttempted": 23,
+      "uniqueTextsSent": 37,
       "uniqueCallsAnswered": 8,
       "uniqueTextsResponded": 11
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 22,
-      "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 4
+      "uniqueCallsAttempted": 26,
+      "uniqueTextsSent": 23,
+      "uniqueCallsAnswered": 6,
+      "uniqueTextsResponded": 5
     }
   ],
-  "conversationsScanned": 129
+  "conversationsScanned": 132
 }
