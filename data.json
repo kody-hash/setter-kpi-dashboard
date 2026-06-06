@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-05T23:38:46.830Z",
+  "generatedAt": "2026-06-06T01:00:42.601Z",
   "ranges": {
     "todayIso": "2026-06-05T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-05T23:38:42.312Z"
+    "nowIso": "2026-06-06T01:00:34.675Z"
   },
   "today": {
     "contacts": 8,
     "uniqueCallsAttempted": 27,
-    "uniqueTextsSent": 24,
+    "uniqueTextsSent": 26,
     "uniqueCallsAnswered": 6,
     "uniqueTextsResponded": 6,
     "calledContacts": [
@@ -177,6 +177,18 @@
     ],
     "textedContacts": [
       {
+        "name": "Gerry",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-05T23:46:07.911Z"
+      },
+      {
+        "name": "Raymond Perez",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-05T23:39:27.610Z"
+      },
+      {
         "name": "William Thompson",
         "texts": 5,
         "responded": false,
@@ -325,7 +337,7 @@
   "mtd": {
     "contacts": 62,
     "uniqueCallsAttempted": 57,
-    "uniqueTextsSent": 72,
+    "uniqueTextsSent": 73,
     "uniqueCallsAnswered": 22,
     "uniqueTextsResponded": 22
   },
@@ -361,7 +373,7 @@
     {
       "date": "2026-06-05",
       "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 24,
+      "uniqueTextsSent": 26,
       "uniqueCallsAnswered": 6,
       "uniqueTextsResponded": 6
     }
