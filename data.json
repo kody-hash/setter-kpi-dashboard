@@ -1,18 +1,84 @@
 {
-  "generatedAt": "2026-06-08T17:24:32.098Z",
+  "generatedAt": "2026-06-08T19:40:10.009Z",
   "ranges": {
     "todayIso": "2026-06-08T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-08T17:24:26.037Z"
+    "nowIso": "2026-06-08T19:40:03.455Z"
   },
   "today": {
-    "contacts": 5,
+    "contacts": 6,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 13,
+    "uniqueTextsSent": 22,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1,
+    "uniqueTextsResponded": 4,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Alan Zamora",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T19:07:28.457Z"
+      },
+      {
+        "name": "Saul Enriquez",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-08T19:06:14.199Z"
+      },
+      {
+        "name": "Vickie Lynne Shelquist",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-08T18:59:48.605Z"
+      },
+      {
+        "name": "Logan Bayus",
+        "texts": 5,
+        "responded": true,
+        "lastAt": "2026-06-08T18:57:08.169Z"
+      },
+      {
+        "name": "Moses O Beristain",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-08T18:54:26.795Z"
+      },
+      {
+        "name": "Lysa Marquardt",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T18:54:01.803Z"
+      },
+      {
+        "name": "Donna Mendoza",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T18:29:34.425Z"
+      },
+      {
+        "name": "Tracy Behnke-Baca",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-08T18:23:52.156Z"
+      },
+      {
+        "name": "Marlon S Landeros",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-08T18:07:30.809Z"
+      },
+      {
+        "name": "Michael Gildersleeve",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-08T18:01:33.300Z"
+      },
+      {
+        "name": "Ken Schroeder",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T17:46:43.820Z"
+      },
       {
         "name": "Jill Stewart",
         "texts": 1,
@@ -50,18 +116,6 @@
         "lastAt": "2026-06-08T14:56:33.225Z"
       },
       {
-        "name": "Michael Gildersleeve",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-08T14:54:14.431Z"
-      },
-      {
-        "name": "Tracy Behnke-Baca",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-08T14:32:35.118Z"
-      },
-      {
         "name": "Boe Bigelow",
         "texts": 1,
         "responded": false,
@@ -94,11 +148,11 @@
     ]
   },
   "mtd": {
-    "contacts": 90,
-    "uniqueCallsAttempted": 39,
-    "uniqueTextsSent": 77,
+    "contacts": 91,
+    "uniqueCallsAttempted": 38,
+    "uniqueTextsSent": 78,
     "uniqueCallsAnswered": 13,
-    "uniqueTextsResponded": 20
+    "uniqueTextsResponded": 21
   },
   "daily": [
     {
@@ -111,21 +165,21 @@
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 9,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 23,
-      "uniqueTextsSent": 24,
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 23,
       "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 4
+      "uniqueTextsResponded": 3
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 30,
+      "uniqueCallsAttempted": 21,
+      "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 7,
       "uniqueTextsResponded": 6
     },
@@ -153,10 +207,10 @@
     {
       "date": "2026-06-08",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 13,
+      "uniqueTextsSent": 22,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 4
     }
   ],
-  "conversationsScanned": 167
+  "conversationsScanned": 168
 }
