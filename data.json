@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-06-08T16:51:50.494Z",
+  "generatedAt": "2026-06-08T17:24:32.098Z",
   "ranges": {
     "todayIso": "2026-06-08T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-08T16:51:44.718Z"
+    "nowIso": "2026-06-08T17:24:26.037Z"
   },
   "today": {
-    "contacts": 4,
+    "contacts": 5,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 11,
+    "uniqueTextsSent": 13,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 1,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Jill Stewart",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T17:22:57.780Z"
+      },
+      {
+        "name": "Larry Harig",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T16:53:43.807Z"
+      },
       {
         "name": "Daniel",
         "texts": 1,
@@ -82,11 +94,11 @@
     ]
   },
   "mtd": {
-    "contacts": 89,
-    "uniqueCallsAttempted": 42,
-    "uniqueTextsSent": 79,
-    "uniqueCallsAnswered": 14,
-    "uniqueTextsResponded": 21
+    "contacts": 90,
+    "uniqueCallsAttempted": 39,
+    "uniqueTextsSent": 77,
+    "uniqueCallsAnswered": 13,
+    "uniqueTextsResponded": 20
   },
   "daily": [
     {
@@ -105,17 +117,17 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 27,
+      "uniqueCallsAttempted": 23,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 5
+      "uniqueTextsResponded": 4
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 32,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 8
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 30,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 6
     },
     {
       "date": "2026-06-05",
@@ -141,10 +153,10 @@
     {
       "date": "2026-06-08",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 11,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 166
+  "conversationsScanned": 167
 }
