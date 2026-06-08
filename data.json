@@ -1,17 +1,89 @@
 {
-  "generatedAt": "2026-06-08T23:01:14.617Z",
+  "generatedAt": "2026-06-08T23:20:40.918Z",
   "ranges": {
     "todayIso": "2026-06-08T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-08T23:01:09.731Z"
+    "nowIso": "2026-06-08T23:20:36.814Z"
   },
   "today": {
-    "contacts": 15,
-    "uniqueCallsAttempted": 20,
-    "uniqueTextsSent": 40,
+    "contacts": 16,
+    "uniqueCallsAttempted": 32,
+    "uniqueTextsSent": 48,
     "uniqueCallsAnswered": 9,
-    "uniqueTextsResponded": 12,
+    "uniqueTextsResponded": 13,
     "calledContacts": [
+      {
+        "name": "Joseph M. Szabo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:20:00.354Z"
+      },
+      {
+        "name": "Guy Wood",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-08T23:19:09.710Z"
+      },
+      {
+        "name": "Alberto Espinoza",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-08T23:18:06.367Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:17:18.276Z"
+      },
+      {
+        "name": "Doug Klimek",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:07:32.891Z"
+      },
+      {
+        "name": "Dan Olin",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:07:00.571Z"
+      },
+      {
+        "name": "Nick Reyes",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:06:33.228Z"
+      },
+      {
+        "name": "Scott Thomas",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:05:32.333Z"
+      },
+      {
+        "name": "Desert Elevated Investments",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:04:58.041Z"
+      },
+      {
+        "name": "Kc",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:04:25.491Z"
+      },
+      {
+        "name": "Jill Brugman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:03:41.077Z"
+      },
+      {
+        "name": "Howard Thruston",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T23:02:48.560Z"
+      },
       {
         "name": "Carlos Lopez",
         "calls": 2,
@@ -134,6 +206,60 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Joseph M. Szabo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T23:20:00.354Z"
+      },
+      {
+        "name": "Guy Wood",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T23:19:09.710Z"
+      },
+      {
+        "name": "Alberto Espinoza",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T23:18:06.367Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T23:17:18.276Z"
+      },
+      {
+        "name": "Saul Enriquez",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-08T23:09:08.785Z"
+      },
+      {
+        "name": "Jeff Haymaker",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T23:08:52.399Z"
+      },
+      {
+        "name": "Cindy Almas",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-08T23:08:01.035Z"
+      },
+      {
+        "name": "Bob Stinson",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-08T23:05:36.883Z"
+      },
+      {
+        "name": "Jaysen Robles",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T23:04:22.962Z"
+      },
       {
         "name": "Jared Williams",
         "texts": 1,
@@ -327,12 +453,6 @@
         "lastAt": "2026-06-08T19:07:28.457Z"
       },
       {
-        "name": "Saul Enriquez",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-08T19:06:14.199Z"
-      },
-      {
         "name": "Vickie Lynne Shelquist",
         "texts": 2,
         "responded": false,
@@ -377,11 +497,11 @@
     ]
   },
   "mtd": {
-    "contacts": 100,
-    "uniqueCallsAttempted": 53,
-    "uniqueTextsSent": 75,
-    "uniqueCallsAnswered": 20,
-    "uniqueTextsResponded": 24
+    "contacts": 101,
+    "uniqueCallsAttempted": 52,
+    "uniqueTextsSent": 76,
+    "uniqueCallsAnswered": 19,
+    "uniqueTextsResponded": 25
   },
   "daily": [
     {
@@ -400,23 +520,23 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 19,
+      "uniqueCallsAttempted": 20,
+      "uniqueTextsSent": 20,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 2
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 18,
-      "uniqueTextsSent": 22,
+      "uniqueCallsAttempted": 19,
+      "uniqueTextsSent": 19,
       "uniqueCallsAnswered": 6,
       "uniqueTextsResponded": 2
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 26,
-      "uniqueTextsSent": 25,
-      "uniqueCallsAnswered": 5,
+      "uniqueCallsAttempted": 24,
+      "uniqueTextsSent": 22,
+      "uniqueCallsAnswered": 4,
       "uniqueTextsResponded": 6
     },
     {
@@ -435,11 +555,11 @@
     },
     {
       "date": "2026-06-08",
-      "uniqueCallsAttempted": 20,
-      "uniqueTextsSent": 40,
+      "uniqueCallsAttempted": 32,
+      "uniqueTextsSent": 48,
       "uniqueCallsAnswered": 9,
-      "uniqueTextsResponded": 12
+      "uniqueTextsResponded": 13
     }
   ],
-  "conversationsScanned": 178
+  "conversationsScanned": 180
 }
