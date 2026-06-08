@@ -1,18 +1,60 @@
 {
-  "generatedAt": "2026-06-08T13:37:17.378Z",
+  "generatedAt": "2026-06-08T15:42:13.035Z",
   "ranges": {
     "todayIso": "2026-06-08T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-08T13:37:10.179Z"
+    "nowIso": "2026-06-08T15:42:06.981Z"
   },
   "today": {
-    "contacts": 1,
+    "contacts": 3,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 3,
+    "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
+    "uniqueTextsResponded": 1,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Zach Myers",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T15:31:34.451Z"
+      },
+      {
+        "name": "Michael Mcdaniel",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T14:57:13.847Z"
+      },
+      {
+        "name": "Wally Balfour",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-08T14:56:33.225Z"
+      },
+      {
+        "name": "Michael Gildersleeve",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-08T14:54:14.431Z"
+      },
+      {
+        "name": "Tracy Behnke-Baca",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T14:32:35.118Z"
+      },
+      {
+        "name": "Boe Bigelow",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T13:59:37.612Z"
+      },
+      {
+        "name": "Stan Balken",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T13:39:18.622Z"
+      },
       {
         "name": "Jon Gaynor",
         "texts": 1,
@@ -34,9 +76,9 @@
     ]
   },
   "mtd": {
-    "contacts": 86,
+    "contacts": 88,
     "uniqueCallsAttempted": 43,
-    "uniqueTextsSent": 78,
+    "uniqueTextsSent": 82,
     "uniqueCallsAnswered": 14,
     "uniqueTextsResponded": 22
   },
@@ -44,9 +86,9 @@
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 4,
+      "uniqueTextsSent": 3,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 2
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-02",
@@ -60,14 +102,14 @@
       "uniqueCallsAttempted": 26,
       "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 7
+      "uniqueTextsResponded": 6
     },
     {
       "date": "2026-06-04",
       "uniqueCallsAttempted": 24,
       "uniqueTextsSent": 34,
       "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 9
+      "uniqueTextsResponded": 8
     },
     {
       "date": "2026-06-05",
@@ -93,10 +135,10 @@
     {
       "date": "2026-06-08",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 3,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0
+      "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 162
+  "conversationsScanned": 165
 }
