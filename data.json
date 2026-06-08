@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-06-08T15:42:13.035Z",
+  "generatedAt": "2026-06-08T16:51:50.494Z",
   "ranges": {
     "todayIso": "2026-06-08T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-08T15:42:06.981Z"
+    "nowIso": "2026-06-08T16:51:44.718Z"
   },
   "today": {
-    "contacts": 3,
+    "contacts": 4,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 10,
+    "uniqueTextsSent": 11,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 1,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Daniel",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T16:43:50.212Z"
+      },
       {
         "name": "Zach Myers",
         "texts": 1,
@@ -76,11 +82,11 @@
     ]
   },
   "mtd": {
-    "contacts": 88,
-    "uniqueCallsAttempted": 43,
-    "uniqueTextsSent": 82,
+    "contacts": 89,
+    "uniqueCallsAttempted": 42,
+    "uniqueTextsSent": 79,
     "uniqueCallsAnswered": 14,
-    "uniqueTextsResponded": 22
+    "uniqueTextsResponded": 21
   },
   "daily": [
     {
@@ -99,15 +105,15 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 26,
-      "uniqueTextsSent": 29,
+      "uniqueCallsAttempted": 25,
+      "uniqueTextsSent": 27,
       "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 6
+      "uniqueTextsResponded": 5
     },
     {
       "date": "2026-06-04",
       "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 34,
+      "uniqueTextsSent": 32,
       "uniqueCallsAnswered": 8,
       "uniqueTextsResponded": 8
     },
@@ -135,10 +141,10 @@
     {
       "date": "2026-06-08",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 10,
+      "uniqueTextsSent": 11,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 165
+  "conversationsScanned": 166
 }
