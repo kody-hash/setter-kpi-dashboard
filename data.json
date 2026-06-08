@@ -1,17 +1,47 @@
 {
-  "generatedAt": "2026-06-08T22:28:03.702Z",
+  "generatedAt": "2026-06-08T23:01:14.617Z",
   "ranges": {
     "todayIso": "2026-06-08T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-08T22:27:58.803Z"
+    "nowIso": "2026-06-08T23:01:09.731Z"
   },
   "today": {
     "contacts": 15,
-    "uniqueCallsAttempted": 15,
-    "uniqueTextsSent": 32,
-    "uniqueCallsAnswered": 8,
-    "uniqueTextsResponded": 9,
+    "uniqueCallsAttempted": 20,
+    "uniqueTextsSent": 40,
+    "uniqueCallsAnswered": 9,
+    "uniqueTextsResponded": 12,
     "calledContacts": [
+      {
+        "name": "Carlos Lopez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-08T22:40:47.351Z"
+      },
+      {
+        "name": "Corey Westwood",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-08T22:39:18.350Z"
+      },
+      {
+        "name": "Marlon S Landeros",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-08T22:36:52.645Z"
+      },
+      {
+        "name": "Wally Balfour",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-08T22:31:11.946Z"
+      },
+      {
+        "name": "Ed Saavedra",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-08T22:28:55.738Z"
+      },
       {
         "name": "Tauni Russell",
         "calls": 1,
@@ -105,6 +135,90 @@
     ],
     "textedContacts": [
       {
+        "name": "Jared Williams",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T22:53:50.746Z"
+      },
+      {
+        "name": "Yeali Wellnitz",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T22:53:18.682Z"
+      },
+      {
+        "name": "Marcella Pagliuco",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T22:51:47.147Z"
+      },
+      {
+        "name": "Michelle Lukin",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-06-08T22:51:03.323Z"
+      },
+      {
+        "name": "Lori Simpson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T22:50:35.984Z"
+      },
+      {
+        "name": "Gerry",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T22:50:01.278Z"
+      },
+      {
+        "name": "Rosalynn Torres",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-08T22:48:17.090Z"
+      },
+      {
+        "name": "Sugandha",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-08T22:44:55.007Z"
+      },
+      {
+        "name": "Tru Home Repairs Llc",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T22:44:33.446Z"
+      },
+      {
+        "name": "Carlos Lopez",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-08T22:40:47.351Z"
+      },
+      {
+        "name": "Corey Westwood",
+        "texts": 5,
+        "responded": true,
+        "lastAt": "2026-06-08T22:39:18.350Z"
+      },
+      {
+        "name": "Marlon S Landeros",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-08T22:36:52.645Z"
+      },
+      {
+        "name": "Sharon Perkins",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-08T22:35:05.458Z"
+      },
+      {
+        "name": "Wally Balfour",
+        "texts": 4,
+        "responded": false,
+        "lastAt": "2026-06-08T22:31:11.946Z"
+      },
+      {
         "name": "Tauni Russell",
         "texts": 1,
         "responded": false,
@@ -113,7 +227,7 @@
       {
         "name": "Jose Zamora",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-08T22:18:43.772Z"
       },
       {
@@ -157,18 +271,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-08T22:05:24.590Z"
-      },
-      {
-        "name": "Rosalynn Torres",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-08T22:00:08.166Z"
-      },
-      {
-        "name": "Sugandha",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-06-08T21:50:47.695Z"
       },
       {
         "name": "Daniel",
@@ -219,12 +321,6 @@
         "lastAt": "2026-06-08T20:32:29.123Z"
       },
       {
-        "name": "Carlos Lopez",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-08T20:14:46.022Z"
-      },
-      {
         "name": "Alan Zamora",
         "texts": 1,
         "responded": false,
@@ -261,12 +357,6 @@
         "lastAt": "2026-06-08T18:23:52.156Z"
       },
       {
-        "name": "Marlon S Landeros",
-        "texts": 3,
-        "responded": false,
-        "lastAt": "2026-06-08T18:07:30.809Z"
-      },
-      {
         "name": "Michael Gildersleeve",
         "texts": 3,
         "responded": true,
@@ -283,35 +373,23 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-08T14:57:13.847Z"
-      },
-      {
-        "name": "Wally Balfour",
-        "texts": 3,
-        "responded": false,
-        "lastAt": "2026-06-08T14:56:33.225Z"
-      },
-      {
-        "name": "Corey Westwood",
-        "texts": 3,
-        "responded": false,
-        "lastAt": "2026-06-08T10:42:16.045Z"
       }
     ]
   },
   "mtd": {
     "contacts": 100,
-    "uniqueCallsAttempted": 49,
-    "uniqueTextsSent": 74,
+    "uniqueCallsAttempted": 53,
+    "uniqueTextsSent": 75,
     "uniqueCallsAnswered": 20,
-    "uniqueTextsResponded": 22
+    "uniqueTextsResponded": 24
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 0,
+      "uniqueTextsSent": 1,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-02",
@@ -323,22 +401,22 @@
     {
       "date": "2026-06-03",
       "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 18,
+      "uniqueTextsSent": 19,
       "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 3
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-06-04",
       "uniqueCallsAttempted": 18,
       "uniqueTextsSent": 22,
       "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 4
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 26,
-      "uniqueCallsAnswered": 6,
+      "uniqueCallsAttempted": 26,
+      "uniqueTextsSent": 25,
+      "uniqueCallsAnswered": 5,
       "uniqueTextsResponded": 6
     },
     {
@@ -357,11 +435,11 @@
     },
     {
       "date": "2026-06-08",
-      "uniqueCallsAttempted": 15,
-      "uniqueTextsSent": 32,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 9
+      "uniqueCallsAttempted": 20,
+      "uniqueTextsSent": 40,
+      "uniqueCallsAnswered": 9,
+      "uniqueTextsResponded": 12
     }
   ],
-  "conversationsScanned": 177
+  "conversationsScanned": 178
 }
