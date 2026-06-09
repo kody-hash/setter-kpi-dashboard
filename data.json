@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T21:05:20.482Z",
+  "generatedAt": "2026-06-09T22:51:11.100Z",
   "ranges": {
     "todayIso": "2026-06-09T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-09T21:05:13.486Z"
+    "nowIso": "2026-06-09T22:51:05.171Z"
   },
   "today": {
-    "contacts": 5,
+    "contacts": 6,
     "uniqueCallsAttempted": 23,
-    "uniqueTextsSent": 34,
+    "uniqueTextsSent": 35,
     "uniqueCallsAnswered": 2,
     "uniqueTextsResponded": 5,
     "calledContacts": [
@@ -152,6 +152,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Jason Fox",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-09T22:35:02.155Z"
+      },
       {
         "name": "Christopher Lawson",
         "texts": 1,
@@ -359,11 +365,11 @@
     ]
   },
   "mtd": {
-    "contacts": 111,
-    "uniqueCallsAttempted": 52,
-    "uniqueTextsSent": 79,
-    "uniqueCallsAnswered": 18,
-    "uniqueTextsResponded": 29
+    "contacts": 112,
+    "uniqueCallsAttempted": 51,
+    "uniqueTextsSent": 76,
+    "uniqueCallsAnswered": 17,
+    "uniqueTextsResponded": 26
   },
   "daily": [
     {
@@ -383,9 +389,9 @@
     {
       "date": "2026-06-03",
       "uniqueCallsAttempted": 18,
-      "uniqueTextsSent": 19,
+      "uniqueTextsSent": 18,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 0
     },
     {
       "date": "2026-06-04",
@@ -396,39 +402,39 @@
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 21,
-      "uniqueTextsSent": 14,
-      "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 2
+      "uniqueCallsAttempted": 20,
+      "uniqueTextsSent": 13,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-06",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 14,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 2
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-07",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 22,
+      "uniqueTextsSent": 21,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 2
     },
     {
       "date": "2026-06-08",
       "uniqueCallsAttempted": 41,
-      "uniqueTextsSent": 59,
+      "uniqueTextsSent": 56,
       "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 17
+      "uniqueTextsResponded": 16
     },
     {
       "date": "2026-06-09",
       "uniqueCallsAttempted": 23,
-      "uniqueTextsSent": 34,
+      "uniqueTextsSent": 35,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 5
     }
   ],
-  "conversationsScanned": 197
+  "conversationsScanned": 199
 }
