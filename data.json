@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-06-09T14:19:51.738Z",
+  "generatedAt": "2026-06-09T16:32:54.681Z",
   "ranges": {
     "todayIso": "2026-06-09T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-09T14:19:47.340Z"
+    "nowIso": "2026-06-09T16:32:47.336Z"
   },
   "today": {
-    "contacts": 0,
+    "contacts": 1,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 5,
+    "uniqueTextsSent": 8,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
+    "uniqueTextsResponded": 1,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Logan Bayus",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-09T16:31:22.367Z"
+      },
+      {
+        "name": "Dj Rey",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-09T16:00:49.919Z"
+      },
+      {
+        "name": "Starr Hargett",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-09T15:52:11.437Z"
+      },
       {
         "name": "Stan Balken",
         "texts": 1,
@@ -46,10 +64,10 @@
     ]
   },
   "mtd": {
-    "contacts": 106,
-    "uniqueCallsAttempted": 46,
+    "contacts": 107,
+    "uniqueCallsAttempted": 45,
     "uniqueTextsSent": 74,
-    "uniqueCallsAnswered": 16,
+    "uniqueCallsAnswered": 15,
     "uniqueTextsResponded": 25
   },
   "daily": [
@@ -83,9 +101,9 @@
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 15,
-      "uniqueCallsAnswered": 4,
+      "uniqueCallsAttempted": 21,
+      "uniqueTextsSent": 14,
+      "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 1
     },
     {
@@ -112,10 +130,10 @@
     {
       "date": "2026-06-09",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 5,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0
+      "uniqueTextsResponded": 1
     }
   ],
-  "conversationsScanned": 190
+  "conversationsScanned": 191
 }
