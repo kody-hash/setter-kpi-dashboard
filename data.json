@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-10T00:18:35.391Z",
+  "generatedAt": "2026-06-10T03:38:07.519Z",
   "ranges": {
     "todayIso": "2026-06-09T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-10T00:18:16.186Z"
+    "nowIso": "2026-06-10T03:37:55.339Z"
   },
   "today": {
-    "contacts": 7,
+    "contacts": 9,
     "uniqueCallsAttempted": 25,
-    "uniqueTextsSent": 40,
+    "uniqueTextsSent": 42,
     "uniqueCallsAnswered": 3,
     "uniqueTextsResponded": 8,
     "calledContacts": [
@@ -164,6 +164,18 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Armando Aguayo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-10T01:54:18.298Z"
+      },
+      {
+        "name": "Andy Elliott",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-10T00:54:25.723Z"
+      },
       {
         "name": "Lior Hartenstein",
         "texts": 1,
@@ -407,76 +419,76 @@
     ]
   },
   "mtd": {
-    "contacts": 113,
-    "uniqueCallsAttempted": 84,
-    "uniqueTextsSent": 144,
-    "uniqueCallsAnswered": 34,
-    "uniqueTextsResponded": 53
+    "contacts": 115,
+    "uniqueCallsAttempted": 55,
+    "uniqueTextsSent": 92,
+    "uniqueCallsAnswered": 19,
+    "uniqueTextsResponded": 30
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 10,
+      "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 2
+      "uniqueTextsResponded": 3
     },
     {
       "date": "2026-06-02",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 12,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 1
+    },
+    {
+      "date": "2026-06-03",
+      "uniqueCallsAttempted": 20,
+      "uniqueTextsSent": 22,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 1
+    },
+    {
+      "date": "2026-06-04",
+      "uniqueCallsAttempted": 16,
+      "uniqueTextsSent": 19,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 2
+    },
+    {
+      "date": "2026-06-05",
+      "uniqueCallsAttempted": 21,
+      "uniqueTextsSent": 13,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 1
+    },
+    {
+      "date": "2026-06-06",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 10,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 0
+    },
+    {
+      "date": "2026-06-07",
       "uniqueCallsAttempted": 0,
       "uniqueTextsSent": 18,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
     {
-      "date": "2026-06-03",
-      "uniqueCallsAttempted": 41,
-      "uniqueTextsSent": 52,
-      "uniqueCallsAnswered": 10,
-      "uniqueTextsResponded": 13
-    },
-    {
-      "date": "2026-06-04",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 38,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 11
-    },
-    {
-      "date": "2026-06-05",
-      "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 26,
-      "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 6
-    },
-    {
-      "date": "2026-06-06",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 16,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 4
-    },
-    {
-      "date": "2026-06-07",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 24,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 4
-    },
-    {
       "date": "2026-06-08",
       "uniqueCallsAttempted": 41,
-      "uniqueTextsSent": 61,
+      "uniqueTextsSent": 53,
       "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 17
+      "uniqueTextsResponded": 14
     },
     {
       "date": "2026-06-09",
       "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 40,
+      "uniqueTextsSent": 42,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 8
     }
   ],
-  "conversationsScanned": 201
+  "conversationsScanned": 203
 }
