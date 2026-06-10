@@ -1,23 +1,144 @@
 {
-  "generatedAt": "2026-06-10T18:01:59.990Z",
+  "generatedAt": "2026-06-10T19:41:48.443Z",
   "ranges": {
     "todayIso": "2026-06-10T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-10T18:01:32.844Z"
+    "nowIso": "2026-06-10T19:41:22.920Z"
   },
   "today": {
-    "contacts": 8,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 12,
-    "uniqueCallsAnswered": 0,
+    "contacts": 10,
+    "uniqueCallsAttempted": 11,
+    "uniqueTextsSent": 16,
+    "uniqueCallsAnswered": 7,
     "uniqueTextsResponded": 2,
-    "calledContacts": [],
-    "textedContacts": [
+    "calledContacts": [
+      {
+        "name": "Jon Gray",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-10T18:56:25.811Z"
+      },
       {
         "name": "Hannah Wilson",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-10T18:54:53.711Z"
+      },
+      {
+        "name": "Wendy Nichols",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-10T18:48:33.783Z"
+      },
+      {
+        "name": "Calixto Flores",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-10T18:47:23.200Z"
+      },
+      {
+        "name": "Mike Pyeatt",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-10T18:43:32.386Z"
+      },
+      {
+        "name": "Chris Sands",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-10T18:25:37.922Z"
+      },
+      {
+        "name": "Steven Barry",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-10T18:24:50.733Z"
+      },
+      {
+        "name": "Sam Hibbs",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-06-10T18:22:59.474Z"
+      },
+      {
+        "name": "Dee Hagerman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-10T18:22:35.208Z"
+      },
+      {
+        "name": "Armando Aguayo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-06-10T18:21:10.557Z"
+      },
+      {
+        "name": "Andy Elliott",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-10T18:10:30.959Z"
+      }
+    ],
+    "textedContacts": [
+      {
+        "name": "Jon Gray",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-10T18:56:25.811Z"
+      },
+      {
+        "name": "Hannah Wilson",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-10T18:54:53.711Z"
+      },
+      {
+        "name": "Wendy Nichols",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-10T18:48:33.783Z"
+      },
+      {
+        "name": "Calixto Flores",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-10T18:47:23.200Z"
+      },
+      {
+        "name": "Mike Pyeatt",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-10T18:43:32.386Z"
+      },
+      {
+        "name": "Chris Sands",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-10T18:25:37.922Z"
+      },
+      {
+        "name": "Steven Barry",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-10T18:24:50.733Z"
+      },
+      {
+        "name": "Dee Hagerman",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-10T17:31:48.439Z"
+        "lastAt": "2026-06-10T18:22:35.208Z"
+      },
+      {
+        "name": "Armando Aguayo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-10T18:21:10.557Z"
+      },
+      {
+        "name": "Andy Elliott",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-10T18:10:30.959Z"
       },
       {
         "name": "Troy Mcdaniel",
@@ -30,12 +151,6 @@
         "texts": 1,
         "responded": true,
         "lastAt": "2026-06-10T17:13:13.083Z"
-      },
-      {
-        "name": "Wendy Nichols",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-10T16:54:29.004Z"
       },
       {
         "name": "Phil Sarkisian",
@@ -56,51 +171,27 @@
         "lastAt": "2026-06-10T15:28:26.207Z"
       },
       {
-        "name": "Calixto Flores",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-10T14:25:20.329Z"
-      },
-      {
         "name": "Aj Fig",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-10T13:52:04.752Z"
-      },
-      {
-        "name": "Mike Pyeatt",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-10T13:34:33.351Z"
-      },
-      {
-        "name": "Chris Sands",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-10T12:37:00.370Z"
-      },
-      {
-        "name": "Steven Barry",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-10T11:42:51.809Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 125,
-    "uniqueCallsAttempted": 83,
-    "uniqueTextsSent": 160,
-    "uniqueCallsAnswered": 35,
-    "uniqueTextsResponded": 52
+    "contacts": 127,
+    "uniqueCallsAttempted": 95,
+    "uniqueTextsSent": 165,
+    "uniqueCallsAnswered": 41,
+    "uniqueTextsResponded": 56
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 13,
+      "uniqueTextsSent": 14,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 3
+      "uniqueTextsResponded": 4
     },
     {
       "date": "2026-06-02",
@@ -111,17 +202,17 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 40,
-      "uniqueTextsSent": 47,
-      "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 9
+      "uniqueCallsAttempted": 41,
+      "uniqueTextsSent": 51,
+      "uniqueCallsAnswered": 10,
+      "uniqueTextsResponded": 13
     },
     {
       "date": "2026-06-04",
       "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 35,
+      "uniqueTextsSent": 38,
       "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 10
+      "uniqueTextsResponded": 11
     },
     {
       "date": "2026-06-05",
@@ -160,11 +251,11 @@
     },
     {
       "date": "2026-06-10",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 12,
-      "uniqueCallsAnswered": 0,
+      "uniqueCallsAttempted": 11,
+      "uniqueTextsSent": 16,
+      "uniqueCallsAnswered": 7,
       "uniqueTextsResponded": 2
     }
   ],
-  "conversationsScanned": 216
+  "conversationsScanned": 218
 }
