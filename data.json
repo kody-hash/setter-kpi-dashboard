@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-06-10T17:23:55.075Z",
+  "generatedAt": "2026-06-10T17:34:56.649Z",
   "ranges": {
     "todayIso": "2026-06-10T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-10T17:23:25.762Z"
+    "nowIso": "2026-06-10T17:34:28.071Z"
   },
   "today": {
-    "contacts": 7,
+    "contacts": 8,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 11,
+    "uniqueTextsSent": 12,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1,
+    "uniqueTextsResponded": 2,
     "calledContacts": [],
     "textedContacts": [
+      {
+        "name": "Hannah Wilson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-10T17:31:48.439Z"
+      },
       {
         "name": "Troy Mcdaniel",
         "texts": 3,
@@ -22,7 +28,7 @@
       {
         "name": "Josh Tibbs",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-10T17:13:13.083Z"
       },
       {
@@ -82,9 +88,9 @@
     ]
   },
   "mtd": {
-    "contacts": 124,
+    "contacts": 125,
     "uniqueCallsAttempted": 85,
-    "uniqueTextsSent": 166,
+    "uniqueTextsSent": 167,
     "uniqueCallsAnswered": 35,
     "uniqueTextsResponded": 56
   },
@@ -155,10 +161,10 @@
     {
       "date": "2026-06-10",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 11,
+      "uniqueTextsSent": 12,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 2
     }
   ],
-  "conversationsScanned": 215
+  "conversationsScanned": 216
 }
