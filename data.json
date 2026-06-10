@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-10T19:41:48.443Z",
+  "generatedAt": "2026-06-10T19:55:14.589Z",
   "ranges": {
     "todayIso": "2026-06-10T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-10T19:41:22.920Z"
+    "nowIso": "2026-06-10T19:54:46.153Z"
   },
   "today": {
     "contacts": 10,
     "uniqueCallsAttempted": 11,
-    "uniqueTextsSent": 16,
+    "uniqueTextsSent": 17,
     "uniqueCallsAnswered": 7,
     "uniqueTextsResponded": 2,
     "calledContacts": [
@@ -80,6 +80,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Rick Harris",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-10T19:47:07.360Z"
+      },
       {
         "name": "Jon Gray",
         "texts": 2,
@@ -180,9 +186,9 @@
   },
   "mtd": {
     "contacts": 127,
-    "uniqueCallsAttempted": 95,
-    "uniqueTextsSent": 165,
-    "uniqueCallsAnswered": 41,
+    "uniqueCallsAttempted": 96,
+    "uniqueTextsSent": 169,
+    "uniqueCallsAnswered": 42,
     "uniqueTextsResponded": 56
   },
   "daily": [
@@ -202,9 +208,9 @@
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 41,
-      "uniqueTextsSent": 51,
-      "uniqueCallsAnswered": 10,
+      "uniqueCallsAttempted": 42,
+      "uniqueTextsSent": 54,
+      "uniqueCallsAnswered": 11,
       "uniqueTextsResponded": 13
     },
     {
@@ -252,10 +258,10 @@
     {
       "date": "2026-06-10",
       "uniqueCallsAttempted": 11,
-      "uniqueTextsSent": 16,
+      "uniqueTextsSent": 17,
       "uniqueCallsAnswered": 7,
       "uniqueTextsResponded": 2
     }
   ],
-  "conversationsScanned": 218
+  "conversationsScanned": 219
 }
