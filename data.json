@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-10T23:51:04.631Z",
+  "generatedAt": "2026-06-11T03:54:25.913Z",
   "ranges": {
     "todayIso": "2026-06-10T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-10T23:50:44.094Z"
+    "nowIso": "2026-06-11T03:54:13.370Z"
   },
   "today": {
-    "contacts": 11,
+    "contacts": 13,
     "uniqueCallsAttempted": 34,
-    "uniqueTextsSent": 59,
+    "uniqueTextsSent": 61,
     "uniqueCallsAnswered": 9,
-    "uniqueTextsResponded": 9,
+    "uniqueTextsResponded": 14,
     "calledContacts": [
       {
         "name": "Steve Dorsey",
@@ -219,6 +219,24 @@
     ],
     "textedContacts": [
       {
+        "name": "Andy Willett",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-11T01:31:30.532Z"
+      },
+      {
+        "name": "Tadd P",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-11T00:29:32.606Z"
+      },
+      {
+        "name": "Michael Mcdaniel",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-11T00:03:00.178Z"
+      },
+      {
         "name": "Moses O Beristain",
         "texts": 1,
         "responded": false,
@@ -239,7 +257,7 @@
       {
         "name": "Cindy Almas",
         "texts": 2,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-10T23:41:14.303Z"
       },
       {
@@ -305,7 +323,7 @@
       {
         "name": "Larry Harig",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-10T23:02:27.311Z"
       },
       {
@@ -317,7 +335,7 @@
       {
         "name": "Ken Schroeder",
         "texts": 2,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-06-10T23:02:26.467Z"
       },
       {
@@ -561,12 +579,6 @@
         "lastAt": "2026-06-10T15:43:07.773Z"
       },
       {
-        "name": "Ayhab Kadhum",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-06-10T15:28:26.207Z"
-      },
-      {
         "name": "Aj Fig",
         "texts": 1,
         "responded": false,
@@ -575,83 +587,83 @@
     ]
   },
   "mtd": {
-    "contacts": 128,
-    "uniqueCallsAttempted": 89,
-    "uniqueTextsSent": 152,
-    "uniqueCallsAnswered": 40,
-    "uniqueTextsResponded": 57
+    "contacts": 130,
+    "uniqueCallsAttempted": 66,
+    "uniqueTextsSent": 111,
+    "uniqueCallsAnswered": 31,
+    "uniqueTextsResponded": 36
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 8,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 2
     },
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 15,
+      "uniqueTextsSent": 12,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 35,
-      "uniqueTextsSent": 40,
-      "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 10
+      "uniqueCallsAttempted": 25,
+      "uniqueTextsSent": 29,
+      "uniqueCallsAnswered": 9,
+      "uniqueTextsResponded": 4
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 38,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 11
+      "uniqueCallsAttempted": 11,
+      "uniqueTextsSent": 11,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 26,
-      "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 6
+      "uniqueCallsAttempted": 16,
+      "uniqueTextsSent": 7,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-06",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 16,
+      "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 4
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-07",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 24,
+      "uniqueTextsSent": 14,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 4
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-08",
-      "uniqueCallsAttempted": 41,
-      "uniqueTextsSent": 61,
-      "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 17
+      "uniqueCallsAttempted": 32,
+      "uniqueTextsSent": 38,
+      "uniqueCallsAnswered": 8,
+      "uniqueTextsResponded": 10
     },
     {
       "date": "2026-06-09",
-      "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 44,
+      "uniqueCallsAttempted": 23,
+      "uniqueTextsSent": 31,
       "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 8
+      "uniqueTextsResponded": 6
     },
     {
       "date": "2026-06-10",
       "uniqueCallsAttempted": 34,
-      "uniqueTextsSent": 59,
+      "uniqueTextsSent": 61,
       "uniqueCallsAnswered": 9,
-      "uniqueTextsResponded": 9
+      "uniqueTextsResponded": 14
     }
   ],
-  "conversationsScanned": 224
+  "conversationsScanned": 226
 }
