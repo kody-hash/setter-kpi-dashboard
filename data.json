@@ -1,23 +1,77 @@
 {
-  "generatedAt": "2026-06-11T17:38:30.533Z",
+  "generatedAt": "2026-06-11T20:01:35.177Z",
   "ranges": {
     "todayIso": "2026-06-11T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-11T17:37:59.439Z"
+    "nowIso": "2026-06-11T20:01:02.191Z"
   },
   "today": {
     "contacts": 0,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 4,
+    "uniqueTextsSent": 13,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
+    "uniqueTextsResponded": 2,
     "calledContacts": [],
     "textedContacts": [
       {
+        "name": "Moses O Beristain",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-11T19:33:02.011Z"
+      },
+      {
+        "name": "Jose Flores",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-11T19:32:42.854Z"
+      },
+      {
+        "name": "Vickie Lynne Shelquist",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-11T19:24:54.824Z"
+      },
+      {
         "name": "Larry Harig",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-11T19:12:30.663Z"
+      },
+      {
+        "name": "Jason Bill",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-11T19:04:13.752Z"
+      },
+      {
+        "name": "Andy Willett",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-06-11T16:53:45.131Z"
+        "lastAt": "2026-06-11T18:59:59.843Z"
+      },
+      {
+        "name": "Cindy Almas",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-11T18:58:23.204Z"
+      },
+      {
+        "name": "Ken Schroeder",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-11T18:57:00.364Z"
+      },
+      {
+        "name": "Tauni Russell",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-11T18:55:27.271Z"
+      },
+      {
+        "name": "Lior Hartenstein",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-11T18:52:14.157Z"
       },
       {
         "name": "Zach Myers",
@@ -42,9 +96,9 @@
   "mtd": {
     "contacts": 132,
     "uniqueCallsAttempted": 96,
-    "uniqueTextsSent": 178,
+    "uniqueTextsSent": 180,
     "uniqueCallsAnswered": 44,
-    "uniqueTextsResponded": 65
+    "uniqueTextsResponded": 66
   },
   "daily": [
     {
@@ -99,14 +153,14 @@
     {
       "date": "2026-06-08",
       "uniqueCallsAttempted": 41,
-      "uniqueTextsSent": 60,
+      "uniqueTextsSent": 61,
       "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 16
+      "uniqueTextsResponded": 17
     },
     {
       "date": "2026-06-09",
       "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 43,
+      "uniqueTextsSent": 44,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 8
     },
@@ -120,10 +174,10 @@
     {
       "date": "2026-06-11",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 4,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0
+      "uniqueTextsResponded": 2
     }
   ],
-  "conversationsScanned": 230
+  "conversationsScanned": 231
 }
