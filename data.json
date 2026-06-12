@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-12T21:06:13.844Z",
+  "generatedAt": "2026-06-12T22:48:58.835Z",
   "ranges": {
     "todayIso": "2026-06-12T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-12T21:05:52.055Z"
+    "nowIso": "2026-06-12T22:48:39.693Z"
   },
   "today": {
-    "contacts": 7,
+    "contacts": 10,
     "uniqueCallsAttempted": 5,
-    "uniqueTextsSent": 23,
+    "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 3,
-    "uniqueTextsResponded": 3,
+    "uniqueTextsResponded": 4,
     "calledContacts": [
       {
         "name": "Ronald Balanay",
@@ -44,6 +44,18 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Patrick Joseph",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-06-12T22:23:50.241Z"
+      },
+      {
+        "name": "Karina Quezada",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T21:52:26.865Z"
+      },
       {
         "name": "Tania Mroczek",
         "texts": 1,
@@ -129,12 +141,6 @@
         "lastAt": "2026-06-12T18:01:58.123Z"
       },
       {
-        "name": "Patrick Joseph",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-06-12T18:00:34.477Z"
-      },
-      {
         "name": "Niccole Armaolea",
         "texts": 1,
         "responded": false,
@@ -185,10 +191,10 @@
     ]
   },
   "mtd": {
-    "contacts": 142,
-    "uniqueCallsAttempted": 81,
+    "contacts": 145,
+    "uniqueCallsAttempted": 82,
     "uniqueTextsSent": 151,
-    "uniqueCallsAnswered": 37,
+    "uniqueCallsAnswered": 38,
     "uniqueTextsResponded": 59
   },
   "daily": [
@@ -211,14 +217,14 @@
       "uniqueCallsAttempted": 24,
       "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 5
+      "uniqueTextsResponded": 4
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 29,
-      "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 8
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 28,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 7
     },
     {
       "date": "2026-06-05",
@@ -272,10 +278,10 @@
     {
       "date": "2026-06-12",
       "uniqueCallsAttempted": 5,
-      "uniqueTextsSent": 23,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 3
+      "uniqueTextsResponded": 4
     }
   ],
-  "conversationsScanned": 244
+  "conversationsScanned": 246
 }
