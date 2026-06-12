@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-12T20:40:50.451Z",
+  "generatedAt": "2026-06-12T21:06:13.844Z",
   "ranges": {
     "todayIso": "2026-06-12T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-12T20:40:29.033Z"
+    "nowIso": "2026-06-12T21:05:52.055Z"
   },
   "today": {
     "contacts": 7,
@@ -186,39 +186,39 @@
   },
   "mtd": {
     "contacts": 142,
-    "uniqueCallsAttempted": 89,
-    "uniqueTextsSent": 161,
-    "uniqueCallsAnswered": 39,
-    "uniqueTextsResponded": 63
+    "uniqueCallsAttempted": 81,
+    "uniqueTextsSent": 151,
+    "uniqueCallsAnswered": 37,
+    "uniqueTextsResponded": 59
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 8,
+      "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 3
+      "uniqueTextsResponded": 2
     },
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 14,
+      "uniqueTextsSent": 12,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0
+      "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 30,
-      "uniqueTextsSent": 36,
+      "uniqueCallsAttempted": 24,
+      "uniqueTextsSent": 29,
       "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 9
+      "uniqueTextsResponded": 5
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 36,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 10
+      "uniqueCallsAttempted": 19,
+      "uniqueTextsSent": 29,
+      "uniqueCallsAnswered": 6,
+      "uniqueTextsResponded": 8
     },
     {
       "date": "2026-06-05",
@@ -258,7 +258,7 @@
     {
       "date": "2026-06-10",
       "uniqueCallsAttempted": 34,
-      "uniqueTextsSent": 63,
+      "uniqueTextsSent": 64,
       "uniqueCallsAnswered": 9,
       "uniqueTextsResponded": 15
     },
@@ -277,5 +277,5 @@
       "uniqueTextsResponded": 3
     }
   ],
-  "conversationsScanned": 243
+  "conversationsScanned": 244
 }
