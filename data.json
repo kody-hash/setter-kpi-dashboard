@@ -1,26 +1,38 @@
 {
-  "generatedAt": "2026-06-12T00:04:14.433Z",
+  "generatedAt": "2026-06-12T03:53:12.504Z",
   "ranges": {
     "todayIso": "2026-06-11T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-12T00:03:54.282Z"
+    "nowIso": "2026-06-12T03:52:56.969Z"
   },
   "today": {
-    "contacts": 1,
+    "contacts": 2,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 31,
+    "uniqueTextsSent": 33,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 6,
+    "uniqueTextsResponded": 7,
     "calledContacts": [],
     "textedContacts": [
       {
-        "name": "Michael Mcdaniel",
+        "name": "Jeff Levkowitz",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-12T02:58:43.734Z"
+      },
+      {
+        "name": "Gerardo Trejo",
         "texts": 1,
         "responded": false,
+        "lastAt": "2026-06-12T02:49:41.149Z"
+      },
+      {
+        "name": "Michael Mcdaniel",
+        "texts": 1,
+        "responded": true,
         "lastAt": "2026-06-12T00:03:26.634Z"
       },
       {
-        "name": "Nikki Armaolea",
+        "name": "Niccole Armaolea",
         "texts": 2,
         "responded": false,
         "lastAt": "2026-06-11T23:48:07.329Z"
@@ -202,90 +214,90 @@
     ]
   },
   "mtd": {
-    "contacts": 133,
-    "uniqueCallsAttempted": 85,
-    "uniqueTextsSent": 159,
-    "uniqueCallsAnswered": 38,
-    "uniqueTextsResponded": 64
+    "contacts": 134,
+    "uniqueCallsAttempted": 79,
+    "uniqueTextsSent": 145,
+    "uniqueCallsAnswered": 36,
+    "uniqueTextsResponded": 53
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 8,
+      "uniqueTextsSent": 12,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 3
     },
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 15,
+      "uniqueTextsSent": 18,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-03",
       "uniqueCallsAttempted": 33,
-      "uniqueTextsSent": 41,
-      "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 10
+      "uniqueTextsSent": 43,
+      "uniqueCallsAnswered": 9,
+      "uniqueTextsResponded": 13
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 38,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 11
+      "uniqueCallsAttempted": 19,
+      "uniqueTextsSent": 29,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 9
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 26,
-      "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 6
+      "uniqueCallsAttempted": 21,
+      "uniqueTextsSent": 19,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 5
     },
     {
       "date": "2026-06-06",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 16,
+      "uniqueTextsSent": 13,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 4
     },
     {
       "date": "2026-06-07",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 24,
+      "uniqueTextsSent": 20,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 4
+      "uniqueTextsResponded": 3
     },
     {
       "date": "2026-06-08",
-      "uniqueCallsAttempted": 41,
-      "uniqueTextsSent": 61,
-      "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 17
+      "uniqueCallsAttempted": 33,
+      "uniqueTextsSent": 44,
+      "uniqueCallsAnswered": 9,
+      "uniqueTextsResponded": 12
     },
     {
       "date": "2026-06-09",
-      "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 43,
-      "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 8
+      "uniqueCallsAttempted": 21,
+      "uniqueTextsSent": 25,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 3
     },
     {
       "date": "2026-06-10",
-      "uniqueCallsAttempted": 32,
-      "uniqueTextsSent": 62,
-      "uniqueCallsAnswered": 9,
-      "uniqueTextsResponded": 15
+      "uniqueCallsAttempted": 33,
+      "uniqueTextsSent": 56,
+      "uniqueCallsAnswered": 8,
+      "uniqueTextsResponded": 13
     },
     {
       "date": "2026-06-11",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 31,
+      "uniqueTextsSent": 33,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 6
+      "uniqueTextsResponded": 7
     }
   ],
-  "conversationsScanned": 233
+  "conversationsScanned": 234
 }
