@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-12T19:08:18.475Z",
+  "generatedAt": "2026-06-12T20:40:50.451Z",
   "ranges": {
     "todayIso": "2026-06-12T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-12T19:07:55.286Z"
+    "nowIso": "2026-06-12T20:40:29.033Z"
   },
   "today": {
-    "contacts": 4,
+    "contacts": 7,
     "uniqueCallsAttempted": 5,
-    "uniqueTextsSent": 21,
+    "uniqueTextsSent": 23,
     "uniqueCallsAnswered": 3,
     "uniqueTextsResponded": 3,
     "calledContacts": [
@@ -45,6 +45,24 @@
     ],
     "textedContacts": [
       {
+        "name": "Tania Mroczek",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T20:40:17.507Z"
+      },
+      {
+        "name": "Eduart Nikolla",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T20:26:05.492Z"
+      },
+      {
+        "name": "Laura Jean",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-12T19:08:52.461Z"
+      },
+      {
         "name": "Andy Elliott",
         "texts": 1,
         "responded": false,
@@ -61,12 +79,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-06-12T19:00:21.690Z"
-      },
-      {
-        "name": "Laura Jean",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-06-12T18:59:51.702Z"
       },
       {
         "name": "Lysa Marquardt",
@@ -173,9 +185,9 @@
     ]
   },
   "mtd": {
-    "contacts": 139,
-    "uniqueCallsAttempted": 86,
-    "uniqueTextsSent": 166,
+    "contacts": 142,
+    "uniqueCallsAttempted": 89,
+    "uniqueTextsSent": 161,
     "uniqueCallsAnswered": 39,
     "uniqueTextsResponded": 63
   },
@@ -183,30 +195,30 @@
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 10,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 4
+      "uniqueTextsResponded": 3
     },
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 17,
+      "uniqueTextsSent": 14,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1
+      "uniqueTextsResponded": 0
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 27,
-      "uniqueTextsSent": 38,
-      "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 7
+      "uniqueCallsAttempted": 30,
+      "uniqueTextsSent": 36,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 9
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 31,
-      "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 8
+      "uniqueCallsAttempted": 24,
+      "uniqueTextsSent": 36,
+      "uniqueCallsAnswered": 8,
+      "uniqueTextsResponded": 10
     },
     {
       "date": "2026-06-05",
@@ -246,7 +258,7 @@
     {
       "date": "2026-06-10",
       "uniqueCallsAttempted": 34,
-      "uniqueTextsSent": 64,
+      "uniqueTextsSent": 63,
       "uniqueCallsAnswered": 9,
       "uniqueTextsResponded": 15
     },
@@ -260,10 +272,10 @@
     {
       "date": "2026-06-12",
       "uniqueCallsAttempted": 5,
-      "uniqueTextsSent": 21,
+      "uniqueTextsSent": 23,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 3
     }
   ],
-  "conversationsScanned": 240
+  "conversationsScanned": 243
 }
