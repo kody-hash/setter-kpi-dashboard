@@ -1,23 +1,156 @@
 {
-  "generatedAt": "2026-06-12T16:46:44.483Z",
+  "generatedAt": "2026-06-12T19:08:18.475Z",
   "ranges": {
     "todayIso": "2026-06-12T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-12T16:46:16.893Z"
+    "nowIso": "2026-06-12T19:07:55.286Z"
   },
   "today": {
-    "contacts": 2,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 4,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1,
-    "calledContacts": [],
+    "contacts": 4,
+    "uniqueCallsAttempted": 5,
+    "uniqueTextsSent": 21,
+    "uniqueCallsAnswered": 3,
+    "uniqueTextsResponded": 3,
+    "calledContacts": [
+      {
+        "name": "Ronald Balanay",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-12T18:22:14.187Z"
+      },
+      {
+        "name": "Jeff Levkowitz",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-12T18:20:50.253Z"
+      },
+      {
+        "name": "Ramon Chavarria",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-12T18:15:16.531Z"
+      },
+      {
+        "name": "Robin Parmar",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-06-12T18:13:38.646Z"
+      },
+      {
+        "name": "Andy Willett",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-06-12T18:13:16.990Z"
+      }
+    ],
     "textedContacts": [
       {
-        "name": "Dusty Butler",
+        "name": "Andy Elliott",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T19:06:52.357Z"
+      },
+      {
+        "name": "Mike Pyeatt",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T19:05:24.490Z"
+      },
+      {
+        "name": "Angela N Kidd",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T19:00:21.690Z"
+      },
+      {
+        "name": "Laura Jean",
         "texts": 1,
         "responded": true,
-        "lastAt": "2026-06-12T16:36:33.529Z"
+        "lastAt": "2026-06-12T18:59:51.702Z"
+      },
+      {
+        "name": "Lysa Marquardt",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T18:57:57.003Z"
+      },
+      {
+        "name": "Jason Fox",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T18:56:40.725Z"
+      },
+      {
+        "name": "Brian Smith",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T18:43:14.729Z"
+      },
+      {
+        "name": "Zach Myers",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T18:42:37.500Z"
+      },
+      {
+        "name": "Ronald Balanay",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-06-12T18:22:14.187Z"
+      },
+      {
+        "name": "Jeff Levkowitz",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T18:20:50.253Z"
+      },
+      {
+        "name": "Andy Willett",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T18:13:16.990Z"
+      },
+      {
+        "name": "Rene A",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T18:01:58.123Z"
+      },
+      {
+        "name": "Patrick Joseph",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-12T18:00:34.477Z"
+      },
+      {
+        "name": "Niccole Armaolea",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T17:50:48.920Z"
+      },
+      {
+        "name": "Dusty Butler",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-12T17:31:34.547Z"
+      },
+      {
+        "name": "Jaysen Robles",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-06-12T17:27:38.246Z"
+      },
+      {
+        "name": "Steve Dorsey",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-06-12T17:15:17.007Z"
+      },
+      {
+        "name": "Starr Hargett",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-06-12T16:53:54.331Z"
       },
       {
         "name": "Stan Balken",
@@ -40,40 +173,40 @@
     ]
   },
   "mtd": {
-    "contacts": 137,
-    "uniqueCallsAttempted": 96,
-    "uniqueTextsSent": 186,
-    "uniqueCallsAnswered": 44,
-    "uniqueTextsResponded": 69
+    "contacts": 139,
+    "uniqueCallsAttempted": 86,
+    "uniqueTextsSent": 166,
+    "uniqueCallsAnswered": 39,
+    "uniqueTextsResponded": 63
   },
   "daily": [
     {
       "date": "2026-06-01",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 14,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 4
     },
     {
       "date": "2026-06-02",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 21,
+      "uniqueTextsSent": 17,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 1
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 42,
-      "uniqueTextsSent": 54,
-      "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 13
+      "uniqueCallsAttempted": 27,
+      "uniqueTextsSent": 38,
+      "uniqueCallsAnswered": 4,
+      "uniqueTextsResponded": 7
     },
     {
       "date": "2026-06-04",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 38,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 11
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 31,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 8
     },
     {
       "date": "2026-06-05",
@@ -126,11 +259,11 @@
     },
     {
       "date": "2026-06-12",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 4,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1
+      "uniqueCallsAttempted": 5,
+      "uniqueTextsSent": 21,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 3
     }
   ],
-  "conversationsScanned": 237
+  "conversationsScanned": 240
 }
