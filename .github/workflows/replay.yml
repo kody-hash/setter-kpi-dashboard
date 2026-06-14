@@ -1,0 +1,38 @@
+name: Replay activity for a single day
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: "Phoenix calendar date to replay, format YYYY-MM-DD"
+        required: true
+        type: string
+
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run replay
+        env:
+          GHL_TOKEN: ${{ secrets.GHL_TOKEN }}
+          GHL_LOCATION_ID: ${{ secrets.GHL_LOCATION_ID }}
+          TARGET_DATE: ${{ inputs.target_date }}
+        run: node scripts/replay-date.js
+
+      - name: Commit replay JSON
+        env:
+          TARGET_DATE: ${{ inputs.target_date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "replay-${TARGET_DATE}.json"
+          git diff --staged --quiet || git commit -m "replay: ${TARGET_DATE}"
+          git push
