@@ -207,19 +207,24 @@ async function build() {
       const cname = c.fullName || c.contactName || "(unnamed)";
       const dayKey = localDayKey(t);
       if (!dailyByDate[dayKey]) {
-        dailyByDate[dayKey] = { called: new Set(), texted: new Set(), callsAnswered: new Set(), textedIn: new Set(), textedWindows: {} };
+        dailyByDate[dayKey] = { called: new Set(), texted: new Set(), callsAnswered: new Set(), textedIn: new Set(), textedWindows: {}, automationTexted: new Set() };
       }
 
       if (direction === "outbound") {
         if (kind === "sms") {
-          mtdUniqueTextedIds.add(cid);
-          dailyByDate[dayKey].texted.add(cid);
-          const winKey = Math.floor(t / (5 * 60 * 1000)) * (5 * 60 * 1000);
-          if (!dailyByDate[dayKey].textedWindows[winKey]) dailyByDate[dayKey].textedWindows[winKey] = new Set();
-          dailyByDate[dayKey].textedWindows[winKey].add(cid);
-          if (inToday) {
-            todayUniqueTextedIds.add(cid);
-            bumpDetail(cid, cname, "texts", t);
+          const isAutomation = m.source === "workflow" || !m.source;
+          if (isAutomation) {
+            dailyByDate[dayKey].automationTexted.add(cid);
+          } else {
+            mtdUniqueTextedIds.add(cid);
+            dailyByDate[dayKey].texted.add(cid);
+            const winKey = Math.floor(t / (5 * 60 * 1000)) * (5 * 60 * 1000);
+            if (!dailyByDate[dayKey].textedWindows[winKey]) dailyByDate[dayKey].textedWindows[winKey] = new Set();
+            dailyByDate[dayKey].textedWindows[winKey].add(cid);
+            if (inToday) {
+              todayUniqueTextedIds.add(cid);
+              bumpDetail(cid, cname, "texts", t);
+            }
           }
         } else if (kind === "call") {
           mtdUniqueCalledIds.add(cid);
@@ -279,6 +284,7 @@ async function build() {
   today.uniqueTextsSent = todayOrganicTextedIds.size;
   today.uniqueCallsAnswered = todayUniqueCallsAnsweredIds.size;
   today.uniqueTextsResponded = [...todayOrganicTextedIds].filter((id) => todayInboundTextIds.has(id)).length;
+  today.automationTexted = (dailyByDate[todayKey] && dailyByDate[todayKey].automationTexted.size) || 0;
   today.campaign = todayBlastIds.size > 0 ? {
     contacts: todayBlastIds.size,
     responded: [...todayBlastIds].filter((id) => todayInboundTextIds.has(id)).length,
@@ -309,6 +315,7 @@ async function build() {
         uniqueTextsSent: organicTexted.length,
         uniqueCallsAnswered: d.callsAnswered.size,
         uniqueTextsResponded: responded,
+        automationTexted: d.automationTexted.size,
         campaign: d.blastContactIds.size > 0 ? {
           contacts: d.blastContactIds.size,
           responded: blastResponded,
@@ -321,6 +328,7 @@ async function build() {
   mtd.uniqueTextsSent = daily.reduce((s, d) => s + d.uniqueTextsSent, 0);
   mtd.uniqueCallsAnswered = daily.reduce((s, d) => s + d.uniqueCallsAnswered, 0);
   mtd.uniqueTextsResponded = daily.reduce((s, d) => s + d.uniqueTextsResponded, 0);
+  mtd.automationTexted = daily.reduce((s, d) => s + (d.automationTexted || 0), 0);
 
   return {
     generatedAt: new Date().toISOString(),
