@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T22:05:39.870Z",
+  "generatedAt": "2026-06-14T22:15:51.014Z",
   "ranges": {
     "todayIso": "2026-06-14T07:00:00.000Z",
     "monthIso": "2026-06-01T07:00:00.000Z",
-    "nowIso": "2026-06-14T22:03:55.939Z"
+    "nowIso": "2026-06-14T22:14:15.211Z"
   },
   "today": {
     "contacts": 4,
@@ -18,11 +18,11 @@
   },
   "mtd": {
     "contacts": 159,
-    "uniqueCallsAttempted": 193,
-    "uniqueTextsSent": 197,
-    "uniqueCallsAnswered": 41,
-    "uniqueTextsResponded": 52,
-    "automationTexted": 760
+    "uniqueCallsAttempted": 190,
+    "uniqueTextsSent": 193,
+    "uniqueCallsAnswered": 39,
+    "uniqueTextsResponded": 49,
+    "automationTexted": 779
   },
   "daily": [
     {
@@ -40,12 +40,12 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 5,
+      "automationTexted": 4,
       "campaign": null
     },
     {
       "date": "2026-06-03",
-      "uniqueCallsAttempted": 21,
+      "uniqueCallsAttempted": 20,
       "uniqueTextsSent": 19,
       "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 2,
@@ -55,19 +55,19 @@
     {
       "date": "2026-06-04",
       "uniqueCallsAttempted": 18,
-      "uniqueTextsSent": 20,
+      "uniqueTextsSent": 19,
       "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 4,
+      "uniqueTextsResponded": 3,
       "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-06-05",
-      "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 19,
-      "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 4,
+      "uniqueCallsAttempted": 23,
+      "uniqueTextsSent": 16,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 2,
       "campaign": null
     },
     {
@@ -130,7 +130,7 @@
       "uniqueTextsSent": 28,
       "uniqueCallsAnswered": 5,
       "uniqueTextsResponded": 8,
-      "automationTexted": 571,
+      "automationTexted": 593,
       "campaign": null
     },
     {
