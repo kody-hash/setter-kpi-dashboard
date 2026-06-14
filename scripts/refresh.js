@@ -17,6 +17,18 @@ if (!TOKEN || !LOCATION_ID) {
 }
 
 const ANSWERED_MIN_DURATION_SEC = 30;
+
+const SETTER_NUMBERS = new Set([
+  "+16029755131", // Lead Setter 1
+  "+16232350801", // Lead Setter 2
+  "+16233438753", // Lead Setter 3
+]);
+
+function isSetterSide(m) {
+  if (m.direction === "outbound") return SETTER_NUMBERS.has(m.from);
+  if (m.direction === "inbound") return SETTER_NUMBERS.has(m.to);
+  return false;
+}
 const BASE = "https://services.leadconnectorhq.com";
 const HEADERS = {
   Authorization: `Bearer ${TOKEN}`,
@@ -78,7 +90,7 @@ async function listConversationsSince(rangeStartMs) {
   const out = [];
   let startAfter = null;
   let startAfterDate = null;
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 30; i++) {
     const params = new URLSearchParams({
       locationId: LOCATION_ID,
       limit: "100",
@@ -170,7 +182,7 @@ async function build() {
     if (ts > d.lastAt) d.lastAt = ts;
   }
 
-  const conversationsToScan = conversations.slice(0, 250);
+  const conversationsToScan = conversations.slice(0, 800);
   const CONCURRENCY = 12;
   const allFetched = [];
   for (let i = 0; i < conversationsToScan.length; i += CONCURRENCY) {
@@ -189,6 +201,7 @@ async function build() {
       const inToday = t >= r.todayMs;
       const kind = classifyMessage(m);
       const direction = m.direction;
+      if ((kind === "sms" || kind === "call") && !isSetterSide(m)) continue;
       const cid = c.contactId;
       if (!cid) continue;
       const cname = c.fullName || c.contactName || "(unnamed)";
@@ -242,10 +255,6 @@ async function build() {
   today.uniqueTextsSent = todayUniqueTextedIds.size;
   today.uniqueCallsAnswered = todayUniqueCallsAnsweredIds.size;
   today.uniqueTextsResponded = [...todayUniqueTextedIds].filter((id) => todayInboundTextIds.has(id)).length;
-  mtd.uniqueCallsAttempted = mtdUniqueCalledIds.size;
-  mtd.uniqueTextsSent = mtdUniqueTextedIds.size;
-  mtd.uniqueCallsAnswered = mtdUniqueCallsAnsweredIds.size;
-  mtd.uniqueTextsResponded = [...mtdUniqueTextedIds].filter((id) => mtdInboundTextIds.has(id)).length;
 
   const sortByLastDesc = (a, b) => b.lastAt - a.lastAt;
   today.calledContacts = [...todayContactDetails.values()]
@@ -270,6 +279,11 @@ async function build() {
         uniqueTextsResponded: responded,
       };
     });
+
+  mtd.uniqueCallsAttempted = daily.reduce((s, d) => s + d.uniqueCallsAttempted, 0);
+  mtd.uniqueTextsSent = daily.reduce((s, d) => s + d.uniqueTextsSent, 0);
+  mtd.uniqueCallsAnswered = daily.reduce((s, d) => s + d.uniqueCallsAnswered, 0);
+  mtd.uniqueTextsResponded = daily.reduce((s, d) => s + d.uniqueTextsResponded, 0);
 
   return {
     generatedAt: new Date().toISOString(),
