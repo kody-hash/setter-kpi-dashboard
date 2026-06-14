@@ -1,0 +1,679 @@
+{
+  "targetDate": "2026-06-11",
+  "totalOutboundSmsFromSetters": 39,
+  "countByUserId": {
+    "z7GrdYUUH7zH4e49hjCN": 25,
+    "IoPQKD3Fy5sJ8t20MCSb": 10,
+    "(no userId)": 4
+  },
+  "bodyGroups": [
+    {
+      "count": 2,
+      "bodyHead": "Hello this is Alaina from Top Drawer Cabinetry. I received y",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T19:04:13.752Z",
+      "lastAt": "2026-06-12T04:50:32.651Z",
+      "sampleContacts": [
+        "Jason Bill",
+        "Dusty Butler"
+      ]
+    },
+    {
+      "count": 2,
+      "bodyHead": "Hello this is Alaina from Top Drawer Cabinetry. I got your r",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T23:48:07.329Z",
+      "lastAt": "2026-06-12T02:58:41.653Z",
+      "sampleContacts": [
+        "Niccole Armaolea",
+        "Jeff Levkowitz"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Boe, Alaina here from Top Drawer Cabinetry. We know life ",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T13:59:39.128Z",
+      "lastAt": "2026-06-11T13:59:39.128Z",
+      "sampleContacts": [
+        "Boe Bigelow"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Tracy, Alaina here from Top Drawer Cabinetry. We know lif",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T14:32:36.712Z",
+      "lastAt": "2026-06-11T14:32:36.712Z",
+      "sampleContacts": [
+        "Tracy Behnke-Baca"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Zach, Alaina here from Top Drawer Cabinetry. We know life",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T15:31:52.417Z",
+      "lastAt": "2026-06-11T15:31:52.417Z",
+      "sampleContacts": [
+        "Zach Myers"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "We mainly offer quartz but also offer natural stones like gr",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T18:52:14.157Z",
+      "lastAt": "2026-06-11T18:52:14.157Z",
+      "sampleContacts": [
+        "Lior Hartenstein"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Ken,  are you looking for them flat packed? We are able ",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T18:57:00.364Z",
+      "lastAt": "2026-06-11T18:57:00.364Z",
+      "sampleContacts": [
+        "Ken Schroeder"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hello, so sorry for the previous text, it was an automated e",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T18:58:23.204Z",
+      "lastAt": "2026-06-11T18:58:23.204Z",
+      "sampleContacts": [
+        "Cindy Almas"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Vickie, Alaina here from Top Drawer Cabinetry. We know li",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T18:59:49.619Z",
+      "lastAt": "2026-06-11T18:59:49.619Z",
+      "sampleContacts": [
+        "Vickie Lynne Shelquist"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "You can send the info to quote@tdcabinetry.com \nIll get it a",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T18:59:59.843Z",
+      "lastAt": "2026-06-11T18:59:59.843Z",
+      "sampleContacts": [
+        "Andy Willett"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Jason! This is Alaina with Top Drawer Cabinetry. We would",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T19:04:12.239Z",
+      "lastAt": "2026-06-11T19:04:12.239Z",
+      "sampleContacts": [
+        "Jason Bill"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hello Moses, yes sir absolutely. Passing this to our sales r",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T19:16:44.806Z",
+      "lastAt": "2026-06-11T19:16:44.806Z",
+      "sampleContacts": [
+        "Moses O Beristain"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Very exciting!! Once the pad is poured, itll be a fun proces",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T19:24:54.824Z",
+      "lastAt": "2026-06-11T19:24:54.824Z",
+      "sampleContacts": [
+        "Vickie Lynne Shelquist"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "It was actually assigned to Zach instead of Ronnie and he ha",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T19:29:20.165Z",
+      "lastAt": "2026-06-11T19:29:20.165Z",
+      "sampleContacts": [
+        "Moses O Beristain"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hello Jose, yes we have multiple Spanish speakers here in al",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T19:30:54.830Z",
+      "lastAt": "2026-06-11T19:30:54.830Z",
+      "sampleContacts": [
+        "Jose Flores"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "It looks like you may have spoke with Kody this morning and ",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T19:32:42.854Z",
+      "lastAt": "2026-06-11T19:32:42.854Z",
+      "sampleContacts": [
+        "Jose Flores"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Youre welcome, have a great day!",
+      "userIds": [
+        "IoPQKD3Fy5sJ8t20MCSb"
+      ],
+      "firstAt": "2026-06-11T19:33:02.011Z",
+      "lastAt": "2026-06-11T19:33:02.011Z",
+      "sampleContacts": [
+        "Moses O Beristain"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Andrew, Alaina here from Top Drawer Cabinetry. We know li",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T20:32:30.139Z",
+      "lastAt": "2026-06-11T20:32:30.139Z",
+      "sampleContacts": [
+        "Andrew Gimm"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey DJ, it's Alaina from Top Drawer Cabinetry — still would ",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:27.043Z",
+      "lastAt": "2026-06-11T22:50:27.043Z",
+      "sampleContacts": [
+        "Dj Rey"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Miri, it's Alaina from Top Drawer Cabinetry — still woul",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:27.143Z",
+      "lastAt": "2026-06-11T22:50:27.143Z",
+      "sampleContacts": [
+        "Miri Malaj"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Steve, it's Alaina from Top Drawer Cabinetry — still wou",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:27.456Z",
+      "lastAt": "2026-06-11T22:50:27.456Z",
+      "sampleContacts": [
+        "Steve Dorsey"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Sugandha, it's Alaina from Top Drawer Cabinetry — still ",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:27.935Z",
+      "lastAt": "2026-06-11T22:50:27.935Z",
+      "sampleContacts": [
+        "Sugandha"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Jill, it's Alaina from Top Drawer Cabinetry — still woul",
+      "userIds": [
+        "(no userId)"
+      ],
+      "firstAt": "2026-06-11T22:50:28.722Z",
+      "lastAt": "2026-06-11T22:50:28.722Z",
+      "sampleContacts": [
+        "Jill Stewart"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Cindy, it's Alaina from Top Drawer Cabinetry — still wou",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:30.501Z",
+      "lastAt": "2026-06-11T22:50:30.501Z",
+      "sampleContacts": [
+        "Cindy Almas"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Joshua, it's Alaina from Top Drawer Cabinetry — still wo",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:30.688Z",
+      "lastAt": "2026-06-11T22:50:30.688Z",
+      "sampleContacts": [
+        "Joshua Tibbs"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Rosalynn, it's Alaina from Top Drawer Cabinetry — still ",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:31.246Z",
+      "lastAt": "2026-06-11T22:50:31.246Z",
+      "sampleContacts": [
+        "Rosalynn Torres"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Carlos, it's Alaina from Top Drawer Cabinetry — still wo",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:31.362Z",
+      "lastAt": "2026-06-11T22:50:31.362Z",
+      "sampleContacts": [
+        "Carlos Lopez"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Wally, it's Alaina from Top Drawer Cabinetry — still wou",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:31.746Z",
+      "lastAt": "2026-06-11T22:50:31.746Z",
+      "sampleContacts": [
+        "Wally Balfour"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hey Marlon, it's Alaina from Top Drawer Cabinetry — still wo",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T22:50:32.234Z",
+      "lastAt": "2026-06-11T22:50:32.234Z",
+      "sampleContacts": [
+        "Marlon S Landeros"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Saul, Alaina here from Top Drawer Cabinetry. We know life",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-11T23:09:10.406Z",
+      "lastAt": "2026-06-11T23:09:10.406Z",
+      "sampleContacts": [
+        "Saul Enriquez"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Nikki! This is Alaina with Top Drawer Cabinetry. We would",
+      "userIds": [
+        "(no userId)"
+      ],
+      "firstAt": "2026-06-11T23:48:05.809Z",
+      "lastAt": "2026-06-11T23:48:05.809Z",
+      "sampleContacts": [
+        "Niccole Armaolea"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Gerardo, Alaina here from Top Drawer Cabinetry. We know l",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-12T02:49:41.149Z",
+      "lastAt": "2026-06-12T02:49:41.149Z",
+      "sampleContacts": [
+        "Gerardo Trejo"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Jeff! This is Alaina with Top Drawer Cabinetry. We would ",
+      "userIds": [
+        "(no userId)"
+      ],
+      "firstAt": "2026-06-12T02:58:40.181Z",
+      "lastAt": "2026-06-12T02:58:40.181Z",
+      "sampleContacts": [
+        "Jeff Levkowitz"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Jeff, thanks for reaching out to TD Cabinetry.\n\n\nWe're cu",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-12T02:58:43.734Z",
+      "lastAt": "2026-06-12T02:58:43.734Z",
+      "sampleContacts": [
+        "Jeff Levkowitz"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Dusty! This is Alaina with Top Drawer Cabinetry. We would",
+      "userIds": [
+        "(no userId)"
+      ],
+      "firstAt": "2026-06-12T04:50:31.160Z",
+      "lastAt": "2026-06-12T04:50:31.160Z",
+      "sampleContacts": [
+        "Dusty Butler"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Michael, Alaina here from Top Drawer Cabinetry. We know l",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-12T05:31:50.558Z",
+      "lastAt": "2026-06-12T05:31:50.558Z",
+      "sampleContacts": [
+        "Michael Hilliard"
+      ]
+    },
+    {
+      "count": 1,
+      "bodyHead": "Hi Angela, Alaina here from Top Drawer Cabinetry. We know li",
+      "userIds": [
+        "z7GrdYUUH7zH4e49hjCN"
+      ],
+      "firstAt": "2026-06-12T05:48:10.858Z",
+      "lastAt": "2026-06-12T05:48:10.858Z",
+      "sampleContacts": [
+        "Angela N Kidd"
+      ]
+    }
+  ],
+  "rawSample": [
+    {
+      "timeIso": "2026-06-11T13:59:39.128Z",
+      "contact": "Boe Bigelow",
+      "contactId": "UXnlzgAndrKufH1wAy1w",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hi Boe, Alaina here from Top Drawer Cabinetry. We know life gets busy! Whenever you're ready, just send over some photos or dimensions of your space and I'll ge",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T14:32:36.712Z",
+      "contact": "Tracy Behnke-Baca",
+      "contactId": "YFso6AMEFpn1sM5CgnWa",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hi Tracy, Alaina here from Top Drawer Cabinetry. We know life gets busy! Whenever you're ready, just send over some photos or dimensions of your space and I'll ",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T15:31:52.417Z",
+      "contact": "Zach Myers",
+      "contactId": "9ldYQuv6YNrzBtkiRpmy",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hi Zach, Alaina here from Top Drawer Cabinetry. We know life gets busy! Whenever you're ready, just send over some photos or dimensions of your space and I'll g",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T18:52:14.157Z",
+      "contact": "Lior Hartenstein",
+      "contactId": "fOx6hUtCiEsLxPD5UYtE",
+      "from": "+16233438753",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "We mainly offer quartz but also offer natural stones like granite. Is there a material you had in mind for the workbench?",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T18:57:00.364Z",
+      "contact": "Ken Schroeder",
+      "contactId": "rxlgYBVLSXFjR4hq4XKz",
+      "from": "+16233438753",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "Hey Ken,  are you looking for them flat packed? We are able to work with any shipping companies. Id be more then happy to provide a quote if so.\n\n& apologies on",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T18:58:23.204Z",
+      "contact": "Cindy Almas",
+      "contactId": "LFTcD2lHpC6MxLIIHQM4",
+      "from": "+16233438753",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "Hello, so sorry for the previous text, it was an automated error that we have fixed. Thank you for you understanding. Junior is amazing and will continue to ass",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T18:59:49.619Z",
+      "contact": "Vickie Lynne Shelquist",
+      "contactId": "YP5SQ3MRl4DZDpc3vZXC",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hi Vickie, Alaina here from Top Drawer Cabinetry. We know life gets busy! Whenever you're ready, just send over some photos or dimensions of your space and I'll",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T18:59:59.843Z",
+      "contact": "Andy Willett",
+      "contactId": "oC3afULuD8BQwwfHuKTX",
+      "from": "+16232350801",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "You can send the info to quote@tdcabinetry.com \nIll get it assigned to your rep right away and they will have it over within 24hrs.",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:04:12.239Z",
+      "contact": "Jason Bill",
+      "contactId": "z0YQOU1HeJJcRlJBYJOh",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hi Jason! This is Alaina with Top Drawer Cabinetry. We would love to help with your cabinet project. Do you happen to have any photos, dimensions, or pictures o",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:04:13.752Z",
+      "contact": "Jason Bill",
+      "contactId": "z0YQOU1HeJJcRlJBYJOh",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hello this is Alaina from Top Drawer Cabinetry. I received your request for contractor pricing on some cabinets. If you can send photos, wall dimensions or a li",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:16:44.806Z",
+      "contact": "Moses O Beristain",
+      "contactId": "Om7sBgcHUTwZrJXaCqR6",
+      "from": "+16233438753",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "Hello Moses, yes sir absolutely. Passing this to our sales rep Ronnie and she will get this done and sent over within 24hrs, then she can make any further adjus",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:24:54.824Z",
+      "contact": "Vickie Lynne Shelquist",
+      "contactId": "YP5SQ3MRl4DZDpc3vZXC",
+      "from": "+16233438753",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "Very exciting!! Once the pad is poured, itll be a fun process 😁 Feel free to stop in anytime or browse our website and social media in the mean time. Ill make ",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:29:20.165Z",
+      "contact": "Moses O Beristain",
+      "contactId": "Om7sBgcHUTwZrJXaCqR6",
+      "from": "+16233438753",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "It was actually assigned to Zach instead of Ronnie and he has it all finished up. It will be in your inbox very shortly.",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:30:54.830Z",
+      "contact": "Jose Flores",
+      "contactId": "FNEJt0FzuFLo0TeY2lR8",
+      "from": "+16232350801",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "Hello Jose, yes we have multiple Spanish speakers here in all departments. Would you like a sales rep that speaks spanish?",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:32:42.854Z",
+      "contact": "Jose Flores",
+      "contactId": "FNEJt0FzuFLo0TeY2lR8",
+      "from": "+16232350801",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "It looks like you may have spoke with Kody this morning and we were able to get a quote done by Zach sent over. Feel free to reach out to him if you have any qu",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T19:33:02.011Z",
+      "contact": "Moses O Beristain",
+      "contactId": "Om7sBgcHUTwZrJXaCqR6",
+      "from": "+16233438753",
+      "userId": "IoPQKD3Fy5sJ8t20MCSb",
+      "body": "Youre welcome, have a great day!",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T20:32:30.139Z",
+      "contact": "Andrew Gimm",
+      "contactId": "uIgrGBqoj3tzDGVIZp6v",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hi Andrew, Alaina here from Top Drawer Cabinetry. We know life gets busy! Whenever you're ready, just send over some photos or dimensions of your space and I'll",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T22:50:27.043Z",
+      "contact": "Dj Rey",
+      "contactId": "DEVFvfz3uqm0H1c1ztdf",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hey DJ, it's Alaina from Top Drawer Cabinetry — still would love to help with your cabinet project! If you can shoot over any photos or rough dimensions of your",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T22:50:27.143Z",
+      "contact": "Miri Malaj",
+      "contactId": "KLZc5otBXrt9IFNkm5ko",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hey Miri, it's Alaina from Top Drawer Cabinetry — still would love to help with your cabinet project! If you can shoot over any photos or rough dimensions of yo",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    },
+    {
+      "timeIso": "2026-06-11T22:50:27.456Z",
+      "contact": "Steve Dorsey",
+      "contactId": "W3DpuXOfsC76dK9N4fSe",
+      "from": "+16233438753",
+      "userId": "z7GrdYUUH7zH4e49hjCN",
+      "body": "Hey Steve, it's Alaina from Top Drawer Cabinetry — still would love to help with your cabinet project! If you can shoot over any photos or rough dimensions of y",
+      "status": "delivered",
+      "type": "TYPE_SMS",
+      "meta": null
+    }
+  ]
+}
