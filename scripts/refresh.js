@@ -207,13 +207,16 @@ async function build() {
       const cname = c.fullName || c.contactName || "(unnamed)";
       const dayKey = localDayKey(t);
       if (!dailyByDate[dayKey]) {
-        dailyByDate[dayKey] = { called: new Set(), texted: new Set(), callsAnswered: new Set(), textedIn: new Set() };
+        dailyByDate[dayKey] = { called: new Set(), texted: new Set(), callsAnswered: new Set(), textedIn: new Set(), textedWindows: {} };
       }
 
       if (direction === "outbound") {
         if (kind === "sms") {
           mtdUniqueTextedIds.add(cid);
           dailyByDate[dayKey].texted.add(cid);
+          const winKey = Math.floor(t / (5 * 60 * 1000)) * (5 * 60 * 1000);
+          if (!dailyByDate[dayKey].textedWindows[winKey]) dailyByDate[dayKey].textedWindows[winKey] = new Set();
+          dailyByDate[dayKey].textedWindows[winKey].add(cid);
           if (inToday) {
             todayUniqueTextedIds.add(cid);
             bumpDetail(cid, cname, "texts", t);
@@ -251,10 +254,36 @@ async function build() {
     }
   }
 
+  // Detect campaign blasts: any 5-min window with >=50 unique outbound texts is automation, not setter activity.
+  const BLAST_THRESHOLD = 50;
+  for (const dayKey of Object.keys(dailyByDate)) {
+    const d = dailyByDate[dayKey];
+    const blastIds = new Set();
+    const blastWindows = [];
+    for (const [winKey, contacts] of Object.entries(d.textedWindows || {})) {
+      if (contacts.size >= BLAST_THRESHOLD) {
+        for (const cid of contacts) blastIds.add(cid);
+        blastWindows.push({ start: Number(winKey), contacts: contacts.size });
+      }
+    }
+    d.blastContactIds = blastIds;
+    d.blastWindows = blastWindows;
+  }
+
+  const todayKey = localDayKey(r.todayMs);
+  const todayBlastIds = (dailyByDate[todayKey] && dailyByDate[todayKey].blastContactIds) || new Set();
+  const todayBlastWindows = (dailyByDate[todayKey] && dailyByDate[todayKey].blastWindows) || [];
+  const todayOrganicTextedIds = new Set([...todayUniqueTextedIds].filter((id) => !todayBlastIds.has(id)));
+
   today.uniqueCallsAttempted = todayUniqueCalledIds.size;
-  today.uniqueTextsSent = todayUniqueTextedIds.size;
+  today.uniqueTextsSent = todayOrganicTextedIds.size;
   today.uniqueCallsAnswered = todayUniqueCallsAnsweredIds.size;
-  today.uniqueTextsResponded = [...todayUniqueTextedIds].filter((id) => todayInboundTextIds.has(id)).length;
+  today.uniqueTextsResponded = [...todayOrganicTextedIds].filter((id) => todayInboundTextIds.has(id)).length;
+  today.campaign = todayBlastIds.size > 0 ? {
+    contacts: todayBlastIds.size,
+    responded: [...todayBlastIds].filter((id) => todayInboundTextIds.has(id)).length,
+    startAt: todayBlastWindows.length ? new Date(Math.min(...todayBlastWindows.map((w) => w.start))).toISOString() : null,
+  } : null;
 
   const sortByLastDesc = (a, b) => b.lastAt - a.lastAt;
   today.calledContacts = [...todayContactDetails.values()]
@@ -270,13 +299,21 @@ async function build() {
     .sort()
     .map((date) => {
       const d = dailyByDate[date];
-      const responded = [...d.texted].filter((id) => d.textedIn.has(id)).length;
+      const organicTexted = [...d.texted].filter((id) => !d.blastContactIds.has(id));
+      const responded = organicTexted.filter((id) => d.textedIn.has(id)).length;
+      const blastResponded = [...d.blastContactIds].filter((id) => d.textedIn.has(id)).length;
+      const earliestBlast = d.blastWindows.length ? Math.min(...d.blastWindows.map((w) => w.start)) : null;
       return {
         date,
         uniqueCallsAttempted: d.called.size,
-        uniqueTextsSent: d.texted.size,
+        uniqueTextsSent: organicTexted.length,
         uniqueCallsAnswered: d.callsAnswered.size,
         uniqueTextsResponded: responded,
+        campaign: d.blastContactIds.size > 0 ? {
+          contacts: d.blastContactIds.size,
+          responded: blastResponded,
+          startAt: new Date(earliestBlast).toISOString(),
+        } : null,
       };
     });
 
