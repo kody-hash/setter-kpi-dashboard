@@ -1,0 +1,2311 @@
+{
+  "generatedAt": "2026-06-14T17:50:45.324Z",
+  "targetDate": "2026-06-12",
+  "range": {
+    "startIso": "2026-06-12T07:00:00.000Z",
+    "endIso": "2026-06-13T07:00:00.000Z"
+  },
+  "summary": {
+    "uniqueCallsAttempted": 4,
+    "uniqueCallsAnswered": 1,
+    "uniqueTextsSent": 378,
+    "uniqueTextsResponded": 43
+  },
+  "calledContacts": [
+    {
+      "name": "Ronald Balanay",
+      "calls": 1,
+      "answered": true,
+      "lastAt": "2026-06-12T18:22:14.187Z"
+    },
+    {
+      "name": "Starr Hargett",
+      "calls": 2,
+      "answered": false,
+      "lastAt": "2026-06-12T23:09:02.363Z"
+    },
+    {
+      "name": "Armando Aguayo",
+      "calls": 1,
+      "answered": false,
+      "lastAt": "2026-06-12T23:14:51.884Z"
+    },
+    {
+      "name": "Jeff Levkowitz",
+      "calls": 2,
+      "answered": false,
+      "lastAt": "2026-06-13T02:58:42.688Z"
+    }
+  ],
+  "textedContacts": [
+    {
+      "name": "Ronald Balanay",
+      "texts": 3,
+      "responded": false,
+      "lastAt": "2026-06-12T18:22:14.187Z"
+    },
+    {
+      "name": "Starr Hargett",
+      "texts": 2,
+      "responded": false,
+      "lastAt": "2026-06-12T23:09:02.363Z"
+    },
+    {
+      "name": "Armando Aguayo",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-12T23:14:51.884Z"
+    },
+    {
+      "name": "Peter Feiten",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.060Z"
+    },
+    {
+      "name": "N A R A M O N T U Y | Bold & Happy Paintings",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.062Z"
+    },
+    {
+      "name": "Mike Urman",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.078Z"
+    },
+    {
+      "name": "Tom",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.107Z"
+    },
+    {
+      "name": "Mr Mcdonald",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.335Z"
+    },
+    {
+      "name": "Nicole Kalil",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.338Z"
+    },
+    {
+      "name": "Dan Grenia",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.355Z"
+    },
+    {
+      "name": "Andres Bustillos",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.360Z"
+    },
+    {
+      "name": "Brea Bauer",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:20:19.362Z"
+    },
+    {
+      "name": "Penny Hiebert",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.364Z"
+    },
+    {
+      "name": "Christine Macias",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.380Z"
+    },
+    {
+      "name": "Jose Rangel",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.385Z"
+    },
+    {
+      "name": "Neville Katrak",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.398Z"
+    },
+    {
+      "name": "Daniel R Wojahn",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:20:19.592Z"
+    },
+    {
+      "name": "Prudence Delarosa",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.594Z"
+    },
+    {
+      "name": "James Martinez",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:19.603Z"
+    },
+    {
+      "name": "Tina Zappia",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:20.868Z"
+    },
+    {
+      "name": "Tom Garven",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:20.884Z"
+    },
+    {
+      "name": "Donna Dekatch",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:21.174Z"
+    },
+    {
+      "name": "Tracy Seidenfeld",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:20:21.185Z"
+    },
+    {
+      "name": "Ken Wolfel",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:03.693Z"
+    },
+    {
+      "name": "Rusty Priborsky",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:03.770Z"
+    },
+    {
+      "name": "Brian",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:03.770Z"
+    },
+    {
+      "name": "Dyan Nielsen",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:04.484Z"
+    },
+    {
+      "name": "Gillie B",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:04.484Z"
+    },
+    {
+      "name": "Gene Arteca",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:05.419Z"
+    },
+    {
+      "name": "Kristy Harris",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.424Z"
+    },
+    {
+      "name": "Evan",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.425Z"
+    },
+    {
+      "name": "Art",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.428Z"
+    },
+    {
+      "name": "Chris Hurst",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.429Z"
+    },
+    {
+      "name": "Antal József",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.450Z"
+    },
+    {
+      "name": "Brent Sheen",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:05.475Z"
+    },
+    {
+      "name": "Leigh Webber",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.489Z"
+    },
+    {
+      "name": "Wendee Camper",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.491Z"
+    },
+    {
+      "name": "Will Walker",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.497Z"
+    },
+    {
+      "name": "Minerva Jimenez",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.499Z"
+    },
+    {
+      "name": "Mark Baris",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:05.501Z"
+    },
+    {
+      "name": "Carmen Beatty",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.509Z"
+    },
+    {
+      "name": "Enrique",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.566Z"
+    },
+    {
+      "name": "Kay Harmon",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.572Z"
+    },
+    {
+      "name": "Camille Nickolas",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.582Z"
+    },
+    {
+      "name": "Miguel Angel Sanchez",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.588Z"
+    },
+    {
+      "name": "Cesar Rodriguez",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.597Z"
+    },
+    {
+      "name": "Frank Braden",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:05.610Z"
+    },
+    {
+      "name": "Javier Baray",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:05.611Z"
+    },
+    {
+      "name": "Shawn Garvey",
+      "texts": 1,
+      "responded": true,
+      "lastAt": "2026-06-13T01:21:05.612Z"
+    },
+    {
+      "name": "Zephaniah Wristen",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.433Z"
+    },
+    {
+      "name": "Steven Halama",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.485Z"
+    },
+    {
+      "name": "Jared Rowell",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.486Z"
+    },
+    {
+      "name": "Tim Rogers",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.515Z"
+    },
+    {
+      "name": "Jamal",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.516Z"
+    },
+    {
+      "name": "Jim Hadeed",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.517Z"
+    },
+    {
+      "name": "Will And Jane Olson",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.518Z"
+    },
+    {
+      "name": "Brandon Loftin",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.518Z"
+    },
+    {
+      "name": "Erin Paige | Digital Marketer",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.524Z"
+    },
+    {
+      "name": "Ray Purselley",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.524Z"
+    },
+    {
+      "name": "Steve Beach Studio Design",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.529Z"
+    },
+    {
+      "name": "Stephanie Elliott",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.530Z"
+    },
+    {
+      "name": "Carrie",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.533Z"
+    },
+    {
+      "name": "Oneil Watts",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.535Z"
+    },
+    {
+      "name": "Lukasz Jedryczka",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.536Z"
+    },
+    {
+      "name": "Ivan Schmidt",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.538Z"
+    },
+    {
+      "name": "Jerry Martinez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.540Z"
+    },
+    {
+      "name": "Ellie Alovis",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.540Z"
+    },
+    {
+      "name": "Mirela Magda",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.540Z"
+    },
+    {
+      "name": "Shawn Gregory",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.540Z"
+    },
+    {
+      "name": "Tomas Moralez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.541Z"
+    },
+    {
+      "name": "Janice Utke",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.541Z"
+    },
+    {
+      "name": "Jeanene Thorsell Lae",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.542Z"
+    },
+    {
+      "name": "Eduardo Sandoval",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.545Z"
+    },
+    {
+      "name": "David",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.545Z"
+    },
+    {
+      "name": "Shana Weislner",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.552Z"
+    },
+    {
+      "name": "Robert Baker",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.554Z"
+    },
+    {
+      "name": "Limpus Brian",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.557Z"
+    },
+    {
+      "name": "Chuck",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.559Z"
+    },
+    {
+      "name": "Lauren Gardea",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.559Z"
+    },
+    {
+      "name": "Peter Beck",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.572Z"
+    },
+    {
+      "name": "Lyle Pettis",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.602Z"
+    },
+    {
+      "name": "James",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.615Z"
+    },
+    {
+      "name": "Rose Tafoya",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.616Z"
+    },
+    {
+      "name": "Boe Bigelow",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.937Z"
+    },
+    {
+      "name": "Cesar Cordova",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.947Z"
+    },
+    {
+      "name": "Daniel Resendez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.949Z"
+    },
+    {
+      "name": "Allan Friedman",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.958Z"
+    },
+    {
+      "name": "Kal Salem",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:06.985Z"
+    },
+    {
+      "name": "Bobby M. Beisel",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.047Z"
+    },
+    {
+      "name": "Josh Caraballo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.302Z"
+    },
+    {
+      "name": "Mary Jo Terry",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.698Z"
+    },
+    {
+      "name": "Lennon Gardner",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.701Z"
+    },
+    {
+      "name": "Liz Alcorn",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.702Z"
+    },
+    {
+      "name": "Eddie Garcia",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.713Z"
+    },
+    {
+      "name": "Dianne Patterson",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.718Z"
+    },
+    {
+      "name": "Kent Durkee",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:07.737Z"
+    },
+    {
+      "name": "William Clarke",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.137Z"
+    },
+    {
+      "name": "Ruben Alvarado",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.138Z"
+    },
+    {
+      "name": "Barb Gabriel-Conley",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.144Z"
+    },
+    {
+      "name": "Sharon Shore",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.147Z"
+    },
+    {
+      "name": "Kimberly Espinoza",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.154Z"
+    },
+    {
+      "name": "Kevin Stephens",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.155Z"
+    },
+    {
+      "name": "Dan Almblade",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.161Z"
+    },
+    {
+      "name": "Cheryl White",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.162Z"
+    },
+    {
+      "name": "Lisa Mishler",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.162Z"
+    },
+    {
+      "name": "Raymond Sauzedde",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.163Z"
+    },
+    {
+      "name": "John",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.166Z"
+    },
+    {
+      "name": "Fabian Arreola",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.167Z"
+    },
+    {
+      "name": "Julio Zuñiga",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.174Z"
+    },
+    {
+      "name": "Ryan Jojin",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.175Z"
+    },
+    {
+      "name": "Luis Pacheco",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.185Z"
+    },
+    {
+      "name": "Sherri Plunkett",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.243Z"
+    },
+    {
+      "name": "Ray Harris",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.285Z"
+    },
+    {
+      "name": "Oscar Zavala",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.313Z"
+    },
+    {
+      "name": "Pat Phaneuf",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.315Z"
+    },
+    {
+      "name": "Troy Goldstein",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.320Z"
+    },
+    {
+      "name": "Mike Busby",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.320Z"
+    },
+    {
+      "name": "Terry Holl",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.322Z"
+    },
+    {
+      "name": "Max Holloway",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.325Z"
+    },
+    {
+      "name": "Scott Neal",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.329Z"
+    },
+    {
+      "name": "Sharon Lee-Peters",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.329Z"
+    },
+    {
+      "name": "Tara Dondas",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.330Z"
+    },
+    {
+      "name": "Michael Skoney",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.331Z"
+    },
+    {
+      "name": "John Izzo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.331Z"
+    },
+    {
+      "name": "Kevin Cornish",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.335Z"
+    },
+    {
+      "name": "Fane Joseph",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.335Z"
+    },
+    {
+      "name": "Jeremiah Butler",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.336Z"
+    },
+    {
+      "name": "Michelle Miner",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.339Z"
+    },
+    {
+      "name": "William",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.339Z"
+    },
+    {
+      "name": "Mike Childs",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.340Z"
+    },
+    {
+      "name": "Ben Gheliuc",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.341Z"
+    },
+    {
+      "name": "Old Reliable Construction",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.341Z"
+    },
+    {
+      "name": "Jerry With Hhi Homes",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.343Z"
+    },
+    {
+      "name": "Jose Valencia",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.343Z"
+    },
+    {
+      "name": "Ruben Hidalgo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.344Z"
+    },
+    {
+      "name": "Cesr Marin",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.345Z"
+    },
+    {
+      "name": "Oscar Bernal",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.346Z"
+    },
+    {
+      "name": "J Yount",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.346Z"
+    },
+    {
+      "name": "David Masters",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.349Z"
+    },
+    {
+      "name": "Mudz",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.349Z"
+    },
+    {
+      "name": "Jojo Elemino",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.353Z"
+    },
+    {
+      "name": "Marion Shontz",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.354Z"
+    },
+    {
+      "name": "Karen Robles",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.354Z"
+    },
+    {
+      "name": "Daniel Guzman",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.354Z"
+    },
+    {
+      "name": "Patrick Foote",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.357Z"
+    },
+    {
+      "name": "Alex G",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.359Z"
+    },
+    {
+      "name": "Dan Dwyer",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.360Z"
+    },
+    {
+      "name": "Sandra Clayworth Castle",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.360Z"
+    },
+    {
+      "name": "Will Stilson",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.361Z"
+    },
+    {
+      "name": "Heaven's Flowers",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.410Z"
+    },
+    {
+      "name": "Hans Schleinitz",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.412Z"
+    },
+    {
+      "name": "Rich",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.421Z"
+    },
+    {
+      "name": "Bryan Bittner",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.436Z"
+    },
+    {
+      "name": "Dylan",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:08.449Z"
+    },
+    {
+      "name": "Marshall Field",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:09.748Z"
+    },
+    {
+      "name": "Daniel Zink",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:10.744Z"
+    },
+    {
+      "name": "Thomas Reardon Ii",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.478Z"
+    },
+    {
+      "name": "Adam Lundquist",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.481Z"
+    },
+    {
+      "name": "Larry Mcevoy",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.483Z"
+    },
+    {
+      "name": "Katie Gregonis",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.485Z"
+    },
+    {
+      "name": "Cathy Bohon Wheeler",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.489Z"
+    },
+    {
+      "name": "Robin Dean",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.489Z"
+    },
+    {
+      "name": "Jack Hunter",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.490Z"
+    },
+    {
+      "name": "Ivan A Richard",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.491Z"
+    },
+    {
+      "name": "Julie",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.491Z"
+    },
+    {
+      "name": "Rigoberto Mancera",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.495Z"
+    },
+    {
+      "name": "Tom Zoulek",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.496Z"
+    },
+    {
+      "name": "Roberto Rodriguez Ramirez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.497Z"
+    },
+    {
+      "name": "Debra Demery",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.499Z"
+    },
+    {
+      "name": "Jah May",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.500Z"
+    },
+    {
+      "name": "Edison Yazzie",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.501Z"
+    },
+    {
+      "name": "Dustin Kincade",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.502Z"
+    },
+    {
+      "name": "Alan Jensen",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.504Z"
+    },
+    {
+      "name": "Don Kirtley Grant",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.507Z"
+    },
+    {
+      "name": "Ann Forlife",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.510Z"
+    },
+    {
+      "name": "Jonerik Johnson",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.512Z"
+    },
+    {
+      "name": "Preston Newberry",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.512Z"
+    },
+    {
+      "name": "Carlos Bourjac",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.520Z"
+    },
+    {
+      "name": "Michael Schroeder",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.528Z"
+    },
+    {
+      "name": "Jody Arispe",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.532Z"
+    },
+    {
+      "name": "Tom Walsh",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.538Z"
+    },
+    {
+      "name": "Juan Carlos Gastelum",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.552Z"
+    },
+    {
+      "name": "Onslo Carrington",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.552Z"
+    },
+    {
+      "name": "Sandra M Sperzagni",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.553Z"
+    },
+    {
+      "name": "Sue Zawacky",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.554Z"
+    },
+    {
+      "name": "Brent Stapley",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.562Z"
+    },
+    {
+      "name": "Fabian Quenton Jakins",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.563Z"
+    },
+    {
+      "name": "Barry Maharaj",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.628Z"
+    },
+    {
+      "name": "Jodi Vrooman",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.728Z"
+    },
+    {
+      "name": "Ekee",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.737Z"
+    },
+    {
+      "name": "Jeremy Meza",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.750Z"
+    },
+    {
+      "name": "Adolfo Murillo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.764Z"
+    },
+    {
+      "name": "Wilvert Gonzalez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.943Z"
+    },
+    {
+      "name": "Roger Alonso Castro",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.946Z"
+    },
+    {
+      "name": "Shawn Britton",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.949Z"
+    },
+    {
+      "name": "Taruna Joshi",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.949Z"
+    },
+    {
+      "name": "Danielle Delaveaga",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.950Z"
+    },
+    {
+      "name": "Steven Tran",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.951Z"
+    },
+    {
+      "name": "Nunzio Valerie",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.954Z"
+    },
+    {
+      "name": "Matt Dukes",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.956Z"
+    },
+    {
+      "name": "Tracey",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.957Z"
+    },
+    {
+      "name": "Judy Cooke",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.958Z"
+    },
+    {
+      "name": "Gary Levy",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.958Z"
+    },
+    {
+      "name": "Mark Van Dyke",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.959Z"
+    },
+    {
+      "name": "Bill Metzger",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.959Z"
+    },
+    {
+      "name": "Zorana Jacquez-Begay",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.961Z"
+    },
+    {
+      "name": "Michael Steinberg",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.962Z"
+    },
+    {
+      "name": "Inga Viviano",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.962Z"
+    },
+    {
+      "name": "Bernadette Yorba",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.963Z"
+    },
+    {
+      "name": "Michael Bardzinski",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.963Z"
+    },
+    {
+      "name": "Collin Druck",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.963Z"
+    },
+    {
+      "name": "Stacey Cummings",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.965Z"
+    },
+    {
+      "name": "Rosemarie Cue Macdonald",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.967Z"
+    },
+    {
+      "name": "Fatima Yusuf",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.967Z"
+    },
+    {
+      "name": "Jose Durazo Arvizu",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.968Z"
+    },
+    {
+      "name": "Raul Rodriguez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.971Z"
+    },
+    {
+      "name": "Denen Fernandez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.971Z"
+    },
+    {
+      "name": "Lisa Gonzalez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.973Z"
+    },
+    {
+      "name": "Sharon Andrade",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.974Z"
+    },
+    {
+      "name": "Jose F Jimenez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.975Z"
+    },
+    {
+      "name": "Leon Boerr",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.977Z"
+    },
+    {
+      "name": "Lilliana Ortega",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.978Z"
+    },
+    {
+      "name": "Carl Rausch",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.980Z"
+    },
+    {
+      "name": "Alex",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.986Z"
+    },
+    {
+      "name": "Robert Schreihans",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.993Z"
+    },
+    {
+      "name": "Ozzie Sorlino",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:14.999Z"
+    },
+    {
+      "name": "Domenic Danino",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.005Z"
+    },
+    {
+      "name": "Adran Vildosola",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.014Z"
+    },
+    {
+      "name": "David Saucedo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.031Z"
+    },
+    {
+      "name": "Alex Klewicki",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.032Z"
+    },
+    {
+      "name": "Anthony Estrada",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.034Z"
+    },
+    {
+      "name": "James Bleil",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.037Z"
+    },
+    {
+      "name": "Sterling Sam",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.044Z"
+    },
+    {
+      "name": "Ernesto Tapia",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.051Z"
+    },
+    {
+      "name": "Vito Martel",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.055Z"
+    },
+    {
+      "name": "Jeff Allison",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.055Z"
+    },
+    {
+      "name": "Jtx",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.155Z"
+    },
+    {
+      "name": "Thomas Saggio",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.323Z"
+    },
+    {
+      "name": "David Lopez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.363Z"
+    },
+    {
+      "name": "Robert Grunstein",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:15.927Z"
+    },
+    {
+      "name": "Lucas",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.070Z"
+    },
+    {
+      "name": "Paul Smith",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.070Z"
+    },
+    {
+      "name": "Ronda Ladner",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.079Z"
+    },
+    {
+      "name": "Rebecca Lewis",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.080Z"
+    },
+    {
+      "name": "Sarahclrksn",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.082Z"
+    },
+    {
+      "name": "Jeremy Rivera",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.082Z"
+    },
+    {
+      "name": "Silpa Kosuri",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.084Z"
+    },
+    {
+      "name": "Cat Ray",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.085Z"
+    },
+    {
+      "name": "Brodie Brown",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.086Z"
+    },
+    {
+      "name": "Hector Arellanes",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.087Z"
+    },
+    {
+      "name": "Isela Cisneros",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.089Z"
+    },
+    {
+      "name": "Judy Delvecchio",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.089Z"
+    },
+    {
+      "name": "Jesse Rojas",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.090Z"
+    },
+    {
+      "name": "Fernando Romero",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.090Z"
+    },
+    {
+      "name": "Susan Jewell",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.091Z"
+    },
+    {
+      "name": "Mark Gibbs",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.095Z"
+    },
+    {
+      "name": "Janet Whelan",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.095Z"
+    },
+    {
+      "name": "Mohith Reddy Vanukuri",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.095Z"
+    },
+    {
+      "name": "Chad Gregory",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.095Z"
+    },
+    {
+      "name": "Jessie R",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.096Z"
+    },
+    {
+      "name": "David Baker",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.096Z"
+    },
+    {
+      "name": "Justin Thorstad",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.096Z"
+    },
+    {
+      "name": "Cliff Niethe",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.099Z"
+    },
+    {
+      "name": "Jose Gutierrez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.100Z"
+    },
+    {
+      "name": "Lynne Anderson Christen",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.100Z"
+    },
+    {
+      "name": "Emir Lopez Realtor Arizona",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.100Z"
+    },
+    {
+      "name": "Wayne Usiak",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.101Z"
+    },
+    {
+      "name": "Angel Castro",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.102Z"
+    },
+    {
+      "name": "Emily Bingham",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.104Z"
+    },
+    {
+      "name": "Nathan Crowell",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.104Z"
+    },
+    {
+      "name": "El Nog",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.104Z"
+    },
+    {
+      "name": "Monet Harkin",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.108Z"
+    },
+    {
+      "name": "Alejandro Ortega",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.111Z"
+    },
+    {
+      "name": "Mark Dean",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.112Z"
+    },
+    {
+      "name": "Jaime Lopez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.113Z"
+    },
+    {
+      "name": "Info@hunny2dolist.com",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.116Z"
+    },
+    {
+      "name": "Octavio Servin",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.117Z"
+    },
+    {
+      "name": "Chris Lee",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.118Z"
+    },
+    {
+      "name": "Brett Engel",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.125Z"
+    },
+    {
+      "name": "Juan Bailon",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.138Z"
+    },
+    {
+      "name": "Dan",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.147Z"
+    },
+    {
+      "name": "Sandi Mcqueary",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.151Z"
+    },
+    {
+      "name": "Robert Zavala",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.151Z"
+    },
+    {
+      "name": "Elisa Paredes",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:16.152Z"
+    },
+    {
+      "name": "Blaine Roth",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:17.078Z"
+    },
+    {
+      "name": "Brent Sweany",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:21:17.119Z"
+    },
+    {
+      "name": "Lynn Flaaen-Hanna",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:06.340Z"
+    },
+    {
+      "name": "Kerry Copenhaver",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.066Z"
+    },
+    {
+      "name": "Juan",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.080Z"
+    },
+    {
+      "name": "Maricela",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.380Z"
+    },
+    {
+      "name": "Steve Kyle",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.381Z"
+    },
+    {
+      "name": "Greg Moser",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.381Z"
+    },
+    {
+      "name": "Eric Jones",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.383Z"
+    },
+    {
+      "name": "Karla Hoffer",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.383Z"
+    },
+    {
+      "name": "Rhionna Mariani",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.385Z"
+    },
+    {
+      "name": "Jeremy Greer",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.385Z"
+    },
+    {
+      "name": "Richard",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.386Z"
+    },
+    {
+      "name": "Jeffrey Arnold",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.386Z"
+    },
+    {
+      "name": "Oscar Lujan",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.386Z"
+    },
+    {
+      "name": "Dale Bennett",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.387Z"
+    },
+    {
+      "name": "Dave Spencer",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.389Z"
+    },
+    {
+      "name": "Alen Chavez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.390Z"
+    },
+    {
+      "name": "Wendy Filler",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.390Z"
+    },
+    {
+      "name": "Desert Sky Innovations",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.391Z"
+    },
+    {
+      "name": "Danel Wilske",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.391Z"
+    },
+    {
+      "name": "Mike Esposito",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.392Z"
+    },
+    {
+      "name": "Scott Knudson",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.392Z"
+    },
+    {
+      "name": "Vero J Estrada",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.392Z"
+    },
+    {
+      "name": "Erlange Freitas",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.396Z"
+    },
+    {
+      "name": "Paul Mccann",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.398Z"
+    },
+    {
+      "name": "Steve Wilson",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.399Z"
+    },
+    {
+      "name": "Dan Flynn",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.401Z"
+    },
+    {
+      "name": "Matthew Taylor",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.401Z"
+    },
+    {
+      "name": "Tiffany Burns",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.402Z"
+    },
+    {
+      "name": "Paul",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.404Z"
+    },
+    {
+      "name": "Daniel Lowe",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.405Z"
+    },
+    {
+      "name": "Rhett Lloyd",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.407Z"
+    },
+    {
+      "name": "Holly Devoto",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.408Z"
+    },
+    {
+      "name": "Mohica Manyskies",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.417Z"
+    },
+    {
+      "name": "Beth Pettit",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.441Z"
+    },
+    {
+      "name": "Fernando Escarzaga",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.446Z"
+    },
+    {
+      "name": "Roy",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.451Z"
+    },
+    {
+      "name": "Yomeiny Mairena",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.462Z"
+    },
+    {
+      "name": "Tim Broker",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.466Z"
+    },
+    {
+      "name": "John Ambrosino",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.470Z"
+    },
+    {
+      "name": "Federico Ochoa",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.471Z"
+    },
+    {
+      "name": "Scott Dawson | Real Estate Investor",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.475Z"
+    },
+    {
+      "name": "Renee Nellett",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.476Z"
+    },
+    {
+      "name": "Brad Dahlman",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.478Z"
+    },
+    {
+      "name": "Robyn Smith",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.494Z"
+    },
+    {
+      "name": "Dale Curtis",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.663Z"
+    },
+    {
+      "name": "Dave Deblois",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.748Z"
+    },
+    {
+      "name": "Karen Pavone",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.755Z"
+    },
+    {
+      "name": "William E Rose",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.755Z"
+    },
+    {
+      "name": "Steven Hoover",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.755Z"
+    },
+    {
+      "name": "Tim Gill",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.755Z"
+    },
+    {
+      "name": "John Anson",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.757Z"
+    },
+    {
+      "name": "Eliezer Nevarez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.762Z"
+    },
+    {
+      "name": "Ryan",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.764Z"
+    },
+    {
+      "name": "Eddie Ruiz",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.767Z"
+    },
+    {
+      "name": "Karen Hayes",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.768Z"
+    },
+    {
+      "name": "Katy Ogles",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.769Z"
+    },
+    {
+      "name": "Deangelo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.769Z"
+    },
+    {
+      "name": "Alfredo Lopez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.769Z"
+    },
+    {
+      "name": "Lara Mosser",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.772Z"
+    },
+    {
+      "name": "Juan Gomez",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.772Z"
+    },
+    {
+      "name": "Jack Goodroe",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.773Z"
+    },
+    {
+      "name": "Marney Raufmann",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.773Z"
+    },
+    {
+      "name": "Bill Bondy",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.774Z"
+    },
+    {
+      "name": "Stan Pieri",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.775Z"
+    },
+    {
+      "name": "Thomas Savoini",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.778Z"
+    },
+    {
+      "name": "Stevie Vance",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.785Z"
+    },
+    {
+      "name": "Chi Le",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.792Z"
+    },
+    {
+      "name": "Shane Elmore",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.807Z"
+    },
+    {
+      "name": "Ben Khubiar",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.960Z"
+    },
+    {
+      "name": "Ox Dat",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:07.997Z"
+    },
+    {
+      "name": "James Gullett",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.229Z"
+    },
+    {
+      "name": "Oswaldo Landa",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.233Z"
+    },
+    {
+      "name": "F Md Za",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.239Z"
+    },
+    {
+      "name": "Anthony",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.239Z"
+    },
+    {
+      "name": "Behzad Mayel",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.244Z"
+    },
+    {
+      "name": "Doris Zier",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.249Z"
+    },
+    {
+      "name": "Fernando",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.250Z"
+    },
+    {
+      "name": "Mayr Singleton",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.251Z"
+    },
+    {
+      "name": "Melinda Castillo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.252Z"
+    },
+    {
+      "name": "Gary Schultz",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.252Z"
+    },
+    {
+      "name": "Eric Bravo",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.255Z"
+    },
+    {
+      "name": "David",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.262Z"
+    },
+    {
+      "name": "Pedro Osete",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.263Z"
+    },
+    {
+      "name": "Cole",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.265Z"
+    },
+    {
+      "name": "Aisai",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.265Z"
+    },
+    {
+      "name": "Anthony Shuck",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.270Z"
+    },
+    {
+      "name": "Michele Buccellato",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.297Z"
+    },
+    {
+      "name": "Bo Curgus",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:08.737Z"
+    },
+    {
+      "name": "Randy Requa",
+      "texts": 1,
+      "responded": false,
+      "lastAt": "2026-06-13T01:25:09.344Z"
+    },
+    {
+      "name": "Marlon S Landeros",
+      "texts": 2,
+      "responded": true,
+      "lastAt": "2026-06-13T01:30:00.302Z"
+    },
+    {
+      "name": "Jeff Levkowitz",
+      "texts": 3,
+      "responded": true,
+      "lastAt": "2026-06-13T02:58:42.688Z"
+    },
+    {
+      "name": "Dusty Butler",
+      "texts": 3,
+      "responded": true,
+      "lastAt": "2026-06-13T04:50:33.701Z"
+    }
+  ],
+  "conversationsScanned": 400
+}
