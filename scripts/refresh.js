@@ -182,7 +182,7 @@ async function build() {
     if (ts > d.lastAt) d.lastAt = ts;
   }
 
-  const conversationsToScan = conversations.slice(0, 800);
+  const conversationsToScan = conversations.slice(0, 2500);
   const CONCURRENCY = 12;
   const allFetched = [];
   for (let i = 0; i < conversationsToScan.length; i += CONCURRENCY) {
