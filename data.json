@@ -1,19 +1,97 @@
 {
-  "generatedAt": "2026-07-01T18:27:33.421Z",
+  "generatedAt": "2026-07-01T20:26:46.114Z",
   "ranges": {
     "todayIso": "2026-07-01T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-01T18:27:28.491Z"
+    "nowIso": "2026-07-01T20:26:38.832Z"
   },
   "today": {
-    "contacts": 5,
-    "uniqueCallsAttempted": 19,
-    "uniqueTextsSent": 5,
-    "uniqueCallsAnswered": 3,
+    "contacts": 7,
+    "uniqueCallsAttempted": 32,
+    "uniqueTextsSent": 6,
+    "uniqueCallsAnswered": 7,
     "uniqueTextsResponded": 2,
-    "automationTexted": 9,
+    "automationTexted": 11,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Robert Dale",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T20:25:08.264Z"
+      },
+      {
+        "name": "Maria Juarez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T20:18:01.923Z"
+      },
+      {
+        "name": "Kristi Batch-Laurrell",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T20:14:18.533Z"
+      },
+      {
+        "name": "Adrian Tellez",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-01T20:09:44.138Z"
+      },
+      {
+        "name": "Brendon Webb",
+        "calls": 3,
+        "answered": false,
+        "lastAt": "2026-07-01T20:02:30.390Z"
+      },
+      {
+        "name": "Tammy Tazlow",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T18:59:18.097Z"
+      },
+      {
+        "name": "Sean Claffey",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:58:03.616Z"
+      },
+      {
+        "name": "Chris Sands",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T18:56:20.809Z"
+      },
+      {
+        "name": "Armando Aguayo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:47:56.918Z"
+      },
+      {
+        "name": "Angela Ritter",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-01T18:44:57.835Z"
+      },
+      {
+        "name": "Ray Beadle",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-01T18:42:53.458Z"
+      },
+      {
+        "name": "Danny Murillo",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-01T18:34:42.051Z"
+      },
+      {
+        "name": "Timothy Bush",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:29:49.149Z"
+      },
       {
         "name": "Angelica Ambriz",
         "calls": 2,
@@ -131,6 +209,12 @@
     ],
     "textedContacts": [
       {
+        "name": "Adrian Tellez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-01T20:09:44.138Z"
+      },
+      {
         "name": "Billy Godwin",
         "texts": 1,
         "responded": true,
@@ -163,23 +247,23 @@
     ]
   },
   "mtd": {
-    "contacts": 5,
-    "uniqueCallsAttempted": 19,
-    "uniqueTextsSent": 5,
-    "uniqueCallsAnswered": 3,
+    "contacts": 7,
+    "uniqueCallsAttempted": 32,
+    "uniqueTextsSent": 6,
+    "uniqueCallsAnswered": 7,
     "uniqueTextsResponded": 2,
-    "automationTexted": 9
+    "automationTexted": 11
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 5,
-      "uniqueCallsAnswered": 3,
+      "uniqueCallsAttempted": 32,
+      "uniqueTextsSent": 6,
+      "uniqueCallsAnswered": 7,
       "uniqueTextsResponded": 2,
-      "automationTexted": 9,
+      "automationTexted": 11,
       "campaign": null
     }
   ],
-  "conversationsScanned": 36
+  "conversationsScanned": 50
 }
