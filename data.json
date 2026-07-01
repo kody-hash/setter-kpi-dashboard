@@ -1,19 +1,127 @@
 {
-  "generatedAt": "2026-07-01T22:05:10.133Z",
+  "generatedAt": "2026-07-01T23:44:15.082Z",
   "ranges": {
     "todayIso": "2026-07-01T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-01T22:04:59.703Z"
+    "nowIso": "2026-07-01T23:44:01.390Z"
   },
   "today": {
-    "contacts": 7,
-    "uniqueCallsAttempted": 63,
-    "uniqueTextsSent": 6,
-    "uniqueCallsAnswered": 12,
-    "uniqueTextsResponded": 2,
-    "automationTexted": 11,
+    "contacts": 8,
+    "uniqueCallsAttempted": 81,
+    "uniqueTextsSent": 7,
+    "uniqueCallsAnswered": 16,
+    "uniqueTextsResponded": 3,
+    "automationTexted": 14,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "William Mcnichols",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-01T23:42:04.420Z"
+      },
+      {
+        "name": "John Touvell",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T23:40:33.878Z"
+      },
+      {
+        "name": "Linda Cote, Realtor",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T23:38:05.620Z"
+      },
+      {
+        "name": "Phillipcarrillo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T23:37:02.708Z"
+      },
+      {
+        "name": "Nirali Soni",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T23:34:37.042Z"
+      },
+      {
+        "name": "Efward Saenz",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T23:33:52.824Z"
+      },
+      {
+        "name": "Ernie Gutierrez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T23:31:57.241Z"
+      },
+      {
+        "name": "Mike Moran",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T23:28:55.099Z"
+      },
+      {
+        "name": "Michael Lofton",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T23:27:21.515Z"
+      },
+      {
+        "name": "Brittany Klinger",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T23:26:11.606Z"
+      },
+      {
+        "name": "David Rodriguez",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-01T23:22:52.247Z"
+      },
+      {
+        "name": "Jimmy Ojeda",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-01T23:19:29.653Z"
+      },
+      {
+        "name": "Darren Christiensen",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T23:05:43.714Z"
+      },
+      {
+        "name": "Louis Leonor",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T23:04:28.532Z"
+      },
+      {
+        "name": "Raymond Bencomo",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-01T23:00:08.693Z"
+      },
+      {
+        "name": "Gale Benner",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T22:57:27.775Z"
+      },
+      {
+        "name": "Mark Cobos",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T22:47:54.182Z"
+      },
+      {
+        "name": "Emily Turner",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T22:47:02.999Z"
+      },
       {
         "name": "Steve Toth",
         "calls": 1,
@@ -395,6 +503,12 @@
     ],
     "textedContacts": [
       {
+        "name": "Jimmy Ojeda",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-07-01T23:19:29.653Z"
+      },
+      {
         "name": "Adrian Tellez",
         "texts": 1,
         "responded": false,
@@ -433,23 +547,23 @@
     ]
   },
   "mtd": {
-    "contacts": 7,
-    "uniqueCallsAttempted": 63,
-    "uniqueTextsSent": 6,
-    "uniqueCallsAnswered": 12,
-    "uniqueTextsResponded": 2,
-    "automationTexted": 11
+    "contacts": 8,
+    "uniqueCallsAttempted": 81,
+    "uniqueTextsSent": 7,
+    "uniqueCallsAnswered": 16,
+    "uniqueTextsResponded": 3,
+    "automationTexted": 14
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 63,
-      "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 12,
-      "uniqueTextsResponded": 2,
-      "automationTexted": 11,
+      "uniqueCallsAttempted": 81,
+      "uniqueTextsSent": 7,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 14,
       "campaign": null
     }
   ],
-  "conversationsScanned": 84
+  "conversationsScanned": 103
 }
