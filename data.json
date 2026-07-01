@@ -1,19 +1,109 @@
 {
-  "generatedAt": "2026-07-01T16:28:42.473Z",
+  "generatedAt": "2026-07-01T18:27:33.421Z",
   "ranges": {
     "todayIso": "2026-07-01T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-01T16:28:40.472Z"
+    "nowIso": "2026-07-01T18:27:28.491Z"
   },
   "today": {
-    "contacts": 4,
-    "uniqueCallsAttempted": 4,
-    "uniqueTextsSent": 3,
-    "uniqueCallsAnswered": 2,
-    "uniqueTextsResponded": 1,
-    "automationTexted": 8,
+    "contacts": 5,
+    "uniqueCallsAttempted": 19,
+    "uniqueTextsSent": 5,
+    "uniqueCallsAnswered": 3,
+    "uniqueTextsResponded": 2,
+    "automationTexted": 9,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Angelica Ambriz",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:27:28.271Z"
+      },
+      {
+        "name": "Heron Gomez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:24:17.614Z"
+      },
+      {
+        "name": "Buccellato Michele",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:20:05.051Z"
+      },
+      {
+        "name": "Traci Elter",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T18:15:41.370Z"
+      },
+      {
+        "name": "Larry Herrera",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T18:14:30.154Z"
+      },
+      {
+        "name": "Brandon N Recia Squire",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:08:34.232Z"
+      },
+      {
+        "name": "Noah Mazor",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T18:01:50.952Z"
+      },
+      {
+        "name": "Jayden Sanders",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T17:56:26.024Z"
+      },
+      {
+        "name": "Veronica Fernandez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T17:47:32.957Z"
+      },
+      {
+        "name": "Wendy Nichols",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T17:45:04.646Z"
+      },
+      {
+        "name": "Robert E",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T17:43:44.616Z"
+      },
+      {
+        "name": "Darlene Foy Funk",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T17:42:34.283Z"
+      },
+      {
+        "name": "Sue Orlando",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-01T17:37:34.394Z"
+      },
+      {
+        "name": "Robin Way",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-01T17:33:31.260Z"
+      },
+      {
+        "name": "Andrew Santorios",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-01T16:50:27.664Z"
+      },
       {
         "name": "Josh Hinks",
         "calls": 1,
@@ -41,6 +131,18 @@
     ],
     "textedContacts": [
       {
+        "name": "Billy Godwin",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-07-01T17:36:33.901Z"
+      },
+      {
+        "name": "Andrew Santorios",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-07-01T16:50:27.664Z"
+      },
+      {
         "name": "Josh Hinks",
         "texts": 1,
         "responded": false,
@@ -61,23 +163,23 @@
     ]
   },
   "mtd": {
-    "contacts": 4,
-    "uniqueCallsAttempted": 4,
-    "uniqueTextsSent": 3,
-    "uniqueCallsAnswered": 2,
-    "uniqueTextsResponded": 1,
-    "automationTexted": 8
+    "contacts": 5,
+    "uniqueCallsAttempted": 19,
+    "uniqueTextsSent": 5,
+    "uniqueCallsAnswered": 3,
+    "uniqueTextsResponded": 2,
+    "automationTexted": 9
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 4,
-      "uniqueTextsSent": 3,
-      "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 1,
-      "automationTexted": 8,
+      "uniqueCallsAttempted": 19,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 2,
+      "automationTexted": 9,
       "campaign": null
     }
   ],
-  "conversationsScanned": 21
+  "conversationsScanned": 36
 }
