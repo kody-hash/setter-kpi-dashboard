@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-01T23:44:15.082Z",
+  "generatedAt": "2026-07-02T01:51:53.159Z",
   "ranges": {
     "todayIso": "2026-07-01T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-01T23:44:01.390Z"
+    "nowIso": "2026-07-02T01:51:47.164Z"
   },
   "today": {
     "contacts": 8,
-    "uniqueCallsAttempted": 81,
-    "uniqueTextsSent": 7,
+    "uniqueCallsAttempted": 80,
+    "uniqueTextsSent": 5,
     "uniqueCallsAnswered": 16,
-    "uniqueTextsResponded": 3,
-    "automationTexted": 14,
+    "uniqueTextsResponded": 2,
+    "automationTexted": 15,
     "campaign": null,
     "calledContacts": [
       {
@@ -493,12 +493,6 @@
         "calls": 1,
         "answered": true,
         "lastAt": "2026-07-01T15:54:18.137Z"
-      },
-      {
-        "name": "Norma Burgos",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-01T15:51:41.986Z"
       }
     ],
     "textedContacts": [
@@ -531,39 +525,27 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-07-01T16:04:03.736Z"
-      },
-      {
-        "name": "Bryon Rothe",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-01T15:30:18.886Z"
-      },
-      {
-        "name": "John Deboer",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-07-01T15:15:32.454Z"
       }
     ]
   },
   "mtd": {
     "contacts": 8,
-    "uniqueCallsAttempted": 81,
-    "uniqueTextsSent": 7,
+    "uniqueCallsAttempted": 80,
+    "uniqueTextsSent": 5,
     "uniqueCallsAnswered": 16,
-    "uniqueTextsResponded": 3,
-    "automationTexted": 14
+    "uniqueTextsResponded": 2,
+    "automationTexted": 15
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 81,
-      "uniqueTextsSent": 7,
+      "uniqueCallsAttempted": 80,
+      "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 16,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 14,
+      "uniqueTextsResponded": 2,
+      "automationTexted": 15,
       "campaign": null
     }
   ],
-  "conversationsScanned": 103
+  "conversationsScanned": 106
 }
