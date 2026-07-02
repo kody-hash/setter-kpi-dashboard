@@ -1,19 +1,79 @@
 {
-  "generatedAt": "2026-07-02T22:29:04.176Z",
+  "generatedAt": "2026-07-02T23:41:14.710Z",
   "ranges": {
     "todayIso": "2026-07-02T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-02T22:28:41.083Z"
+    "nowIso": "2026-07-02T23:41:04.830Z"
   },
   "today": {
-    "contacts": 8,
-    "uniqueCallsAttempted": 61,
-    "uniqueTextsSent": 7,
-    "uniqueCallsAnswered": 13,
-    "uniqueTextsResponded": 4,
-    "automationTexted": 19,
+    "contacts": 10,
+    "uniqueCallsAttempted": 70,
+    "uniqueTextsSent": 10,
+    "uniqueCallsAnswered": 16,
+    "uniqueTextsResponded": 6,
+    "automationTexted": 15,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Matthew Silva",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T23:37:00.101Z"
+      },
+      {
+        "name": "Drew Grunwald",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T23:34:27.070Z"
+      },
+      {
+        "name": "Kathy Ochs",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T23:33:07.816Z"
+      },
+      {
+        "name": "Leonard Black",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T23:31:13.540Z"
+      },
+      {
+        "name": "Peter Varnavski",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T23:28:56.680Z"
+      },
+      {
+        "name": "Julieta Williams",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T23:25:09.988Z"
+      },
+      {
+        "name": "Troy Pearce",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T23:24:10.593Z"
+      },
+      {
+        "name": "Nicktanya Lat",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T23:18:27.275Z"
+      },
+      {
+        "name": "John Malkou",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T23:15:32.235Z"
+      },
+      {
+        "name": "Justin Roberts",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T22:55:49.289Z"
+      },
       {
         "name": "Heather Rogers Price",
         "calls": 1,
@@ -373,15 +433,27 @@
         "calls": 2,
         "answered": false,
         "lastAt": "2026-07-02T15:59:25.913Z"
-      },
-      {
-        "name": "Jesse Guaydacan",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-07-02T15:23:48.224Z"
       }
     ],
     "textedContacts": [
+      {
+        "name": "John Malkou",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-02T23:15:32.235Z"
+      },
+      {
+        "name": "(602) 881-5560",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-07-02T23:09:13.480Z"
+      },
+      {
+        "name": "Ivorconstruction",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-07-02T23:00:51.583Z"
+      },
       {
         "name": "John L. Hoyt",
         "texts": 1,
@@ -427,32 +499,32 @@
     ]
   },
   "mtd": {
-    "contacts": 18,
-    "uniqueCallsAttempted": 142,
-    "uniqueTextsSent": 14,
-    "uniqueCallsAnswered": 29,
-    "uniqueTextsResponded": 7,
-    "automationTexted": 46
+    "contacts": 20,
+    "uniqueCallsAttempted": 91,
+    "uniqueTextsSent": 10,
+    "uniqueCallsAnswered": 19,
+    "uniqueTextsResponded": 6,
+    "automationTexted": 24
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 81,
-      "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 16,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 27,
+      "uniqueCallsAttempted": 21,
+      "uniqueTextsSent": 0,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 9,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 61,
-      "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 13,
-      "uniqueTextsResponded": 4,
-      "automationTexted": 19,
+      "uniqueCallsAttempted": 70,
+      "uniqueTextsSent": 10,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 6,
+      "automationTexted": 15,
       "campaign": null
     }
   ],
-  "conversationsScanned": 172
+  "conversationsScanned": 188
 }
