@@ -1,19 +1,91 @@
 {
-  "generatedAt": "2026-07-02T18:02:35.113Z",
+  "generatedAt": "2026-07-02T19:52:45.788Z",
   "ranges": {
     "todayIso": "2026-07-02T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-02T18:02:15.248Z"
+    "nowIso": "2026-07-02T19:52:30.288Z"
   },
   "today": {
-    "contacts": 3,
-    "uniqueCallsAttempted": 12,
-    "uniqueTextsSent": 3,
-    "uniqueCallsAnswered": 4,
-    "uniqueTextsResponded": 2,
-    "automationTexted": 12,
+    "contacts": 4,
+    "uniqueCallsAttempted": 24,
+    "uniqueTextsSent": 4,
+    "uniqueCallsAnswered": 7,
+    "uniqueTextsResponded": 3,
+    "automationTexted": 14,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "James O'connor",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:55:27.125Z"
+      },
+      {
+        "name": "Ray Beadle",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T18:49:17.269Z"
+      },
+      {
+        "name": "Sean Claffey",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-02T18:48:07.163Z"
+      },
+      {
+        "name": "Jayden Sanders",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:46:43.841Z"
+      },
+      {
+        "name": "Justin Erickson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:35:40.804Z"
+      },
+      {
+        "name": "Brandon N Recia Squire",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:27:59.730Z"
+      },
+      {
+        "name": "Heron Gomez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:25:47.695Z"
+      },
+      {
+        "name": "Chris Sands",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:23:59.430Z"
+      },
+      {
+        "name": "Danny Murillo",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T18:21:47.353Z"
+      },
+      {
+        "name": "Traci Elter",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:16:33.153Z"
+      },
+      {
+        "name": "Norma Burgos",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:09:43.183Z"
+      },
+      {
+        "name": "Darlene Foy Funk",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T18:07:53.566Z"
+      },
       {
         "name": "Alberto Varajas",
         "calls": 1,
@@ -89,6 +161,12 @@
     ],
     "textedContacts": [
       {
+        "name": "Meg Behrens | Arizona Interior Designer",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-07-02T18:19:51.409Z"
+      },
+      {
         "name": "Nils Bjelde",
         "texts": 2,
         "responded": true,
@@ -109,12 +187,12 @@
     ]
   },
   "mtd": {
-    "contacts": 13,
-    "uniqueCallsAttempted": 93,
-    "uniqueTextsSent": 10,
-    "uniqueCallsAnswered": 20,
-    "uniqueTextsResponded": 5,
-    "automationTexted": 39
+    "contacts": 14,
+    "uniqueCallsAttempted": 105,
+    "uniqueTextsSent": 11,
+    "uniqueCallsAnswered": 23,
+    "uniqueTextsResponded": 6,
+    "automationTexted": 41
   },
   "daily": [
     {
@@ -128,13 +206,13 @@
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 12,
-      "uniqueTextsSent": 3,
-      "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 2,
-      "automationTexted": 12,
+      "uniqueCallsAttempted": 24,
+      "uniqueTextsSent": 4,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 14,
       "campaign": null
     }
   ],
-  "conversationsScanned": 128
+  "conversationsScanned": 134
 }
