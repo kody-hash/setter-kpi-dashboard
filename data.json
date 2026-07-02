@@ -1,19 +1,139 @@
 {
-  "generatedAt": "2026-07-02T19:52:45.788Z",
+  "generatedAt": "2026-07-02T21:12:05.382Z",
   "ranges": {
     "todayIso": "2026-07-02T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-02T19:52:30.288Z"
+    "nowIso": "2026-07-02T21:11:49.995Z"
   },
   "today": {
     "contacts": 4,
-    "uniqueCallsAttempted": 24,
-    "uniqueTextsSent": 4,
-    "uniqueCallsAnswered": 7,
-    "uniqueTextsResponded": 3,
-    "automationTexted": 14,
+    "uniqueCallsAttempted": 44,
+    "uniqueTextsSent": 5,
+    "uniqueCallsAnswered": 8,
+    "uniqueTextsResponded": 4,
+    "automationTexted": 17,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Jeff Hodges",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T21:11:48.909Z"
+      },
+      {
+        "name": "Candice",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T21:04:14.508Z"
+      },
+      {
+        "name": "Ivan Haro",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T21:02:57.661Z"
+      },
+      {
+        "name": "Tanner Riggs",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T21:02:20.136Z"
+      },
+      {
+        "name": "Travis Mast",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T21:01:09.776Z"
+      },
+      {
+        "name": "Dave A. Dirren",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:57:25.741Z"
+      },
+      {
+        "name": "Mariah Rizzo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:56:04.543Z"
+      },
+      {
+        "name": "Diva Martinez, Realtor",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:54:47.435Z"
+      },
+      {
+        "name": "Howard Thruston",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:51:49.456Z"
+      },
+      {
+        "name": "Jill Brugman",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:47:46.854Z"
+      },
+      {
+        "name": "Scott Thomas",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:44:45.909Z"
+      },
+      {
+        "name": "Nick Reyes",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:41:10.548Z"
+      },
+      {
+        "name": "Dan Olin",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:35:29.307Z"
+      },
+      {
+        "name": "Cory Fuller",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:32:30.124Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:30:53.179Z"
+      },
+      {
+        "name": "Larry Herrera",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T20:21:11.169Z"
+      },
+      {
+        "name": "Tammy Tazlow",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:17:03.048Z"
+      },
+      {
+        "name": "Robert E",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:15:19.860Z"
+      },
+      {
+        "name": "Veronica Fernandez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:13:12.978Z"
+      },
+      {
+        "name": "Sue Orlando",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T20:11:34.484Z"
+      },
       {
         "name": "James O'connor",
         "calls": 2,
@@ -161,6 +281,12 @@
     ],
     "textedContacts": [
       {
+        "name": "Ken Slater",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-07-02T20:08:11.600Z"
+      },
+      {
         "name": "Meg Behrens | Arizona Interior Designer",
         "texts": 1,
         "responded": true,
@@ -188,31 +314,31 @@
   },
   "mtd": {
     "contacts": 14,
-    "uniqueCallsAttempted": 105,
-    "uniqueTextsSent": 11,
+    "uniqueCallsAttempted": 116,
+    "uniqueTextsSent": 12,
     "uniqueCallsAnswered": 23,
-    "uniqueTextsResponded": 6,
-    "automationTexted": 41
+    "uniqueTextsResponded": 7,
+    "automationTexted": 44
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 81,
+      "uniqueCallsAttempted": 72,
       "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 16,
+      "uniqueCallsAnswered": 15,
       "uniqueTextsResponded": 3,
       "automationTexted": 27,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 4,
-      "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 14,
+      "uniqueCallsAttempted": 44,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 8,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 17,
       "campaign": null
     }
   ],
-  "conversationsScanned": 134
+  "conversationsScanned": 152
 }
