@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-03T20:17:30.468Z",
+  "generatedAt": "2026-07-03T21:40:42.392Z",
   "ranges": {
     "todayIso": "2026-07-03T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-03T20:17:03.106Z"
+    "nowIso": "2026-07-03T21:40:28.387Z"
   },
   "today": {
-    "contacts": 2,
+    "contacts": 3,
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 0,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
-    "automationTexted": 14,
+    "automationTexted": 16,
     "campaign": null,
     "calledContacts": [],
     "textedContacts": []
   },
   "mtd": {
-    "contacts": 26,
-    "uniqueCallsAttempted": 157,
-    "uniqueTextsSent": 18,
-    "uniqueCallsAnswered": 34,
-    "uniqueTextsResponded": 9,
-    "automationTexted": 78
+    "contacts": 27,
+    "uniqueCallsAttempted": 50,
+    "uniqueTextsSent": 5,
+    "uniqueCallsAnswered": 10,
+    "uniqueTextsResponded": 2,
+    "automationTexted": 32
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 81,
-      "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 16,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 27,
+      "uniqueCallsAttempted": 44,
+      "uniqueTextsSent": 3,
+      "uniqueCallsAnswered": 9,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 6,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 76,
-      "uniqueTextsSent": 11,
-      "uniqueCallsAnswered": 18,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 37,
+      "uniqueCallsAttempted": 6,
+      "uniqueTextsSent": 2,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 10,
       "campaign": null
     },
     {
@@ -49,9 +49,9 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 14,
+      "automationTexted": 16,
       "campaign": null
     }
   ],
-  "conversationsScanned": 219
+  "conversationsScanned": 220
 }
