@@ -1,24 +1,54 @@
 {
-  "generatedAt": "2026-07-02T23:41:14.710Z",
+  "generatedAt": "2026-07-03T00:34:06.789Z",
   "ranges": {
     "todayIso": "2026-07-02T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-02T23:41:04.830Z"
+    "nowIso": "2026-07-03T00:33:58.264Z"
   },
   "today": {
-    "contacts": 10,
-    "uniqueCallsAttempted": 70,
+    "contacts": 11,
+    "uniqueCallsAttempted": 67,
     "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 16,
     "uniqueTextsResponded": 6,
-    "automationTexted": 15,
+    "automationTexted": 18,
     "campaign": null,
     "calledContacts": [
       {
-        "name": "Matthew Silva",
+        "name": "Josie Luna",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-02T23:55:50.936Z"
+      },
+      {
+        "name": "Natalie March Lane",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-07-02T23:37:00.101Z"
+        "lastAt": "2026-07-02T23:53:17.573Z"
+      },
+      {
+        "name": "Jaime Cordova",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T23:51:48.471Z"
+      },
+      {
+        "name": "Ryan",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T23:48:58.185Z"
+      },
+      {
+        "name": "Jeremiah Muntazir",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-02T23:47:44.614Z"
+      },
+      {
+        "name": "Matthew Silva",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-02T23:43:21.932Z"
       },
       {
         "name": "Drew Grunwald",
@@ -385,57 +415,15 @@
         "calls": 2,
         "answered": false,
         "lastAt": "2026-07-02T17:37:56.651Z"
-      },
-      {
-        "name": "Timothy Bush",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-02T16:38:25.984Z"
-      },
-      {
-        "name": "Robin Way",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-02T16:35:27.558Z"
-      },
-      {
-        "name": "Maria Juarez",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-02T16:26:19.366Z"
-      },
-      {
-        "name": "Matt Marshman",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-02T16:22:36.717Z"
-      },
-      {
-        "name": "Angela Ritter",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-07-02T16:19:07.406Z"
-      },
-      {
-        "name": "Wendy Nichols",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-02T16:17:34.309Z"
-      },
-      {
-        "name": "Jeff Cain Jeff Cain",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-07-02T16:12:16.142Z"
-      },
-      {
-        "name": "Lucy Giraldo",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-02T15:59:25.913Z"
       }
     ],
     "textedContacts": [
+      {
+        "name": "Matthew Silva",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-02T23:43:21.932Z"
+      },
       {
         "name": "John Malkou",
         "texts": 1,
@@ -489,42 +477,36 @@
         "texts": 5,
         "responded": true,
         "lastAt": "2026-07-02T17:37:56.651Z"
-      },
-      {
-        "name": "Jeff Cain Jeff Cain",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-02T16:12:16.142Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 20,
-    "uniqueCallsAttempted": 91,
+    "contacts": 21,
+    "uniqueCallsAttempted": 82,
     "uniqueTextsSent": 10,
-    "uniqueCallsAnswered": 19,
+    "uniqueCallsAnswered": 18,
     "uniqueTextsResponded": 6,
     "automationTexted": 24
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 21,
+      "uniqueCallsAttempted": 15,
       "uniqueTextsSent": 0,
-      "uniqueCallsAnswered": 3,
+      "uniqueCallsAnswered": 2,
       "uniqueTextsResponded": 0,
-      "automationTexted": 9,
+      "automationTexted": 6,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 70,
+      "uniqueCallsAttempted": 67,
       "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 6,
-      "automationTexted": 15,
+      "automationTexted": 18,
       "campaign": null
     }
   ],
-  "conversationsScanned": 188
+  "conversationsScanned": 196
 }
