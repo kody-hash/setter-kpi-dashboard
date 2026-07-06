@@ -1,31 +1,134 @@
 {
-  "generatedAt": "2026-07-06T16:53:44.209Z",
+  "generatedAt": "2026-07-06T18:58:02.969Z",
   "ranges": {
     "todayIso": "2026-07-06T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-06T16:53:09.857Z"
+    "nowIso": "2026-07-06T18:57:31.764Z"
   },
   "today": {
     "contacts": 3,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 8,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 3,
-    "automationTexted": 6,
+    "uniqueCallsAttempted": 10,
+    "uniqueTextsSent": 13,
+    "uniqueCallsAnswered": 3,
+    "uniqueTextsResponded": 5,
+    "automationTexted": 7,
     "campaign": null,
-    "calledContacts": [],
+    "calledContacts": [
+      {
+        "name": "Austin Haney",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-06T18:42:56.077Z"
+      },
+      {
+        "name": "Ryan Keen",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T18:38:02.972Z"
+      },
+      {
+        "name": "Brandon N Recia Squire",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T18:36:18.733Z"
+      },
+      {
+        "name": "Sue Orlando",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T18:34:45.177Z"
+      },
+      {
+        "name": "Norma Burgos",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T18:32:51.776Z"
+      },
+      {
+        "name": "Sergioaldaco",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-06T18:26:47.083Z"
+      },
+      {
+        "name": "Jesse Guaydacan",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-06T18:17:55.525Z"
+      },
+      {
+        "name": "Veronica Fernandez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T18:15:51.697Z"
+      },
+      {
+        "name": "Heron Gomez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T18:09:49.729Z"
+      },
+      {
+        "name": "Jeff Richman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-06T17:48:38.037Z"
+      }
+    ],
     "textedContacts": [
+      {
+        "name": "Austin Haney",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-07-06T18:42:56.077Z"
+      },
+      {
+        "name": "Sergioaldaco",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-06T18:26:47.083Z"
+      },
+      {
+        "name": "Suzy. Steinmann",
+        "texts": 11,
+        "responded": true,
+        "lastAt": "2026-07-06T18:13:26.992Z"
+      },
+      {
+        "name": "Mark Fellman",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-07-06T17:55:33.028Z"
+      },
+      {
+        "name": "Jeff Richman",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-07-06T17:48:38.037Z"
+      },
+      {
+        "name": "John Taglia",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-06T16:57:44.448Z"
+      },
+      {
+        "name": "Michael Lashon",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-06T16:57:14.095Z"
+      },
+      {
+        "name": "Thom Dixon",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-06T16:54:03.397Z"
+      },
       {
         "name": "Janet Phillips",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-07-06T16:51:45.344Z"
-      },
-      {
-        "name": "Mark Fellman",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-07-06T16:48:15.384Z"
       },
       {
         "name": "Christopher Niesen",
@@ -46,50 +149,38 @@
         "lastAt": "2026-07-06T16:32:14.309Z"
       },
       {
-        "name": "Suzy. Steinmann",
-        "texts": 8,
-        "responded": true,
-        "lastAt": "2026-07-06T16:08:35.590Z"
-      },
-      {
         "name": "Jeff Cain Jeff Cain",
         "texts": 2,
         "responded": false,
         "lastAt": "2026-07-06T15:56:43.870Z"
-      },
-      {
-        "name": "Jeff Richman",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-06T15:24:45.205Z"
       }
     ]
   },
   "mtd": {
     "contacts": 45,
-    "uniqueCallsAttempted": 157,
-    "uniqueTextsSent": 26,
+    "uniqueCallsAttempted": 136,
+    "uniqueTextsSent": 29,
     "uniqueCallsAnswered": 34,
     "uniqueTextsResponded": 12,
-    "automationTexted": 184
+    "automationTexted": 180
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 81,
+      "uniqueCallsAttempted": 76,
       "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 3,
-      "automationTexted": 27,
+      "automationTexted": 26,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 76,
-      "uniqueTextsSent": 11,
-      "uniqueCallsAnswered": 18,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 37,
+      "uniqueCallsAttempted": 50,
+      "uniqueTextsSent": 9,
+      "uniqueCallsAnswered": 15,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 33,
       "campaign": null
     },
     {
@@ -121,13 +212,13 @@
     },
     {
       "date": "2026-07-06",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 8,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 6,
+      "uniqueCallsAttempted": 10,
+      "uniqueTextsSent": 13,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 5,
+      "automationTexted": 7,
       "campaign": null
     }
   ],
-  "conversationsScanned": 274
+  "conversationsScanned": 276
 }
