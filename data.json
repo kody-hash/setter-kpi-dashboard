@@ -1,19 +1,91 @@
 {
-  "generatedAt": "2026-07-06T18:58:02.969Z",
+  "generatedAt": "2026-07-06T20:56:11.483Z",
   "ranges": {
     "todayIso": "2026-07-06T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-06T18:57:31.764Z"
+    "nowIso": "2026-07-06T20:55:45.344Z"
   },
   "today": {
-    "contacts": 3,
-    "uniqueCallsAttempted": 10,
-    "uniqueTextsSent": 13,
-    "uniqueCallsAnswered": 3,
-    "uniqueTextsResponded": 5,
-    "automationTexted": 7,
+    "contacts": 4,
+    "uniqueCallsAttempted": 22,
+    "uniqueTextsSent": 15,
+    "uniqueCallsAnswered": 7,
+    "uniqueTextsResponded": 6,
+    "automationTexted": 11,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Dale Dickamore",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-06T20:51:33.620Z"
+      },
+      {
+        "name": "Barbara Dojaquez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T20:49:49.549Z"
+      },
+      {
+        "name": "Rosie Vaughan",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T20:46:43.047Z"
+      },
+      {
+        "name": "Michelle Kommes",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T20:44:09.332Z"
+      },
+      {
+        "name": "Dominique | Real Estate Agent | Reia Owner",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-06T20:38:05.549Z"
+      },
+      {
+        "name": "Brenda Martinez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T20:22:39.399Z"
+      },
+      {
+        "name": "Kody Romero | Phoenix Realtor",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-06T20:18:03.351Z"
+      },
+      {
+        "name": "Hector Lopez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T20:16:13.739Z"
+      },
+      {
+        "name": "Mireya Dominguez",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-06T20:13:38.325Z"
+      },
+      {
+        "name": "Saner Mane",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T20:09:27.855Z"
+      },
+      {
+        "name": "Noe Peralta",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-06T20:07:35.454Z"
+      },
+      {
+        "name": "Mick Musonda",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-06T20:01:53.026Z"
+      },
       {
         "name": "Austin Haney",
         "calls": 1,
@@ -76,6 +148,18 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Dominique | Real Estate Agent | Reia Owner",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-06T20:38:05.549Z"
+      },
+      {
+        "name": "Cj Lee",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-07-06T20:00:43.470Z"
+      },
       {
         "name": "Austin Haney",
         "texts": 2,
@@ -157,30 +241,30 @@
     ]
   },
   "mtd": {
-    "contacts": 45,
-    "uniqueCallsAttempted": 136,
-    "uniqueTextsSent": 29,
-    "uniqueCallsAnswered": 34,
-    "uniqueTextsResponded": 12,
-    "automationTexted": 180
+    "contacts": 46,
+    "uniqueCallsAttempted": 111,
+    "uniqueTextsSent": 31,
+    "uniqueCallsAnswered": 31,
+    "uniqueTextsResponded": 13,
+    "automationTexted": 178
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 76,
+      "uniqueCallsAttempted": 34,
       "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 16,
+      "uniqueCallsAnswered": 9,
       "uniqueTextsResponded": 3,
-      "automationTexted": 26,
+      "automationTexted": 23,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 50,
+      "uniqueCallsAttempted": 55,
       "uniqueTextsSent": 9,
       "uniqueCallsAnswered": 15,
       "uniqueTextsResponded": 4,
-      "automationTexted": 33,
+      "automationTexted": 30,
       "campaign": null
     },
     {
@@ -212,13 +296,13 @@
     },
     {
       "date": "2026-07-06",
-      "uniqueCallsAttempted": 10,
-      "uniqueTextsSent": 13,
-      "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 5,
-      "automationTexted": 7,
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 15,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 6,
+      "automationTexted": 11,
       "campaign": null
     }
   ],
-  "conversationsScanned": 276
+  "conversationsScanned": 279
 }
