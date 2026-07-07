@@ -1,23 +1,137 @@
 {
-  "generatedAt": "2026-07-07T16:34:12.166Z",
+  "generatedAt": "2026-07-07T18:50:55.204Z",
   "ranges": {
     "todayIso": "2026-07-07T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-07T16:33:15.525Z"
+    "nowIso": "2026-07-07T18:50:03.784Z"
   },
   "today": {
-    "contacts": 5,
-    "uniqueCallsAttempted": 3,
-    "uniqueTextsSent": 2,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
-    "automationTexted": 8,
+    "contacts": 8,
+    "uniqueCallsAttempted": 22,
+    "uniqueTextsSent": 5,
+    "uniqueCallsAnswered": 5,
+    "uniqueTextsResponded": 1,
+    "automationTexted": 11,
     "campaign": null,
     "calledContacts": [
       {
-        "name": "Kent Schwager",
+        "name": "Traci Elter",
         "calls": 2,
         "answered": false,
+        "lastAt": "2026-07-07T18:50:09.077Z"
+      },
+      {
+        "name": "Ray Beadle",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-07T18:47:08.012Z"
+      },
+      {
+        "name": "Heron Gomez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:46:14.385Z"
+      },
+      {
+        "name": "Brandon N Recia Squire",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:44:32.063Z"
+      },
+      {
+        "name": "Norma Burgos",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:42:25.355Z"
+      },
+      {
+        "name": "Sean Claffey",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-07T18:38:58.495Z"
+      },
+      {
+        "name": "Veronica Fernandez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:34:06.583Z"
+      },
+      {
+        "name": "Angela Ritter",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-07T18:32:15.906Z"
+      },
+      {
+        "name": "Sue Orlando",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:30:37.257Z"
+      },
+      {
+        "name": "Madhu",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:28:43.600Z"
+      },
+      {
+        "name": "Rosie Vaughan",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:27:02.471Z"
+      },
+      {
+        "name": "Noe Peralta",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-07T18:24:32.422Z"
+      },
+      {
+        "name": "Timothy Bush",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:07:26.745Z"
+      },
+      {
+        "name": "Kody Romero | Phoenix Realtor",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T18:05:55.906Z"
+      },
+      {
+        "name": "Frank Grice",
+        "calls": 3,
+        "answered": false,
+        "lastAt": "2026-07-07T18:00:02.007Z"
+      },
+      {
+        "name": "Miguel A Basilio",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-07T17:39:44.194Z"
+      },
+      {
+        "name": "Michelle Kommes",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-07T17:20:12.714Z"
+      },
+      {
+        "name": "Bennett Dupilka",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-07T17:08:26.167Z"
+      },
+      {
+        "name": "Tim Tucker",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-07T16:40:38.392Z"
+      },
+      {
+        "name": "Kent Schwager",
+        "calls": 2,
+        "answered": true,
         "lastAt": "2026-07-07T16:32:30.368Z"
       },
       {
@@ -35,6 +149,24 @@
     ],
     "textedContacts": [
       {
+        "name": "Frank Grice",
+        "texts": 3,
+        "responded": false,
+        "lastAt": "2026-07-07T18:00:02.007Z"
+      },
+      {
+        "name": "Michelle Kommes",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-07-07T17:20:12.714Z"
+      },
+      {
+        "name": "Tim Tucker",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-07-07T16:40:38.392Z"
+      },
+      {
         "name": "Gracie Sawyer",
         "texts": 1,
         "responded": false,
@@ -49,12 +181,12 @@
     ]
   },
   "mtd": {
-    "contacts": 57,
-    "uniqueCallsAttempted": 236,
-    "uniqueTextsSent": 41,
-    "uniqueCallsAnswered": 53,
-    "uniqueTextsResponded": 16,
-    "automationTexted": 219
+    "contacts": 60,
+    "uniqueCallsAttempted": 255,
+    "uniqueTextsSent": 44,
+    "uniqueCallsAnswered": 58,
+    "uniqueTextsResponded": 17,
+    "automationTexted": 222
   },
   "daily": [
     {
@@ -113,13 +245,13 @@
     },
     {
       "date": "2026-07-07",
-      "uniqueCallsAttempted": 3,
-      "uniqueTextsSent": 2,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0,
-      "automationTexted": 8,
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 11,
       "campaign": null
     }
   ],
-  "conversationsScanned": 325
+  "conversationsScanned": 327
 }
