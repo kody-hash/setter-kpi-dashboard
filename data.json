@@ -1,19 +1,61 @@
 {
-  "generatedAt": "2026-07-08T19:37:53.405Z",
+  "generatedAt": "2026-07-08T20:47:21.923Z",
   "ranges": {
     "todayIso": "2026-07-08T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-08T19:37:21.405Z"
+    "nowIso": "2026-07-08T20:46:30.943Z"
   },
   "today": {
-    "contacts": 5,
-    "uniqueCallsAttempted": 50,
-    "uniqueTextsSent": 8,
+    "contacts": 7,
+    "uniqueCallsAttempted": 57,
+    "uniqueTextsSent": 10,
     "uniqueCallsAnswered": 14,
     "uniqueTextsResponded": 2,
     "automationTexted": 3,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Chris G Spindler",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-08T20:44:00.208Z"
+      },
+      {
+        "name": "David Gregory",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-08T20:41:06.729Z"
+      },
+      {
+        "name": "Dave Bowling",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-08T20:38:46.262Z"
+      },
+      {
+        "name": "Elaine Perry",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-08T20:31:49.007Z"
+      },
+      {
+        "name": "Billy J Leigh",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-08T20:24:39.793Z"
+      },
+      {
+        "name": "Helena Newell",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-08T20:15:32.138Z"
+      },
+      {
+        "name": "Catalyst Interiors",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-08T20:08:09.053Z"
+      },
       {
         "name": "Don Boger",
         "calls": 2,
@@ -317,6 +359,18 @@
     ],
     "textedContacts": [
       {
+        "name": "Dave Bowling",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-07-08T20:38:46.262Z"
+      },
+      {
+        "name": "Billy J Leigh",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-08T20:24:39.793Z"
+      },
+      {
         "name": "Phil Gilbert Mendoza",
         "texts": 1,
         "responded": true,
@@ -367,30 +421,30 @@
     ]
   },
   "mtd": {
-    "contacts": 81,
-    "uniqueCallsAttempted": 268,
-    "uniqueTextsSent": 57,
-    "uniqueCallsAnswered": 66,
-    "uniqueTextsResponded": 20,
-    "automationTexted": 230
+    "contacts": 83,
+    "uniqueCallsAttempted": 350,
+    "uniqueTextsSent": 63,
+    "uniqueCallsAnswered": 81,
+    "uniqueTextsResponded": 22,
+    "automationTexted": 243
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 36,
+      "uniqueCallsAttempted": 80,
       "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 9,
+      "uniqueCallsAnswered": 15,
       "uniqueTextsResponded": 2,
-      "automationTexted": 24,
+      "automationTexted": 26,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 33,
-      "uniqueTextsSent": 4,
-      "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 31,
+      "uniqueCallsAttempted": 76,
+      "uniqueTextsSent": 11,
+      "uniqueCallsAnswered": 18,
+      "uniqueTextsResponded": 6,
+      "automationTexted": 36,
       "campaign": null
     },
     {
@@ -399,7 +453,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 30,
+      "automationTexted": 39,
       "campaign": null
     },
     {
@@ -408,7 +462,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 37,
+      "automationTexted": 36,
       "campaign": null
     },
     {
@@ -422,11 +476,11 @@
     },
     {
       "date": "2026-07-06",
-      "uniqueCallsAttempted": 76,
-      "uniqueTextsSent": 21,
-      "uniqueCallsAnswered": 19,
-      "uniqueTextsResponded": 7,
-      "automationTexted": 33,
+      "uniqueCallsAttempted": 64,
+      "uniqueTextsSent": 18,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 6,
+      "automationTexted": 31,
       "campaign": null
     },
     {
@@ -440,13 +494,13 @@
     },
     {
       "date": "2026-07-08",
-      "uniqueCallsAttempted": 50,
-      "uniqueTextsSent": 8,
+      "uniqueCallsAttempted": 57,
+      "uniqueTextsSent": 10,
       "uniqueCallsAnswered": 14,
       "uniqueTextsResponded": 2,
       "automationTexted": 3,
       "campaign": null
     }
   ],
-  "conversationsScanned": 390
+  "conversationsScanned": 397
 }
