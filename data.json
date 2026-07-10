@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-10T01:10:51.602Z",
+  "generatedAt": "2026-07-10T02:55:51.136Z",
   "ranges": {
     "todayIso": "2026-07-09T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-10T01:10:15.117Z"
+    "nowIso": "2026-07-10T02:55:20.321Z"
   },
   "today": {
-    "contacts": 13,
-    "uniqueCallsAttempted": 99,
+    "contacts": 14,
+    "uniqueCallsAttempted": 100,
     "uniqueTextsSent": 3,
     "uniqueCallsAnswered": 26,
     "uniqueTextsResponded": 1,
-    "automationTexted": 2,
+    "automationTexted": 3,
     "campaign": null,
     "calledContacts": [
       {
@@ -411,6 +411,12 @@
         "lastAt": "2026-07-09T18:54:05.764Z"
       },
       {
+        "name": "Noe Peralta",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-09T18:52:05.220Z"
+      },
+      {
         "name": "Angela Ritter",
         "calls": 2,
         "answered": false,
@@ -631,30 +637,30 @@
     ]
   },
   "mtd": {
-    "contacts": 102,
-    "uniqueCallsAttempted": 423,
-    "uniqueTextsSent": 45,
-    "uniqueCallsAnswered": 99,
-    "uniqueTextsResponded": 17,
-    "automationTexted": 156
+    "contacts": 103,
+    "uniqueCallsAttempted": 331,
+    "uniqueTextsSent": 47,
+    "uniqueCallsAnswered": 77,
+    "uniqueTextsResponded": 15,
+    "automationTexted": 167
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 73,
-      "uniqueTextsSent": 5,
-      "uniqueCallsAnswered": 15,
-      "uniqueTextsResponded": 3,
+      "uniqueCallsAttempted": 35,
+      "uniqueTextsSent": 4,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 1,
       "automationTexted": 17,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 37,
-      "uniqueTextsSent": 3,
-      "uniqueCallsAnswered": 7,
+      "uniqueCallsAttempted": 31,
+      "uniqueTextsSent": 4,
+      "uniqueCallsAnswered": 6,
       "uniqueTextsResponded": 3,
-      "automationTexted": 20,
+      "automationTexted": 26,
       "campaign": null
     },
     {
@@ -663,7 +669,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 19,
+      "automationTexted": 22,
       "campaign": null
     },
     {
@@ -672,7 +678,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 19,
+      "automationTexted": 18,
       "campaign": null
     },
     {
@@ -681,45 +687,45 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 17,
+      "automationTexted": 26,
       "campaign": null
     },
     {
       "date": "2026-07-06",
-      "uniqueCallsAttempted": 50,
-      "uniqueTextsSent": 5,
-      "uniqueCallsAnswered": 13,
-      "uniqueTextsResponded": 2,
-      "automationTexted": 24,
+      "uniqueCallsAttempted": 70,
+      "uniqueTextsSent": 20,
+      "uniqueCallsAnswered": 18,
+      "uniqueTextsResponded": 6,
+      "automationTexted": 30,
       "campaign": null
     },
     {
       "date": "2026-07-07",
-      "uniqueCallsAttempted": 72,
-      "uniqueTextsSent": 18,
-      "uniqueCallsAnswered": 17,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 33,
+      "uniqueCallsAttempted": 33,
+      "uniqueTextsSent": 12,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 21,
       "campaign": null
     },
     {
       "date": "2026-07-08",
-      "uniqueCallsAttempted": 92,
-      "uniqueTextsSent": 11,
-      "uniqueCallsAnswered": 21,
-      "uniqueTextsResponded": 2,
-      "automationTexted": 5,
+      "uniqueCallsAttempted": 62,
+      "uniqueTextsSent": 4,
+      "uniqueCallsAnswered": 13,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 4,
       "campaign": null
     },
     {
       "date": "2026-07-09",
-      "uniqueCallsAttempted": 99,
+      "uniqueCallsAttempted": 100,
       "uniqueTextsSent": 3,
       "uniqueCallsAnswered": 26,
       "uniqueTextsResponded": 1,
-      "automationTexted": 2,
+      "automationTexted": 3,
       "campaign": null
     }
   ],
-  "conversationsScanned": 507
+  "conversationsScanned": 509
 }
