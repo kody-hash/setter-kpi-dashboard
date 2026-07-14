@@ -1,19 +1,85 @@
 {
-  "generatedAt": "2026-07-14T18:08:20.029Z",
+  "generatedAt": "2026-07-14T19:44:32.392Z",
   "ranges": {
     "todayIso": "2026-07-14T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-14T18:06:35.250Z"
+    "nowIso": "2026-07-14T19:43:14.436Z"
   },
   "today": {
     "contacts": 4,
-    "uniqueCallsAttempted": 22,
+    "uniqueCallsAttempted": 33,
     "uniqueTextsSent": 2,
     "uniqueCallsAnswered": 5,
     "uniqueTextsResponded": 1,
     "automationTexted": 2,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Zach Lopez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:47:16.999Z"
+      },
+      {
+        "name": "German Hermosillo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:46:09.652Z"
+      },
+      {
+        "name": "John Cionci",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:45:23.523Z"
+      },
+      {
+        "name": "Mykele",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:38:14.972Z"
+      },
+      {
+        "name": "Craig Norman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:37:07.041Z"
+      },
+      {
+        "name": "Deedee Petri",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-14T18:32:36.822Z"
+      },
+      {
+        "name": "Brandon N Recia Squire",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:31:15.582Z"
+      },
+      {
+        "name": "Sean Claffey",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:24:03.889Z"
+      },
+      {
+        "name": "Bennett Dupilka",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:22:53.070Z"
+      },
+      {
+        "name": "Shane Elmore",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:21:50.810Z"
+      },
+      {
+        "name": "Angela Ritter",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-14T18:14:22.845Z"
+      },
       {
         "name": "Gracie Sawyer",
         "calls": 1,
@@ -164,11 +230,11 @@
   },
   "mtd": {
     "contacts": 159,
-    "uniqueCallsAttempted": 693,
+    "uniqueCallsAttempted": 704,
     "uniqueTextsSent": 90,
     "uniqueCallsAnswered": 161,
     "uniqueTextsResponded": 36,
-    "automationTexted": 296
+    "automationTexted": 280
   },
   "daily": [
     {
@@ -177,7 +243,7 @@
       "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 3,
-      "automationTexted": 27,
+      "automationTexted": 26,
       "campaign": null
     },
     {
@@ -186,7 +252,7 @@
       "uniqueTextsSent": 11,
       "uniqueCallsAnswered": 18,
       "uniqueTextsResponded": 6,
-      "automationTexted": 37,
+      "automationTexted": 35,
       "campaign": null
     },
     {
@@ -195,7 +261,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 39,
+      "automationTexted": 38,
       "campaign": null
     },
     {
@@ -204,7 +270,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 37,
+      "automationTexted": 27,
       "campaign": null
     },
     {
@@ -213,7 +279,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 38,
+      "automationTexted": 36,
       "campaign": null
     },
     {
@@ -290,7 +356,7 @@
     },
     {
       "date": "2026-07-14",
-      "uniqueCallsAttempted": 22,
+      "uniqueCallsAttempted": 33,
       "uniqueTextsSent": 2,
       "uniqueCallsAnswered": 5,
       "uniqueTextsResponded": 1,
