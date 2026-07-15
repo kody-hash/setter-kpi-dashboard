@@ -1,19 +1,26 @@
 {
-  "generatedAt": "2026-07-15T18:12:06.086Z",
+  "generatedAt": "2026-07-15T19:38:34.428Z",
   "ranges": {
     "todayIso": "2026-07-15T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-15T18:10:31.051Z"
+    "nowIso": "2026-07-15T19:37:14.856Z"
   },
   "today": {
-    "contacts": 4,
-    "uniqueCallsAttempted": 0,
+    "contacts": 5,
+    "uniqueCallsAttempted": 1,
     "uniqueTextsSent": 2,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
     "automationTexted": 2,
     "campaign": null,
-    "calledContacts": [],
+    "calledContacts": [
+      {
+        "name": "Erica",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-15T19:36:08.159Z"
+      }
+    ],
     "textedContacts": [
       {
         "name": "Mai Ngu",
@@ -30,30 +37,30 @@
     ]
   },
   "mtd": {
-    "contacts": 171,
-    "uniqueCallsAttempted": 770,
-    "uniqueTextsSent": 97,
-    "uniqueCallsAnswered": 173,
-    "uniqueTextsResponded": 38,
-    "automationTexted": 305
+    "contacts": 172,
+    "uniqueCallsAttempted": 715,
+    "uniqueTextsSent": 95,
+    "uniqueCallsAnswered": 162,
+    "uniqueTextsResponded": 37,
+    "automationTexted": 295
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 81,
+      "uniqueCallsAttempted": 77,
       "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 3,
-      "automationTexted": 27,
+      "automationTexted": 24,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 76,
+      "uniqueCallsAttempted": 70,
       "uniqueTextsSent": 11,
       "uniqueCallsAnswered": 18,
       "uniqueTextsResponded": 6,
-      "automationTexted": 37,
+      "automationTexted": 36,
       "campaign": null
     },
     {
@@ -71,7 +78,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 37,
+      "automationTexted": 33,
       "campaign": null
     },
     {
@@ -80,12 +87,12 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 38,
+      "automationTexted": 37,
       "campaign": null
     },
     {
       "date": "2026-07-06",
-      "uniqueCallsAttempted": 76,
+      "uniqueCallsAttempted": 75,
       "uniqueTextsSent": 21,
       "uniqueCallsAnswered": 19,
       "uniqueTextsResponded": 7,
@@ -94,36 +101,36 @@
     },
     {
       "date": "2026-07-07",
-      "uniqueCallsAttempted": 73,
+      "uniqueCallsAttempted": 70,
       "uniqueTextsSent": 18,
       "uniqueCallsAnswered": 18,
       "uniqueTextsResponded": 6,
-      "automationTexted": 34,
+      "automationTexted": 33,
       "campaign": null
     },
     {
       "date": "2026-07-08",
-      "uniqueCallsAttempted": 99,
-      "uniqueTextsSent": 12,
-      "uniqueCallsAnswered": 25,
-      "uniqueTextsResponded": 3,
+      "uniqueCallsAttempted": 78,
+      "uniqueTextsSent": 10,
+      "uniqueCallsAnswered": 17,
+      "uniqueTextsResponded": 2,
       "automationTexted": 5,
       "campaign": null
     },
     {
       "date": "2026-07-09",
-      "uniqueCallsAttempted": 100,
+      "uniqueCallsAttempted": 95,
       "uniqueTextsSent": 3,
-      "uniqueCallsAnswered": 26,
+      "uniqueCallsAnswered": 25,
       "uniqueTextsResponded": 1,
       "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-07-10",
-      "uniqueCallsAttempted": 102,
+      "uniqueCallsAttempted": 86,
       "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 16,
+      "uniqueCallsAnswered": 14,
       "uniqueTextsResponded": 5,
       "automationTexted": 10,
       "campaign": null
@@ -166,7 +173,7 @@
     },
     {
       "date": "2026-07-15",
-      "uniqueCallsAttempted": 0,
+      "uniqueCallsAttempted": 1,
       "uniqueTextsSent": 2,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
@@ -174,5 +181,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 633
+  "conversationsScanned": 634
 }
