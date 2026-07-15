@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-15T15:28:59.094Z",
+  "generatedAt": "2026-07-15T16:53:29.118Z",
   "ranges": {
     "todayIso": "2026-07-15T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-15T15:27:24.733Z"
+    "nowIso": "2026-07-15T16:51:39.500Z"
   },
   "today": {
-    "contacts": 3,
+    "contacts": 4,
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 2,
     "uniqueCallsAnswered": 0,
@@ -16,26 +16,26 @@
     "calledContacts": [],
     "textedContacts": [
       {
+        "name": "Mai Ngu",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-07-15T15:27:40.030Z"
+      },
+      {
         "name": "Griffin Cleasby",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-07-15T15:17:20.619Z"
-      },
-      {
-        "name": "Mai Ngu",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-15T15:11:50.802Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 170,
+    "contacts": 171,
     "uniqueCallsAttempted": 770,
     "uniqueTextsSent": 97,
     "uniqueCallsAnswered": 173,
     "uniqueTextsResponded": 38,
-    "automationTexted": 296
+    "automationTexted": 305
   },
   "daily": [
     {
@@ -44,7 +44,7 @@
       "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 3,
-      "automationTexted": 26,
+      "automationTexted": 27,
       "campaign": null
     },
     {
@@ -53,7 +53,7 @@
       "uniqueTextsSent": 11,
       "uniqueCallsAnswered": 18,
       "uniqueTextsResponded": 6,
-      "automationTexted": 36,
+      "automationTexted": 37,
       "campaign": null
     },
     {
@@ -71,7 +71,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 30,
+      "automationTexted": 37,
       "campaign": null
     },
     {
@@ -174,5 +174,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 632
+  "conversationsScanned": 633
 }
