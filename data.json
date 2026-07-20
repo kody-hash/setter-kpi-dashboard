@@ -1,19 +1,79 @@
 {
-  "generatedAt": "2026-07-20T19:58:29.274Z",
+  "generatedAt": "2026-07-20T21:18:20.042Z",
   "ranges": {
     "todayIso": "2026-07-20T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-20T19:57:02.141Z"
+    "nowIso": "2026-07-20T21:17:28.841Z"
   },
   "today": {
-    "contacts": 6,
-    "uniqueCallsAttempted": 20,
+    "contacts": 8,
+    "uniqueCallsAttempted": 30,
     "uniqueTextsSent": 7,
-    "uniqueCallsAnswered": 10,
+    "uniqueCallsAnswered": 13,
     "uniqueTextsResponded": 2,
     "automationTexted": 0,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Joe Rodriguez",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-20T21:05:28.419Z"
+      },
+      {
+        "name": "Mags Everette",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-20T21:04:16.802Z"
+      },
+      {
+        "name": "Bennett Dupilka",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-20T21:00:56.429Z"
+      },
+      {
+        "name": "Michael Lofton",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-20T20:59:18.615Z"
+      },
+      {
+        "name": "Shane Elmore",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-20T20:57:19.105Z"
+      },
+      {
+        "name": "Mrg Homes Investing",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-20T20:55:39.531Z"
+      },
+      {
+        "name": "Mike Esposito",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-20T20:44:39.657Z"
+      },
+      {
+        "name": "Ernie Mendoza",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-20T20:41:44.106Z"
+      },
+      {
+        "name": "Brenda Martinez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-20T20:31:01.887Z"
+      },
+      {
+        "name": "Zach Lopez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-20T20:22:55.963Z"
+      },
       {
         "name": "James Hansen",
         "calls": 2,
@@ -181,30 +241,30 @@
     ]
   },
   "mtd": {
-    "contacts": 227,
-    "uniqueCallsAttempted": 1018,
-    "uniqueTextsSent": 134,
-    "uniqueCallsAnswered": 231,
-    "uniqueTextsResponded": 54,
-    "automationTexted": 331
+    "contacts": 229,
+    "uniqueCallsAttempted": 727,
+    "uniqueTextsSent": 86,
+    "uniqueCallsAnswered": 170,
+    "uniqueTextsResponded": 31,
+    "automationTexted": 242
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 80,
-      "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 16,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 25,
+      "uniqueCallsAttempted": 44,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 8,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 19,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 76,
-      "uniqueTextsSent": 11,
-      "uniqueCallsAnswered": 18,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 37,
+      "uniqueCallsAttempted": 43,
+      "uniqueTextsSent": 4,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 2,
+      "automationTexted": 23,
       "campaign": null
     },
     {
@@ -213,7 +273,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 39,
+      "automationTexted": 28,
       "campaign": null
     },
     {
@@ -231,52 +291,52 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 37,
+      "automationTexted": 32,
       "campaign": null
     },
     {
       "date": "2026-07-06",
-      "uniqueCallsAttempted": 76,
+      "uniqueCallsAttempted": 57,
       "uniqueTextsSent": 21,
-      "uniqueCallsAnswered": 19,
+      "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 7,
-      "automationTexted": 33,
+      "automationTexted": 20,
       "campaign": null
     },
     {
       "date": "2026-07-07",
-      "uniqueCallsAttempted": 73,
-      "uniqueTextsSent": 18,
-      "uniqueCallsAnswered": 18,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 34,
+      "uniqueCallsAttempted": 51,
+      "uniqueTextsSent": 9,
+      "uniqueCallsAnswered": 14,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 24,
       "campaign": null
     },
     {
       "date": "2026-07-08",
-      "uniqueCallsAttempted": 99,
-      "uniqueTextsSent": 12,
-      "uniqueCallsAnswered": 25,
+      "uniqueCallsAttempted": 78,
+      "uniqueTextsSent": 11,
+      "uniqueCallsAnswered": 23,
       "uniqueTextsResponded": 3,
-      "automationTexted": 5,
+      "automationTexted": 4,
       "campaign": null
     },
     {
       "date": "2026-07-09",
-      "uniqueCallsAttempted": 100,
+      "uniqueCallsAttempted": 74,
       "uniqueTextsSent": 3,
-      "uniqueCallsAnswered": 26,
+      "uniqueCallsAnswered": 21,
       "uniqueTextsResponded": 1,
-      "automationTexted": 7,
+      "automationTexted": 3,
       "campaign": null
     },
     {
       "date": "2026-07-10",
-      "uniqueCallsAttempted": 102,
-      "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 16,
-      "uniqueTextsResponded": 5,
-      "automationTexted": 10,
+      "uniqueCallsAttempted": 74,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 13,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 8,
       "campaign": null
     },
     {
@@ -285,7 +345,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 14,
+      "automationTexted": 6,
       "campaign": null
     },
     {
@@ -294,43 +354,43 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 6,
+      "automationTexted": 3,
       "campaign": null
     },
     {
       "date": "2026-07-13",
-      "uniqueCallsAttempted": 64,
-      "uniqueTextsSent": 10,
-      "uniqueCallsAnswered": 18,
-      "uniqueTextsResponded": 4,
-      "automationTexted": 7,
+      "uniqueCallsAttempted": 27,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 10,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 6,
       "campaign": null
     },
     {
       "date": "2026-07-14",
-      "uniqueCallsAttempted": 99,
-      "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 17,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 9,
+      "uniqueCallsAttempted": 58,
+      "uniqueTextsSent": 1,
+      "uniqueCallsAnswered": 10,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 4,
       "campaign": null
     },
     {
       "date": "2026-07-15",
-      "uniqueCallsAttempted": 23,
-      "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 12,
+      "uniqueCallsAttempted": 10,
+      "uniqueTextsSent": 0,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-07-16",
-      "uniqueCallsAttempted": 102,
-      "uniqueTextsSent": 17,
-      "uniqueCallsAnswered": 19,
-      "uniqueTextsResponded": 9,
-      "automationTexted": 5,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 6,
+      "uniqueCallsAnswered": 13,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 3,
       "campaign": null
     },
     {
@@ -362,13 +422,13 @@
     },
     {
       "date": "2026-07-20",
-      "uniqueCallsAttempted": 20,
+      "uniqueCallsAttempted": 30,
       "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 10,
+      "uniqueCallsAnswered": 13,
       "uniqueTextsResponded": 2,
       "automationTexted": 0,
       "campaign": null
     }
   ],
-  "conversationsScanned": 698
+  "conversationsScanned": 700
 }
