@@ -1,20 +1,177 @@
 {
-  "generatedAt": "2026-07-22T15:45:41.267Z",
+  "generatedAt": "2026-07-22T18:36:46.195Z",
   "ranges": {
     "todayIso": "2026-07-22T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-22T15:44:04.083Z"
+    "nowIso": "2026-07-22T18:34:36.444Z"
   },
   "today": {
-    "contacts": 0,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 1,
-    "uniqueCallsAnswered": 0,
+    "contacts": 3,
+    "uniqueCallsAttempted": 21,
+    "uniqueTextsSent": 6,
+    "uniqueCallsAnswered": 6,
     "uniqueTextsResponded": 0,
     "automationTexted": 0,
     "campaign": null,
-    "calledContacts": [],
+    "calledContacts": [
+      {
+        "name": "Mario Payen",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-22T18:30:46.922Z"
+      },
+      {
+        "name": "Zach Lopez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T18:14:46.462Z"
+      },
+      {
+        "name": "Erik Swanson",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T18:09:41.696Z"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-22T18:06:35.299Z"
+      },
+      {
+        "name": "Guillermo Lopez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T17:51:29.165Z"
+      },
+      {
+        "name": "Juan Navarro",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T17:45:02.068Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T17:43:50.314Z"
+      },
+      {
+        "name": "James Hansen",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T17:37:01.040Z"
+      },
+      {
+        "name": "Cheryl Lira-Castro",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-22T17:35:46.975Z"
+      },
+      {
+        "name": "Scottburns",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T17:23:58.840Z"
+      },
+      {
+        "name": "Jayden Sanders",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T17:21:56.373Z"
+      },
+      {
+        "name": "Courtney Ryan",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-22T17:07:01.189Z"
+      },
+      {
+        "name": "Jasmine Anderson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-22T17:03:15.883Z"
+      },
+      {
+        "name": "Christopher Dunbar",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T17:01:33.664Z"
+      },
+      {
+        "name": "Adam Brewer",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-22T16:59:35.483Z"
+      },
+      {
+        "name": "Chuckster",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-22T16:53:00.041Z"
+      },
+      {
+        "name": "Mary Ingram",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-07-22T16:26:56.287Z"
+      },
+      {
+        "name": "Mo Crabtree",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-22T16:17:07.725Z"
+      },
+      {
+        "name": "Adriana Sutton",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-22T16:10:14.351Z"
+      },
+      {
+        "name": "Ben Villegas",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-22T16:04:25.339Z"
+      },
+      {
+        "name": "Charles Green",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-22T16:02:19.188Z"
+      }
+    ],
     "textedContacts": [
+      {
+        "name": "Mario Payen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-22T18:30:46.922Z"
+      },
+      {
+        "name": "Chuckster",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-22T16:53:00.041Z"
+      },
+      {
+        "name": "Mary Ingram",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-22T16:26:56.287Z"
+      },
+      {
+        "name": "Mo Crabtree",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-07-22T16:17:07.725Z"
+      },
+      {
+        "name": "Adriana Sutton",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-22T16:10:14.351Z"
+      },
       {
         "name": "Bobby",
         "texts": 1,
@@ -24,12 +181,12 @@
     ]
   },
   "mtd": {
-    "contacts": 259,
-    "uniqueCallsAttempted": 1195,
-    "uniqueTextsSent": 149,
-    "uniqueCallsAnswered": 265,
+    "contacts": 262,
+    "uniqueCallsAttempted": 1220,
+    "uniqueTextsSent": 154,
+    "uniqueCallsAnswered": 271,
     "uniqueTextsResponded": 58,
-    "automationTexted": 351
+    "automationTexted": 355
   },
   "daily": [
     {
@@ -43,11 +200,11 @@
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 72,
+      "uniqueCallsAttempted": 76,
       "uniqueTextsSent": 11,
       "uniqueCallsAnswered": 18,
       "uniqueTextsResponded": 6,
-      "automationTexted": 35,
+      "automationTexted": 37,
       "campaign": null
     },
     {
@@ -56,7 +213,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 37,
+      "automationTexted": 39,
       "campaign": null
     },
     {
@@ -223,13 +380,13 @@
     },
     {
       "date": "2026-07-22",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 1,
-      "uniqueCallsAnswered": 0,
+      "uniqueCallsAttempted": 21,
+      "uniqueTextsSent": 6,
+      "uniqueCallsAnswered": 6,
       "uniqueTextsResponded": 0,
       "automationTexted": 0,
       "campaign": null
     }
   ],
-  "conversationsScanned": 734
+  "conversationsScanned": 736
 }
