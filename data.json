@@ -1,678 +1,77 @@
 {
-  "generatedAt": "2026-07-28T02:27:42.266Z",
+  "generatedAt": "2026-07-28T16:08:02.606Z",
   "ranges": {
-    "todayIso": "2026-07-27T07:00:00.000Z",
+    "todayIso": "2026-07-28T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-28T02:26:18.957Z"
+    "nowIso": "2026-07-28T16:06:08.664Z"
   },
   "today": {
-    "contacts": 14,
-    "uniqueCallsAttempted": 24,
-    "uniqueTextsSent": 81,
-    "uniqueCallsAnswered": 9,
-    "uniqueTextsResponded": 11,
-    "automationTexted": 7,
+    "contacts": 3,
+    "uniqueCallsAttempted": 0,
+    "uniqueTextsSent": 5,
+    "uniqueCallsAnswered": 0,
+    "uniqueTextsResponded": 4,
+    "automationTexted": 3,
     "campaign": null,
-    "calledContacts": [
-      {
-        "name": "Robin Rotella",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-07-27T23:50:11.705Z"
-      },
-      {
-        "name": "Barb Rogne",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T22:32:05.950Z"
-      },
-      {
-        "name": "Yolanda",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-07-27T22:13:32.959Z"
-      },
-      {
-        "name": "Brett Huf",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-07-27T22:06:03.186Z"
-      },
-      {
-        "name": "Madhu",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T20:59:11.353Z"
-      },
-      {
-        "name": "Queta Dobson",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-07-27T20:48:10.085Z"
-      },
-      {
-        "name": "Ajay Rajan",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T20:47:16.610Z"
-      },
-      {
-        "name": "Kimberly Glowaski Allee",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-07-27T20:45:31.876Z"
-      },
-      {
-        "name": "Lázaro Bautista",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T20:42:42.304Z"
-      },
-      {
-        "name": "Tina Myers",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-07-27T20:40:44.793Z"
-      },
-      {
-        "name": "Craig Stuhr",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-07-27T18:42:45.318Z"
-      },
-      {
-        "name": "Mike Daddy",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-07-27T18:41:44.654Z"
-      },
-      {
-        "name": "Alexander Priyev",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T18:37:42.332Z"
-      },
-      {
-        "name": "Joshua Teague",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-07-27T18:34:37.550Z"
-      },
-      {
-        "name": "Qublan Adely",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-07-27T18:33:22.213Z"
-      },
-      {
-        "name": "Geoff Bracken",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T18:29:27.140Z"
-      },
-      {
-        "name": "Kim Mccarter",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-07-27T18:27:22.538Z"
-      },
-      {
-        "name": "Anna Coleman",
-        "calls": 3,
-        "answered": true,
-        "lastAt": "2026-07-27T18:20:21.431Z"
-      },
-      {
-        "name": "Chris Mcmillan Fritsch",
-        "calls": 3,
-        "answered": true,
-        "lastAt": "2026-07-27T17:46:19.129Z"
-      },
-      {
-        "name": "Joey Ertz",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-07-27T17:37:16.739Z"
-      },
-      {
-        "name": "Sammy Espinal",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T17:28:12.621Z"
-      },
-      {
-        "name": "Erin Hawksworth",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T17:24:42.100Z"
-      },
-      {
-        "name": "Daniel Paul Cruz",
-        "calls": 2,
-        "answered": false,
-        "lastAt": "2026-07-27T17:10:52.136Z"
-      },
-      {
-        "name": "Yariv Elazar",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-07-27T17:08:35.942Z"
-      }
-    ],
+    "calledContacts": [],
     "textedContacts": [
       {
-        "name": "Bob Bob",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:10:02.209Z"
-      },
-      {
-        "name": "Steve Stratigouleas",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:09:43.948Z"
-      },
-      {
-        "name": "Mark Barlow",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:09:22.902Z"
-      },
-      {
-        "name": "Jose Luis Serrano",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:09:02.462Z"
-      },
-      {
-        "name": "Kim",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:08:42.326Z"
-      },
-      {
-        "name": "Cristal Barranco",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:08:19.811Z"
-      },
-      {
-        "name": "Bryan Fidel Pentecostes",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:07:51.214Z"
-      },
-      {
-        "name": "Jessica Wilson",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:07:06.200Z"
-      },
-      {
-        "name": "Aaron Brown",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:06:46.256Z"
-      },
-      {
-        "name": "Robert Gilbert",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:06:29.085Z"
-      },
-      {
-        "name": "Teddybear79",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:05:52.502Z"
-      },
-      {
-        "name": "Jeff Wilson",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-07-28T00:05:20.348Z"
-      },
-      {
-        "name": "Tim Miller",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:05:02.075Z"
-      },
-      {
-        "name": "Leo Valencia",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:04:44.316Z"
-      },
-      {
-        "name": "Hillary Gagnon",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:04:21.987Z"
-      },
-      {
-        "name": "Robert Munoz",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:02:50.222Z"
-      },
-      {
-        "name": "Gilbert Barela",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:02:28.439Z"
-      },
-      {
-        "name": "Jessica Jablonski",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:01:46.496Z"
-      },
-      {
-        "name": "Tammy Isheeva",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:01:25.471Z"
-      },
-      {
-        "name": "Jack Garner",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:01:07.397Z"
-      },
-      {
-        "name": "Garret Ray",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:00:47.715Z"
-      },
-      {
-        "name": "Guillermo Sanchez",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-28T00:00:27.571Z"
-      },
-      {
-        "name": "Linda Marks",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:59:20.507Z"
-      },
-      {
-        "name": "Allen Gonquin",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:59:01.216Z"
-      },
-      {
-        "name": "Shane Elmore",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:58:30.780Z"
-      },
-      {
-        "name": "Suzie Johnson",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:56:53.384Z"
-      },
-      {
-        "name": "Anthony Amici",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-07-27T23:56:21.410Z"
-      },
-      {
-        "name": "Kay Mathis",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:55:41.114Z"
-      },
-      {
-        "name": "Lauren Duarte Dowsett",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:53:40.206Z"
-      },
-      {
-        "name": "Robin Rotella",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-07-27T23:50:11.705Z"
-      },
-      {
-        "name": "Juan Navarro",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:26:12.772Z"
-      },
-      {
-        "name": "Zach Lopez",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:25:25.136Z"
-      },
-      {
-        "name": "Christine Cioffi-Mann",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-07-27T23:24:35.627Z"
-      },
-      {
-        "name": "Peace Mka",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:23:27.406Z"
-      },
-      {
-        "name": "Wayne Hogan",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:21:33.392Z"
-      },
-      {
-        "name": "Dan Martin",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:18:27.558Z"
-      },
-      {
-        "name": "Holly Whiteside",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:17:33.028Z"
-      },
-      {
-        "name": "Michelle M. Arnold",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:16:41.713Z"
-      },
-      {
-        "name": "Guillermo Lopez",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:14:44.924Z"
-      },
-      {
-        "name": "Gloria Sandoval",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:14:16.852Z"
-      },
-      {
-        "name": "Jj Alicabo",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:13:01.014Z"
-      },
-      {
-        "name": "Randall Ponto",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:12:22.861Z"
-      },
-      {
-        "name": "Jayden Sanders",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:11:23.315Z"
-      },
-      {
-        "name": "Erik Swanson",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:10:38.743Z"
-      },
-      {
-        "name": "Rob Cull",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:09:46.585Z"
-      },
-      {
-        "name": "James Hansen",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T23:07:15.144Z"
-      },
-      {
-        "name": "Sylvia Garcia",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:59:34.798Z"
-      },
-      {
-        "name": "Mrg Homes Investing",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:58:35.906Z"
-      },
-      {
-        "name": "Charles Green",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:56:37.686Z"
-      },
-      {
-        "name": "Simon Covarrubias",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:55:22.603Z"
-      },
-      {
-        "name": "Vanessa Quinto",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:54:05.174Z"
-      },
-      {
-        "name": "Maryann Bellus",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:53:10.286Z"
-      },
-      {
-        "name": "Julia Lopez",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:52:14.936Z"
-      },
-      {
-        "name": "Scottburns",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:51:34.735Z"
-      },
-      {
-        "name": "Grant Rentle",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:50:51.136Z"
-      },
-      {
-        "name": "Randy Wood",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:47:54.461Z"
-      },
-      {
-        "name": "Lisa French",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:41:15.795Z"
-      },
-      {
-        "name": "Lewis Moon",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:40:24.939Z"
-      },
-      {
-        "name": "Mike Tertany",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:39:46.908Z"
-      },
-      {
-        "name": "Steven",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:39:03.713Z"
-      },
-      {
-        "name": "Mark Ca",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:38:07.478Z"
-      },
-      {
-        "name": "Michael Lofton",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:36:57.656Z"
-      },
-      {
-        "name": "Ricardo Gonzalez",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:35:48.006Z"
-      },
-      {
-        "name": "Miguel A Basilio",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:30:34.070Z"
-      },
-      {
-        "name": "Jose Flores",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-07-27T22:26:32.334Z"
-      },
-      {
-        "name": "Lenny Morrison",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-07-27T22:25:14.639Z"
-      },
-      {
-        "name": "Paul Aslaber",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T22:20:43.226Z"
-      },
-      {
         "name": "Yolanda",
         "texts": 1,
-        "responded": true,
-        "lastAt": "2026-07-27T22:13:32.959Z"
+        "responded": false,
+        "lastAt": "2026-07-28T15:57:53.331Z"
       },
       {
-        "name": "Jameson Kent Van Ness",
-        "texts": 4,
+        "name": "Angel Bustamante",
+        "texts": 1,
         "responded": true,
-        "lastAt": "2026-07-27T21:51:36.836Z"
+        "lastAt": "2026-07-28T15:52:54.628Z"
+      },
+      {
+        "name": "Juan Gomez",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-07-28T15:47:53.188Z"
       },
       {
         "name": "Tim Gallegos",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T21:08:51.536Z"
-      },
-      {
-        "name": "Tina Myers",
         "texts": 2,
         "responded": true,
-        "lastAt": "2026-07-27T20:40:44.793Z"
+        "lastAt": "2026-07-28T15:39:35.009Z"
       },
       {
-        "name": "Qublan Adely",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T18:33:22.213Z"
-      },
-      {
-        "name": "Chris Mcmillan Fritsch",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T17:46:19.129Z"
-      },
-      {
-        "name": "Joey Ertz",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-07-27T17:37:16.739Z"
-      },
-      {
-        "name": "Erin Hawksworth",
+        "name": "Randall Ponto",
         "texts": 2,
         "responded": true,
-        "lastAt": "2026-07-27T17:24:42.100Z"
-      },
-      {
-        "name": "Leonel Chiprez",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T15:37:27.647Z"
-      },
-      {
-        "name": "Sharon Hall",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T15:23:41.684Z"
-      },
-      {
-        "name": "Mike Esposito",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T15:18:56.052Z"
-      },
-      {
-        "name": "Jasmine Anderson",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T15:16:32.043Z"
-      },
-      {
-        "name": "Jon Gaynor",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T15:13:17.018Z"
-      },
-      {
-        "name": "Cheryl Lira-Castro",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-07-27T15:11:36.752Z"
+        "lastAt": "2026-07-28T15:14:33.543Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 332,
-    "uniqueCallsAttempted": 1156,
-    "uniqueTextsSent": 280,
-    "uniqueCallsAnswered": 251,
-    "uniqueTextsResponded": 72,
-    "automationTexted": 349
+    "contacts": 335,
+    "uniqueCallsAttempted": 1255,
+    "uniqueTextsSent": 343,
+    "uniqueCallsAnswered": 285,
+    "uniqueTextsResponded": 86,
+    "automationTexted": 384
   },
   "daily": [
     {
       "date": "2026-07-01",
-      "uniqueCallsAttempted": 54,
-      "uniqueTextsSent": 5,
-      "uniqueCallsAnswered": 9,
-      "uniqueTextsResponded": 1,
-      "automationTexted": 21,
+      "uniqueCallsAttempted": 79,
+      "uniqueTextsSent": 7,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 27,
       "campaign": null
     },
     {
       "date": "2026-07-02",
-      "uniqueCallsAttempted": 50,
+      "uniqueCallsAttempted": 65,
       "uniqueTextsSent": 5,
-      "uniqueCallsAnswered": 8,
+      "uniqueCallsAnswered": 14,
       "uniqueTextsResponded": 3,
-      "automationTexted": 32,
+      "automationTexted": 33,
       "campaign": null
     },
     {
@@ -681,7 +80,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 32,
+      "automationTexted": 39,
       "campaign": null
     },
     {
@@ -690,7 +89,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 35,
+      "automationTexted": 36,
       "campaign": null
     },
     {
@@ -704,47 +103,47 @@
     },
     {
       "date": "2026-07-06",
-      "uniqueCallsAttempted": 62,
-      "uniqueTextsSent": 19,
-      "uniqueCallsAnswered": 15,
+      "uniqueCallsAttempted": 74,
+      "uniqueTextsSent": 21,
+      "uniqueCallsAnswered": 19,
       "uniqueTextsResponded": 7,
-      "automationTexted": 30,
+      "automationTexted": 32,
       "campaign": null
     },
     {
       "date": "2026-07-07",
-      "uniqueCallsAttempted": 65,
-      "uniqueTextsSent": 18,
+      "uniqueCallsAttempted": 71,
+      "uniqueTextsSent": 15,
       "uniqueCallsAnswered": 17,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 30,
+      "uniqueTextsResponded": 5,
+      "automationTexted": 34,
       "campaign": null
     },
     {
       "date": "2026-07-08",
-      "uniqueCallsAttempted": 96,
+      "uniqueCallsAttempted": 97,
       "uniqueTextsSent": 12,
-      "uniqueCallsAnswered": 24,
+      "uniqueCallsAnswered": 25,
       "uniqueTextsResponded": 3,
       "automationTexted": 5,
       "campaign": null
     },
     {
       "date": "2026-07-09",
-      "uniqueCallsAttempted": 95,
+      "uniqueCallsAttempted": 97,
       "uniqueTextsSent": 3,
-      "uniqueCallsAnswered": 25,
+      "uniqueCallsAnswered": 26,
       "uniqueTextsResponded": 1,
       "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-07-10",
-      "uniqueCallsAttempted": 95,
+      "uniqueCallsAttempted": 100,
       "uniqueTextsSent": 6,
-      "uniqueCallsAnswered": 14,
+      "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 5,
-      "automationTexted": 8,
+      "automationTexted": 10,
       "campaign": null
     },
     {
@@ -753,7 +152,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 14,
+      "automationTexted": 13,
       "campaign": null
     },
     {
@@ -762,21 +161,21 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 5,
+      "automationTexted": 6,
       "campaign": null
     },
     {
       "date": "2026-07-13",
-      "uniqueCallsAttempted": 57,
-      "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 15,
+      "uniqueCallsAttempted": 62,
+      "uniqueTextsSent": 10,
+      "uniqueCallsAnswered": 18,
       "uniqueTextsResponded": 4,
       "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-07-14",
-      "uniqueCallsAttempted": 97,
+      "uniqueCallsAttempted": 94,
       "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 3,
@@ -794,20 +193,20 @@
     },
     {
       "date": "2026-07-16",
-      "uniqueCallsAttempted": 99,
-      "uniqueTextsSent": 16,
-      "uniqueCallsAnswered": 18,
+      "uniqueCallsAttempted": 102,
+      "uniqueTextsSent": 17,
+      "uniqueCallsAnswered": 19,
       "uniqueTextsResponded": 9,
       "automationTexted": 5,
       "campaign": null
     },
     {
       "date": "2026-07-17",
-      "uniqueCallsAttempted": 100,
+      "uniqueCallsAttempted": 104,
       "uniqueTextsSent": 9,
       "uniqueCallsAnswered": 21,
       "uniqueTextsResponded": 2,
-      "automationTexted": 5,
+      "automationTexted": 6,
       "campaign": null
     },
     {
@@ -816,7 +215,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 5,
+      "automationTexted": 7,
       "campaign": null
     },
     {
@@ -830,29 +229,29 @@
     },
     {
       "date": "2026-07-20",
-      "uniqueCallsAttempted": 95,
-      "uniqueTextsSent": 8,
-      "uniqueCallsAnswered": 22,
+      "uniqueCallsAttempted": 100,
+      "uniqueTextsSent": 10,
+      "uniqueCallsAnswered": 24,
       "uniqueTextsResponded": 3,
       "automationTexted": 5,
       "campaign": null
     },
     {
       "date": "2026-07-21",
-      "uniqueCallsAttempted": 95,
-      "uniqueTextsSent": 9,
-      "uniqueCallsAnswered": 19,
+      "uniqueCallsAttempted": 100,
+      "uniqueTextsSent": 11,
+      "uniqueCallsAnswered": 20,
       "uniqueTextsResponded": 3,
-      "automationTexted": 10,
+      "automationTexted": 11,
       "campaign": null
     },
     {
       "date": "2026-07-22",
-      "uniqueCallsAttempted": 37,
-      "uniqueTextsSent": 9,
+      "uniqueCallsAttempted": 44,
+      "uniqueTextsSent": 36,
       "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 0,
-      "automationTexted": 5,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 8,
       "campaign": null
     },
     {
@@ -861,15 +260,15 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "automationTexted": 5,
       "campaign": null
     },
     {
       "date": "2026-07-24",
-      "uniqueCallsAttempted": 12,
-      "uniqueTextsSent": 60,
-      "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 8,
+      "uniqueCallsAttempted": 19,
+      "uniqueTextsSent": 82,
+      "uniqueCallsAnswered": 9,
+      "uniqueTextsResponded": 14,
       "automationTexted": 4,
       "campaign": null
     },
@@ -899,7 +298,16 @@
       "uniqueTextsResponded": 11,
       "automationTexted": 7,
       "campaign": null
+    },
+    {
+      "date": "2026-07-28",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 3,
+      "campaign": null
     }
   ],
-  "conversationsScanned": 832
+  "conversationsScanned": 834
 }
