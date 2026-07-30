@@ -1,19 +1,61 @@
 {
-  "generatedAt": "2026-07-30T19:03:50.324Z",
+  "generatedAt": "2026-07-30T20:37:24.031Z",
   "ranges": {
     "todayIso": "2026-07-30T07:00:00.000Z",
     "monthIso": "2026-07-01T07:00:00.000Z",
-    "nowIso": "2026-07-30T19:00:56.368Z"
+    "nowIso": "2026-07-30T20:35:17.661Z"
   },
   "today": {
-    "contacts": 4,
-    "uniqueCallsAttempted": 25,
-    "uniqueTextsSent": 26,
-    "uniqueCallsAnswered": 7,
-    "uniqueTextsResponded": 6,
+    "contacts": 6,
+    "uniqueCallsAttempted": 32,
+    "uniqueTextsSent": 31,
+    "uniqueCallsAnswered": 8,
+    "uniqueTextsResponded": 8,
     "automationTexted": 2,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Alexander Priyev",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-30T20:29:15.285Z"
+      },
+      {
+        "name": "Simon Covarrubias",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-30T20:20:50.350Z"
+      },
+      {
+        "name": "Daniel Paul Cruz",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-07-30T20:18:01.166Z"
+      },
+      {
+        "name": "Jamie St Claire",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-30T20:14:27.762Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-07-30T20:13:07.441Z"
+      },
+      {
+        "name": "Armando Garcia Vazquez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-30T20:07:10.427Z"
+      },
+      {
+        "name": "Adam Leach",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-07-30T20:03:09.603Z"
+      },
       {
         "name": "Peter Livingston",
         "calls": 2,
@@ -166,6 +208,36 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Alexander Priyev",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-07-30T20:29:15.285Z"
+      },
+      {
+        "name": "Simon Covarrubias",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-07-30T20:20:50.350Z"
+      },
+      {
+        "name": "Daniel Paul Cruz",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-07-30T20:18:01.166Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-07-30T20:13:07.441Z"
+      },
+      {
+        "name": "Adam Leach",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-07-30T20:03:09.603Z"
+      },
       {
         "name": "Peter Livingston",
         "texts": 1,
@@ -325,11 +397,11 @@
     ]
   },
   "mtd": {
-    "contacts": 366,
-    "uniqueCallsAttempted": 1326,
-    "uniqueTextsSent": 557,
-    "uniqueCallsAnswered": 300,
-    "uniqueTextsResponded": 124,
+    "contacts": 368,
+    "uniqueCallsAttempted": 1333,
+    "uniqueTextsSent": 562,
+    "uniqueCallsAnswered": 301,
+    "uniqueTextsResponded": 126,
     "automationTexted": 402
   },
   "daily": [
@@ -596,13 +668,13 @@
     },
     {
       "date": "2026-07-30",
-      "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 26,
-      "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 6,
+      "uniqueCallsAttempted": 32,
+      "uniqueTextsSent": 31,
+      "uniqueCallsAnswered": 8,
+      "uniqueTextsResponded": 8,
       "automationTexted": 2,
       "campaign": null
     }
   ],
-  "conversationsScanned": 867
+  "conversationsScanned": 869
 }
