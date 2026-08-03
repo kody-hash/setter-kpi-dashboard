@@ -1,24 +1,36 @@
 {
-  "generatedAt": "2026-08-03T18:19:12.731Z",
+  "generatedAt": "2026-08-03T20:12:48.984Z",
   "ranges": {
     "todayIso": "2026-08-03T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-03T18:19:07.477Z"
+    "nowIso": "2026-08-03T20:12:38.294Z"
   },
   "today": {
-    "contacts": 9,
-    "uniqueCallsAttempted": 13,
-    "uniqueTextsSent": 9,
-    "uniqueCallsAnswered": 6,
-    "uniqueTextsResponded": 2,
-    "automationTexted": 2,
+    "contacts": 10,
+    "uniqueCallsAttempted": 16,
+    "uniqueTextsSent": 12,
+    "uniqueCallsAnswered": 8,
+    "uniqueTextsResponded": 4,
+    "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Kerel Moore",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T20:02:44.394Z"
+      },
+      {
+        "name": "Erin Hawksworth",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T18:50:20.130Z"
+      },
       {
         "name": "Rubén Mendoza",
         "calls": 2,
         "answered": false,
-        "lastAt": "2026-08-03T18:10:40.808Z"
+        "lastAt": "2026-08-03T18:26:43.983Z"
       },
       {
         "name": "Mark Hanson",
@@ -87,6 +99,12 @@
         "lastAt": "2026-08-03T16:57:51.752Z"
       },
       {
+        "name": "Antonio Magana",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T16:53:48.320Z"
+      },
+      {
         "name": "Johanne Landry",
         "calls": 1,
         "answered": false,
@@ -95,10 +113,22 @@
     ],
     "textedContacts": [
       {
-        "name": "Rubén Mendoza",
-        "texts": 5,
+        "name": "Kerel Moore",
+        "texts": 2,
         "responded": true,
-        "lastAt": "2026-08-03T18:10:40.808Z"
+        "lastAt": "2026-08-03T20:02:44.394Z"
+      },
+      {
+        "name": "Erin Hawksworth",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-03T18:50:20.130Z"
+      },
+      {
+        "name": "Rubén Mendoza",
+        "texts": 6,
+        "responded": true,
+        "lastAt": "2026-08-03T18:26:43.983Z"
       },
       {
         "name": "Jonathan Lofrisco",
@@ -147,16 +177,22 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-08-03T17:01:47.449Z"
+      },
+      {
+        "name": "Antonio Magana",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T16:53:48.320Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 25,
-    "uniqueCallsAttempted": 13,
-    "uniqueTextsSent": 9,
-    "uniqueCallsAnswered": 6,
-    "uniqueTextsResponded": 2,
-    "automationTexted": 14
+    "contacts": 26,
+    "uniqueCallsAttempted": 16,
+    "uniqueTextsSent": 12,
+    "uniqueCallsAnswered": 8,
+    "uniqueTextsResponded": 4,
+    "automationTexted": 16
   },
   "daily": [
     {
@@ -179,13 +215,13 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 13,
-      "uniqueTextsSent": 9,
-      "uniqueCallsAnswered": 6,
-      "uniqueTextsResponded": 2,
-      "automationTexted": 2,
+      "uniqueCallsAttempted": 16,
+      "uniqueTextsSent": 12,
+      "uniqueCallsAnswered": 8,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 47
+  "conversationsScanned": 53
 }
