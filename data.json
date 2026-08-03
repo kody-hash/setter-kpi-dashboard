@@ -1,42 +1,162 @@
 {
-  "generatedAt": "2026-08-03T16:28:21.872Z",
+  "generatedAt": "2026-08-03T18:19:12.731Z",
   "ranges": {
     "todayIso": "2026-08-03T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-03T16:28:13.846Z"
+    "nowIso": "2026-08-03T18:19:07.477Z"
   },
   "today": {
-    "contacts": 4,
-    "uniqueCallsAttempted": 1,
-    "uniqueTextsSent": 1,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
-    "automationTexted": 3,
+    "contacts": 9,
+    "uniqueCallsAttempted": 13,
+    "uniqueTextsSent": 9,
+    "uniqueCallsAnswered": 6,
+    "uniqueTextsResponded": 2,
+    "automationTexted": 2,
     "campaign": null,
     "calledContacts": [
       {
         "name": "Rubén Mendoza",
         "calls": 2,
         "answered": false,
-        "lastAt": "2026-08-03T16:18:48.109Z"
+        "lastAt": "2026-08-03T18:10:40.808Z"
+      },
+      {
+        "name": "Mark Hanson",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T17:52:14.834Z"
+      },
+      {
+        "name": "Jonathan Lofrisco",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T17:50:09.536Z"
+      },
+      {
+        "name": "Ranjana Anand",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T17:40:49.288Z"
+      },
+      {
+        "name": "Jay Westmoreland",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T17:37:40.768Z"
+      },
+      {
+        "name": "Alicharrat",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T17:33:22.468Z"
+      },
+      {
+        "name": "Max Patton",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T17:24:41.580Z"
+      },
+      {
+        "name": "Kris Fewell",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T17:20:22.287Z"
+      },
+      {
+        "name": "Drew Forray",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T17:17:06.546Z"
+      },
+      {
+        "name": "Wes Fulkerson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T17:03:56.351Z"
+      },
+      {
+        "name": "Megan Lee Petersen",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-03T17:01:47.449Z"
+      },
+      {
+        "name": "Junior Rodriguez",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T16:57:51.752Z"
+      },
+      {
+        "name": "Johanne Landry",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T16:39:46.214Z"
       }
     ],
     "textedContacts": [
       {
         "name": "Rubén Mendoza",
+        "texts": 5,
+        "responded": true,
+        "lastAt": "2026-08-03T18:10:40.808Z"
+      },
+      {
+        "name": "Jonathan Lofrisco",
         "texts": 1,
         "responded": false,
-        "lastAt": "2026-08-03T16:18:48.109Z"
+        "lastAt": "2026-08-03T17:50:09.536Z"
+      },
+      {
+        "name": "Jay Westmoreland",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T17:37:40.768Z"
+      },
+      {
+        "name": "Alicharrat",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T17:33:22.468Z"
+      },
+      {
+        "name": "Max Patton",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-03T17:24:41.580Z"
+      },
+      {
+        "name": "Kris Fewell",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T17:20:22.287Z"
+      },
+      {
+        "name": "Drew Forray",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T17:17:06.546Z"
+      },
+      {
+        "name": "Wes Fulkerson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T17:03:56.351Z"
+      },
+      {
+        "name": "Megan Lee Petersen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T17:01:47.449Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 20,
-    "uniqueCallsAttempted": 1,
-    "uniqueTextsSent": 1,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
-    "automationTexted": 15
+    "contacts": 25,
+    "uniqueCallsAttempted": 13,
+    "uniqueTextsSent": 9,
+    "uniqueCallsAnswered": 6,
+    "uniqueTextsResponded": 2,
+    "automationTexted": 14
   },
   "daily": [
     {
@@ -59,13 +179,13 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 1,
-      "uniqueTextsSent": 1,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "uniqueCallsAttempted": 13,
+      "uniqueTextsSent": 9,
+      "uniqueCallsAnswered": 6,
+      "uniqueTextsResponded": 2,
+      "automationTexted": 2,
       "campaign": null
     }
   ],
-  "conversationsScanned": 46
+  "conversationsScanned": 47
 }
