@@ -1,28 +1,42 @@
 {
-  "generatedAt": "2026-08-01T14:36:52.608Z",
+  "generatedAt": "2026-08-03T16:28:21.872Z",
   "ranges": {
-    "todayIso": "2026-08-01T07:00:00.000Z",
+    "todayIso": "2026-08-03T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-01T14:36:51.343Z"
+    "nowIso": "2026-08-03T16:28:13.846Z"
   },
   "today": {
-    "contacts": 1,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 0,
+    "contacts": 4,
+    "uniqueCallsAttempted": 1,
+    "uniqueTextsSent": 1,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
-    "automationTexted": 1,
+    "automationTexted": 3,
     "campaign": null,
-    "calledContacts": [],
-    "textedContacts": []
+    "calledContacts": [
+      {
+        "name": "Rubén Mendoza",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T16:18:48.109Z"
+      }
+    ],
+    "textedContacts": [
+      {
+        "name": "Rubén Mendoza",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T16:18:48.109Z"
+      }
+    ]
   },
   "mtd": {
-    "contacts": 1,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 0,
+    "contacts": 20,
+    "uniqueCallsAttempted": 1,
+    "uniqueTextsSent": 1,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
-    "automationTexted": 1
+    "automationTexted": 15
   },
   "daily": [
     {
@@ -31,9 +45,27 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 1,
+      "automationTexted": 4,
+      "campaign": null
+    },
+    {
+      "date": "2026-08-02",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 0,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 8,
+      "campaign": null
+    },
+    {
+      "date": "2026-08-03",
+      "uniqueCallsAttempted": 1,
+      "uniqueTextsSent": 1,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 3,
       "campaign": null
     }
   ],
-  "conversationsScanned": 2
+  "conversationsScanned": 46
 }
