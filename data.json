@@ -1,30 +1,66 @@
 {
-  "generatedAt": "2026-08-03T20:12:48.984Z",
+  "generatedAt": "2026-08-03T21:32:11.746Z",
   "ranges": {
     "todayIso": "2026-08-03T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-03T20:12:38.294Z"
+    "nowIso": "2026-08-03T21:32:01.708Z"
   },
   "today": {
-    "contacts": 10,
-    "uniqueCallsAttempted": 16,
-    "uniqueTextsSent": 12,
+    "contacts": 11,
+    "uniqueCallsAttempted": 22,
+    "uniqueTextsSent": 17,
     "uniqueCallsAnswered": 8,
     "uniqueTextsResponded": 4,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
       {
-        "name": "Kerel Moore",
+        "name": "Guillermo Lopez",
         "calls": 1,
-        "answered": true,
-        "lastAt": "2026-08-03T20:02:44.394Z"
+        "answered": false,
+        "lastAt": "2026-08-03T21:30:30.613Z"
+      },
+      {
+        "name": "Randy Wood",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:26:43.411Z"
+      },
+      {
+        "name": "Randall Ponto",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:13:59.973Z"
+      },
+      {
+        "name": "Joe Mcgregor",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:12:17.971Z"
+      },
+      {
+        "name": "Jeremy Rogne",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:05:46.951Z"
+      },
+      {
+        "name": "Joel Mckinney | Az Realtor",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T21:01:40.752Z"
       },
       {
         "name": "Erin Hawksworth",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-08-03T18:50:20.130Z"
+        "lastAt": "2026-08-03T20:56:48.854Z"
+      },
+      {
+        "name": "Kerel Moore",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T20:02:44.394Z"
       },
       {
         "name": "Rubén Mendoza",
@@ -113,16 +149,46 @@
     ],
     "textedContacts": [
       {
+        "name": "Guillermo Lopez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:30:30.613Z"
+      },
+      {
+        "name": "Randy Wood",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:26:43.411Z"
+      },
+      {
+        "name": "Joe Mcgregor",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:12:17.971Z"
+      },
+      {
+        "name": "Jeremy Rogne",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:05:46.951Z"
+      },
+      {
+        "name": "Joel Mckinney | Az Realtor",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:01:40.752Z"
+      },
+      {
+        "name": "Erin Hawksworth",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-08-03T20:56:48.854Z"
+      },
+      {
         "name": "Kerel Moore",
         "texts": 2,
         "responded": true,
         "lastAt": "2026-08-03T20:02:44.394Z"
-      },
-      {
-        "name": "Erin Hawksworth",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-03T18:50:20.130Z"
       },
       {
         "name": "Rubén Mendoza",
@@ -187,9 +253,9 @@
     ]
   },
   "mtd": {
-    "contacts": 26,
-    "uniqueCallsAttempted": 16,
-    "uniqueTextsSent": 12,
+    "contacts": 27,
+    "uniqueCallsAttempted": 22,
+    "uniqueTextsSent": 17,
     "uniqueCallsAnswered": 8,
     "uniqueTextsResponded": 4,
     "automationTexted": 16
@@ -215,13 +281,13 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 16,
-      "uniqueTextsSent": 12,
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 17,
       "uniqueCallsAnswered": 8,
       "uniqueTextsResponded": 4,
       "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 53
+  "conversationsScanned": 61
 }
