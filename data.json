@@ -1,19 +1,97 @@
 {
-  "generatedAt": "2026-08-03T21:32:11.746Z",
+  "generatedAt": "2026-08-03T22:41:52.842Z",
   "ranges": {
     "todayIso": "2026-08-03T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-03T21:32:01.708Z"
+    "nowIso": "2026-08-03T22:41:45.932Z"
   },
   "today": {
-    "contacts": 11,
-    "uniqueCallsAttempted": 22,
-    "uniqueTextsSent": 17,
-    "uniqueCallsAnswered": 8,
-    "uniqueTextsResponded": 4,
+    "contacts": 13,
+    "uniqueCallsAttempted": 35,
+    "uniqueTextsSent": 29,
+    "uniqueCallsAnswered": 9,
+    "uniqueTextsResponded": 5,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Scottburns",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T22:41:38.286Z"
+      },
+      {
+        "name": "Brenda Martinez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T22:40:08.100Z"
+      },
+      {
+        "name": "Alonso M. Begazo Nunez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T22:38:27.994Z"
+      },
+      {
+        "name": "Kay Mathis",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-03T22:34:54.894Z"
+      },
+      {
+        "name": "Sammy Espinal",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T22:30:22.699Z"
+      },
+      {
+        "name": "Lázaro Bautista",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T22:26:36.746Z"
+      },
+      {
+        "name": "Marlene Galvan",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T22:07:15.156Z"
+      },
+      {
+        "name": "Kim Mccarter",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T22:01:24.494Z"
+      },
+      {
+        "name": "James Hansen",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:55:30.255Z"
+      },
+      {
+        "name": "Peace Mka",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:47:23.884Z"
+      },
+      {
+        "name": "Michelle M. Arnold",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:45:17.319Z"
+      },
+      {
+        "name": "Jennifer Demetrulias Mccormick",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:42:58.699Z"
+      },
+      {
+        "name": "Sylvia Garcia",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T21:38:43.669Z"
+      },
       {
         "name": "Guillermo Lopez",
         "calls": 1,
@@ -149,6 +227,78 @@
     ],
     "textedContacts": [
       {
+        "name": "Scottburns",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T22:41:38.286Z"
+      },
+      {
+        "name": "Brenda Martinez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T22:40:08.100Z"
+      },
+      {
+        "name": "Alonso M. Begazo Nunez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T22:38:27.994Z"
+      },
+      {
+        "name": "Kay Mathis",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T22:34:54.894Z"
+      },
+      {
+        "name": "Lázaro Bautista",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T22:26:36.746Z"
+      },
+      {
+        "name": "Kim Mccarter",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T22:01:24.494Z"
+      },
+      {
+        "name": "James Hansen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:55:30.255Z"
+      },
+      {
+        "name": "Peace Mka",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:47:23.884Z"
+      },
+      {
+        "name": "Michelle M. Arnold",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:45:17.319Z"
+      },
+      {
+        "name": "Jennifer Demetrulias Mccormick",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-08-03T21:42:58.699Z"
+      },
+      {
+        "name": "Sylvia Garcia",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:38:43.669Z"
+      },
+      {
+        "name": "Daniel Brandt",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T21:35:40.686Z"
+      },
+      {
         "name": "Guillermo Lopez",
         "texts": 1,
         "responded": false,
@@ -169,7 +319,7 @@
       {
         "name": "Jeremy Rogne",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-08-03T21:05:46.951Z"
       },
       {
@@ -253,11 +403,11 @@
     ]
   },
   "mtd": {
-    "contacts": 27,
-    "uniqueCallsAttempted": 22,
-    "uniqueTextsSent": 17,
-    "uniqueCallsAnswered": 8,
-    "uniqueTextsResponded": 4,
+    "contacts": 29,
+    "uniqueCallsAttempted": 35,
+    "uniqueTextsSent": 29,
+    "uniqueCallsAnswered": 9,
+    "uniqueTextsResponded": 5,
     "automationTexted": 16
   },
   "daily": [
@@ -281,13 +431,13 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 17,
-      "uniqueCallsAnswered": 8,
-      "uniqueTextsResponded": 4,
+      "uniqueCallsAttempted": 35,
+      "uniqueTextsSent": 29,
+      "uniqueCallsAnswered": 9,
+      "uniqueTextsResponded": 5,
       "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 61
+  "conversationsScanned": 76
 }
