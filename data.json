@@ -1,24 +1,66 @@
 {
-  "generatedAt": "2026-08-04T18:06:56.419Z",
+  "generatedAt": "2026-08-04T19:57:22.957Z",
   "ranges": {
     "todayIso": "2026-08-04T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-04T18:06:28.130Z"
+    "nowIso": "2026-08-04T19:57:03.780Z"
   },
   "today": {
-    "contacts": 10,
-    "uniqueCallsAttempted": 16,
-    "uniqueTextsSent": 15,
+    "contacts": 12,
+    "uniqueCallsAttempted": 22,
+    "uniqueTextsSent": 20,
     "uniqueCallsAnswered": 5,
-    "uniqueTextsResponded": 4,
-    "automationTexted": 3,
+    "uniqueTextsResponded": 5,
+    "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Colby Cartee",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T18:54:21.468Z"
+      },
+      {
+        "name": "Paul Felstein",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:37:21.566Z"
+      },
+      {
+        "name": "Miguel A Basilio",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:36:49.802Z"
+      },
+      {
+        "name": "Mrg Homes Investing",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:35:58.217Z"
+      },
+      {
+        "name": "Mark Ca",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:32:58.260Z"
+      },
+      {
+        "name": "Mariavillicana400@gmail.com",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:30:54.806Z"
+      },
+      {
+        "name": "Roger Recker",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:23:23.371Z"
+      },
       {
         "name": "Mario Bustamante",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-08-04T18:05:30.271Z"
+        "lastAt": "2026-08-04T18:06:51.652Z"
       },
       {
         "name": "Rhonda Phare",
@@ -49,12 +91,6 @@
         "calls": 1,
         "answered": false,
         "lastAt": "2026-08-04T16:53:01.890Z"
-      },
-      {
-        "name": "Mark Ca",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-04T16:47:43.477Z"
       },
       {
         "name": "Brendon Webb",
@@ -113,6 +149,42 @@
     ],
     "textedContacts": [
       {
+        "name": "Colby Cartee",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-08-04T18:54:21.468Z"
+      },
+      {
+        "name": "Miguel A Basilio",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T18:36:49.802Z"
+      },
+      {
+        "name": "Mrg Homes Investing",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T18:35:58.217Z"
+      },
+      {
+        "name": "Mark Ca",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-04T18:32:58.260Z"
+      },
+      {
+        "name": "Roger Recker",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T18:23:23.371Z"
+      },
+      {
+        "name": "Mario Bustamante",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T18:06:51.652Z"
+      },
+      {
         "name": "Rhonda Phare",
         "texts": 1,
         "responded": false,
@@ -141,12 +213,6 @@
         "texts": 2,
         "responded": false,
         "lastAt": "2026-08-04T16:53:01.890Z"
-      },
-      {
-        "name": "Mark Ca",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-04T16:47:43.477Z"
       },
       {
         "name": "Brendon Webb",
@@ -205,12 +271,12 @@
     ]
   },
   "mtd": {
-    "contacts": 44,
-    "uniqueCallsAttempted": 88,
-    "uniqueTextsSent": 75,
+    "contacts": 46,
+    "uniqueCallsAttempted": 94,
+    "uniqueTextsSent": 80,
     "uniqueCallsAnswered": 21,
-    "uniqueTextsResponded": 15,
-    "automationTexted": 23
+    "uniqueTextsResponded": 16,
+    "automationTexted": 24
   },
   "daily": [
     {
@@ -242,13 +308,13 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 16,
-      "uniqueTextsSent": 15,
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 20,
       "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 4,
-      "automationTexted": 3,
+      "uniqueTextsResponded": 5,
+      "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 138
+  "conversationsScanned": 141
 }
