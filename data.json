@@ -1,19 +1,85 @@
 {
-  "generatedAt": "2026-08-04T21:20:42.700Z",
+  "generatedAt": "2026-08-04T22:36:23.752Z",
   "ranges": {
     "todayIso": "2026-08-04T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-04T21:20:19.499Z"
+    "nowIso": "2026-08-04T22:36:09.747Z"
   },
   "today": {
-    "contacts": 14,
-    "uniqueCallsAttempted": 32,
-    "uniqueTextsSent": 30,
-    "uniqueCallsAnswered": 7,
-    "uniqueTextsResponded": 8,
+    "contacts": 20,
+    "uniqueCallsAttempted": 43,
+    "uniqueTextsSent": 40,
+    "uniqueCallsAnswered": 10,
+    "uniqueTextsResponded": 9,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Lewis Moon",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T22:35:13.045Z"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:30:40.280Z"
+      },
+      {
+        "name": "Charles Tekippe",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T22:27:40.981Z"
+      },
+      {
+        "name": "Coleman O'daniel",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T22:26:35.625Z"
+      },
+      {
+        "name": "Alicharrat",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T22:02:01.449Z"
+      },
+      {
+        "name": "Madhu",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T21:50:34.172Z"
+      },
+      {
+        "name": "Car Carb",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T21:45:11.913Z"
+      },
+      {
+        "name": "Megan Lee Petersen",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T21:37:55.411Z"
+      },
+      {
+        "name": "Rob Cull",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T21:36:32.721Z"
+      },
+      {
+        "name": "Wes Fulkerson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T21:26:45.705Z"
+      },
+      {
+        "name": "Mike Daddy",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T21:25:18.984Z"
+      },
       {
         "name": "Sylvia Garcia",
         "calls": 1,
@@ -209,6 +275,66 @@
     ],
     "textedContacts": [
       {
+        "name": "Lewis Moon",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:35:13.045Z"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:30:40.280Z"
+      },
+      {
+        "name": "Charles Tekippe",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-08-04T22:27:40.981Z"
+      },
+      {
+        "name": "Coleman O'daniel",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:26:35.625Z"
+      },
+      {
+        "name": "Madhu",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T21:50:34.172Z"
+      },
+      {
+        "name": "Car Carb",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T21:45:11.913Z"
+      },
+      {
+        "name": "Megan Lee Petersen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T21:37:55.411Z"
+      },
+      {
+        "name": "Rob Cull",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T21:36:32.721Z"
+      },
+      {
+        "name": "Wes Fulkerson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T21:26:45.705Z"
+      },
+      {
+        "name": "Mike Daddy",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T21:25:18.984Z"
+      },
+      {
         "name": "Sylvia Garcia",
         "texts": 1,
         "responded": false,
@@ -391,11 +517,11 @@
     ]
   },
   "mtd": {
-    "contacts": 48,
-    "uniqueCallsAttempted": 104,
-    "uniqueTextsSent": 90,
-    "uniqueCallsAnswered": 23,
-    "uniqueTextsResponded": 19,
+    "contacts": 54,
+    "uniqueCallsAttempted": 115,
+    "uniqueTextsSent": 100,
+    "uniqueCallsAnswered": 26,
+    "uniqueTextsResponded": 20,
     "automationTexted": 24
   },
   "daily": [
@@ -428,13 +554,13 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 32,
-      "uniqueTextsSent": 30,
-      "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 8,
+      "uniqueCallsAttempted": 43,
+      "uniqueTextsSent": 40,
+      "uniqueCallsAnswered": 10,
+      "uniqueTextsResponded": 9,
       "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 148
+  "conversationsScanned": 150
 }
