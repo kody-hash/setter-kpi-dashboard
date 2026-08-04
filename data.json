@@ -1,24 +1,90 @@
 {
-  "generatedAt": "2026-08-04T16:13:40.133Z",
+  "generatedAt": "2026-08-04T18:06:56.419Z",
   "ranges": {
     "todayIso": "2026-08-04T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-04T16:13:23.002Z"
+    "nowIso": "2026-08-04T18:06:28.130Z"
   },
   "today": {
-    "contacts": 9,
-    "uniqueCallsAttempted": 5,
-    "uniqueTextsSent": 5,
-    "uniqueCallsAnswered": 2,
-    "uniqueTextsResponded": 0,
+    "contacts": 10,
+    "uniqueCallsAttempted": 16,
+    "uniqueTextsSent": 15,
+    "uniqueCallsAnswered": 5,
+    "uniqueTextsResponded": 4,
     "automationTexted": 3,
     "campaign": null,
     "calledContacts": [
       {
+        "name": "Mario Bustamante",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:05:30.271Z"
+      },
+      {
+        "name": "Rhonda Phare",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T18:03:57.692Z"
+      },
+      {
+        "name": "Richard Grieco",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T17:52:49.501Z"
+      },
+      {
+        "name": "Dale Dickamore",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T17:45:41.708Z"
+      },
+      {
+        "name": "George",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T17:31:43.417Z"
+      },
+      {
+        "name": "Raymond Bencomo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T16:53:01.890Z"
+      },
+      {
+        "name": "Mark Ca",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T16:47:43.477Z"
+      },
+      {
+        "name": "Brendon Webb",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T16:43:29.937Z"
+      },
+      {
+        "name": "John Vadurro",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-04T16:25:22.162Z"
+      },
+      {
+        "name": "David Gonzalez",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T16:19:33.112Z"
+      },
+      {
+        "name": "Lisa Trujillo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T16:18:51.825Z"
+      },
+      {
         "name": "Kate Tetzloff",
         "calls": 1,
         "answered": true,
-        "lastAt": "2026-08-04T16:10:10.839Z"
+        "lastAt": "2026-08-04T16:13:47.154Z"
       },
       {
         "name": "Edgar Camez",
@@ -47,6 +113,66 @@
     ],
     "textedContacts": [
       {
+        "name": "Rhonda Phare",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T18:03:57.692Z"
+      },
+      {
+        "name": "Richard Grieco",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T17:52:49.501Z"
+      },
+      {
+        "name": "Dale Dickamore",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T17:45:41.708Z"
+      },
+      {
+        "name": "George",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-08-04T17:31:43.417Z"
+      },
+      {
+        "name": "Raymond Bencomo",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-08-04T16:53:01.890Z"
+      },
+      {
+        "name": "Mark Ca",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-04T16:47:43.477Z"
+      },
+      {
+        "name": "Brendon Webb",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T16:43:29.937Z"
+      },
+      {
+        "name": "John Vadurro",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T16:25:22.162Z"
+      },
+      {
+        "name": "Lisa Trujillo",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-04T16:18:51.825Z"
+      },
+      {
+        "name": "Kate Tetzloff",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T16:13:47.154Z"
+      },
+      {
         "name": "Edgar Camez",
         "texts": 1,
         "responded": false,
@@ -61,7 +187,7 @@
       {
         "name": "Sue A Rutherford",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-08-04T16:04:23.539Z"
       },
       {
@@ -79,11 +205,11 @@
     ]
   },
   "mtd": {
-    "contacts": 43,
-    "uniqueCallsAttempted": 77,
-    "uniqueTextsSent": 65,
-    "uniqueCallsAnswered": 18,
-    "uniqueTextsResponded": 11,
+    "contacts": 44,
+    "uniqueCallsAttempted": 88,
+    "uniqueTextsSent": 75,
+    "uniqueCallsAnswered": 21,
+    "uniqueTextsResponded": 15,
     "automationTexted": 23
   },
   "daily": [
@@ -116,13 +242,13 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 5,
-      "uniqueTextsSent": 5,
-      "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 0,
+      "uniqueCallsAttempted": 16,
+      "uniqueTextsSent": 15,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 4,
       "automationTexted": 3,
       "campaign": null
     }
   ],
-  "conversationsScanned": 130
+  "conversationsScanned": 138
 }
