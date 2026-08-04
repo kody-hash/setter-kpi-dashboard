@@ -1,19 +1,67 @@
 {
-  "generatedAt": "2026-08-03T23:49:44.399Z",
+  "generatedAt": "2026-08-04T02:24:52.089Z",
   "ranges": {
     "todayIso": "2026-08-03T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-03T23:49:32.055Z"
+    "nowIso": "2026-08-04T02:24:41.514Z"
   },
   "today": {
-    "contacts": 15,
-    "uniqueCallsAttempted": 64,
-    "uniqueTextsSent": 54,
-    "uniqueCallsAnswered": 13,
-    "uniqueTextsResponded": 7,
-    "automationTexted": 5,
+    "contacts": 16,
+    "uniqueCallsAttempted": 72,
+    "uniqueTextsSent": 60,
+    "uniqueCallsAnswered": 16,
+    "uniqueTextsResponded": 11,
+    "automationTexted": 6,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Nathan Hart",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T00:06:48.875Z"
+      },
+      {
+        "name": "Mark Leiser",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T00:03:25.224Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T23:58:57.593Z"
+      },
+      {
+        "name": "Paul Felstein",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T23:56:17.553Z"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-03T23:54:53.496Z"
+      },
+      {
+        "name": "Mariavillicana400@gmail.com",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T23:52:27.227Z"
+      },
+      {
+        "name": "Courtney Ryan",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T23:51:28.276Z"
+      },
+      {
+        "name": "Rob Cull",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-03T23:50:27.591Z"
+      },
       {
         "name": "Chris Stewart",
         "calls": 1,
@@ -401,6 +449,42 @@
     ],
     "textedContacts": [
       {
+        "name": "Nathan Hart",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-04T00:06:48.875Z"
+      },
+      {
+        "name": "Mark Leiser",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-04T00:03:25.224Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-03T23:58:57.593Z"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T23:54:53.496Z"
+      },
+      {
+        "name": "Courtney Ryan",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T23:51:28.276Z"
+      },
+      {
+        "name": "Rob Cull",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-03T23:50:27.591Z"
+      },
+      {
         "name": "Madhu",
         "texts": 1,
         "responded": false,
@@ -619,7 +703,7 @@
       {
         "name": "Daniel Brandt",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-08-03T21:35:40.686Z"
       },
       {
@@ -727,11 +811,11 @@
     ]
   },
   "mtd": {
-    "contacts": 31,
-    "uniqueCallsAttempted": 64,
-    "uniqueTextsSent": 54,
-    "uniqueCallsAnswered": 13,
-    "uniqueTextsResponded": 7,
+    "contacts": 32,
+    "uniqueCallsAttempted": 72,
+    "uniqueTextsSent": 60,
+    "uniqueCallsAnswered": 16,
+    "uniqueTextsResponded": 11,
     "automationTexted": 17
   },
   "daily": [
@@ -750,18 +834,18 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 8,
+      "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 64,
-      "uniqueTextsSent": 54,
-      "uniqueCallsAnswered": 13,
-      "uniqueTextsResponded": 7,
-      "automationTexted": 5,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 11,
+      "automationTexted": 6,
       "campaign": null
     }
   ],
-  "conversationsScanned": 109
+  "conversationsScanned": 118
 }
