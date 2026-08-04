@@ -1,19 +1,85 @@
 {
-  "generatedAt": "2026-08-04T19:57:22.957Z",
+  "generatedAt": "2026-08-04T21:20:42.700Z",
   "ranges": {
     "todayIso": "2026-08-04T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-04T19:57:03.780Z"
+    "nowIso": "2026-08-04T21:20:19.499Z"
   },
   "today": {
-    "contacts": 12,
-    "uniqueCallsAttempted": 22,
-    "uniqueTextsSent": 20,
-    "uniqueCallsAnswered": 5,
-    "uniqueTextsResponded": 5,
+    "contacts": 14,
+    "uniqueCallsAttempted": 32,
+    "uniqueTextsSent": 30,
+    "uniqueCallsAnswered": 7,
+    "uniqueTextsResponded": 8,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Sylvia Garcia",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:58:22.893Z"
+      },
+      {
+        "name": "Craig Norman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:56:59.896Z"
+      },
+      {
+        "name": "Nancy Parks Vanramshorst",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:55:03.877Z"
+      },
+      {
+        "name": "Peter Livingston",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:53:00.745Z"
+      },
+      {
+        "name": "Joe Mcgregor",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T20:50:30.728Z"
+      },
+      {
+        "name": "Keith Shelton",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:42:02.673Z"
+      },
+      {
+        "name": "Simon Covarrubias",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:39:19.105Z"
+      },
+      {
+        "name": "George",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:38:01.195Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:18:42.878Z"
+      },
+      {
+        "name": "Joel Mckinney | Az Realtor",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T20:14:13.291Z"
+      },
+      {
+        "name": "Carlos Garcia",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T20:08:53.022Z"
+      },
       {
         "name": "Colby Cartee",
         "calls": 2,
@@ -81,12 +147,6 @@
         "lastAt": "2026-08-04T17:45:41.708Z"
       },
       {
-        "name": "George",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-04T17:31:43.417Z"
-      },
-      {
         "name": "Raymond Bencomo",
         "calls": 1,
         "answered": false,
@@ -149,6 +209,72 @@
     ],
     "textedContacts": [
       {
+        "name": "Sylvia Garcia",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T20:58:22.893Z"
+      },
+      {
+        "name": "Craig Norman",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T20:56:59.896Z"
+      },
+      {
+        "name": "Nancy Parks Vanramshorst",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-04T20:55:03.877Z"
+      },
+      {
+        "name": "Peter Livingston",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T20:53:00.745Z"
+      },
+      {
+        "name": "Joe Mcgregor",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T20:50:30.728Z"
+      },
+      {
+        "name": "Keith Shelton",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T20:42:02.673Z"
+      },
+      {
+        "name": "Simon Covarrubias",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-04T20:39:19.105Z"
+      },
+      {
+        "name": "George",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-08-04T20:38:01.195Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T20:18:42.878Z"
+      },
+      {
+        "name": "Joel Mckinney | Az Realtor",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T20:14:13.291Z"
+      },
+      {
+        "name": "Kim Mccarter",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-04T20:02:13.848Z"
+      },
+      {
         "name": "Colby Cartee",
         "texts": 3,
         "responded": true,
@@ -201,12 +327,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-08-04T17:45:41.708Z"
-      },
-      {
-        "name": "George",
-        "texts": 3,
-        "responded": true,
-        "lastAt": "2026-08-04T17:31:43.417Z"
       },
       {
         "name": "Raymond Bencomo",
@@ -271,11 +391,11 @@
     ]
   },
   "mtd": {
-    "contacts": 46,
-    "uniqueCallsAttempted": 94,
-    "uniqueTextsSent": 80,
-    "uniqueCallsAnswered": 21,
-    "uniqueTextsResponded": 16,
+    "contacts": 48,
+    "uniqueCallsAttempted": 104,
+    "uniqueTextsSent": 90,
+    "uniqueCallsAnswered": 23,
+    "uniqueTextsResponded": 19,
     "automationTexted": 24
   },
   "daily": [
@@ -308,13 +428,13 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 22,
-      "uniqueTextsSent": 20,
-      "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 5,
+      "uniqueCallsAttempted": 32,
+      "uniqueTextsSent": 30,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 8,
       "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 141
+  "conversationsScanned": 148
 }
