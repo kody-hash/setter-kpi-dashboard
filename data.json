@@ -1,19 +1,181 @@
 {
-  "generatedAt": "2026-08-04T22:36:23.752Z",
+  "generatedAt": "2026-08-04T23:43:45.141Z",
   "ranges": {
     "todayIso": "2026-08-04T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-04T22:36:09.747Z"
+    "nowIso": "2026-08-04T23:43:24.188Z"
   },
   "today": {
-    "contacts": 20,
-    "uniqueCallsAttempted": 43,
-    "uniqueTextsSent": 40,
-    "uniqueCallsAnswered": 10,
-    "uniqueTextsResponded": 9,
+    "contacts": 21,
+    "uniqueCallsAttempted": 70,
+    "uniqueTextsSent": 63,
+    "uniqueCallsAnswered": 12,
+    "uniqueTextsResponded": 11,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Mark Leiser",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:43:09.906Z"
+      },
+      {
+        "name": "Dan Martin",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:41:35.280Z"
+      },
+      {
+        "name": "Jj Alicabo",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:37:20.199Z"
+      },
+      {
+        "name": "Antonio Magana",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T23:36:17.795Z"
+      },
+      {
+        "name": "Suzanne Lee",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:32:22.037Z"
+      },
+      {
+        "name": "Kim Maher Fine",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T23:30:37.977Z"
+      },
+      {
+        "name": "Adam Leach",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:27:57.839Z"
+      },
+      {
+        "name": "Steve W",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:25:57.525Z"
+      },
+      {
+        "name": "Lázaro Bautista",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:24:26.397Z"
+      },
+      {
+        "name": "Alonso M. Begazo Nunez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:22:41.189Z"
+      },
+      {
+        "name": "Vanessa Quinto",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:08:30.874Z"
+      },
+      {
+        "name": "Peace Mka",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:05:27.857Z"
+      },
+      {
+        "name": "Drew Forray",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:03:56.344Z"
+      },
+      {
+        "name": "Kay Mathis",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T23:01:56.727Z"
+      },
+      {
+        "name": "Mike Tertany",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:56:27.296Z"
+      },
+      {
+        "name": "Scottburns",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:53:55.035Z"
+      },
+      {
+        "name": "Charles Green",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:52:19.438Z"
+      },
+      {
+        "name": "Jay Westmoreland",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:50:52.081Z"
+      },
+      {
+        "name": "Chris Stewart",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T22:48:28.674Z"
+      },
+      {
+        "name": "Jamie St Claire",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:46:00.564Z"
+      },
+      {
+        "name": "Nick Partain",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:45:24.361Z"
+      },
+      {
+        "name": "Bria Rose",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:44:13.455Z"
+      },
+      {
+        "name": "Guillermo Lopez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:42:52.405Z"
+      },
+      {
+        "name": "Courtney Ryan",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:41:56.653Z"
+      },
+      {
+        "name": "Daniel Paul Cruz",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:41:11.506Z"
+      },
+      {
+        "name": "James Hansen",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:38:19.262Z"
+      },
+      {
+        "name": "Michelle M. Arnold",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T22:37:08.043Z"
+      },
       {
         "name": "Lewis Moon",
         "calls": 1,
@@ -275,6 +437,144 @@
     ],
     "textedContacts": [
       {
+        "name": "Dan Martin",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:41:35.280Z"
+      },
+      {
+        "name": "Jj Alicabo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:37:20.199Z"
+      },
+      {
+        "name": "Antonio Magana",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:36:17.795Z"
+      },
+      {
+        "name": "Suzanne Lee",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:32:22.037Z"
+      },
+      {
+        "name": "Kim Maher Fine",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:30:37.977Z"
+      },
+      {
+        "name": "Adam Leach",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:27:57.839Z"
+      },
+      {
+        "name": "Lázaro Bautista",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:24:26.397Z"
+      },
+      {
+        "name": "Alonso M. Begazo Nunez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:22:41.189Z"
+      },
+      {
+        "name": "Vanessa Quinto",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:08:30.874Z"
+      },
+      {
+        "name": "Peace Mka",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:05:27.857Z"
+      },
+      {
+        "name": "Drew Forray",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-04T23:03:56.344Z"
+      },
+      {
+        "name": "Kay Mathis",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-08-04T23:01:56.727Z"
+      },
+      {
+        "name": "Mike Tertany",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:56:27.296Z"
+      },
+      {
+        "name": "Scottburns",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:53:55.035Z"
+      },
+      {
+        "name": "Charles Green",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:52:19.438Z"
+      },
+      {
+        "name": "Jay Westmoreland",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:50:52.081Z"
+      },
+      {
+        "name": "Nick Partain",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:45:24.361Z"
+      },
+      {
+        "name": "Bria Rose",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-04T22:44:13.455Z"
+      },
+      {
+        "name": "Guillermo Lopez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:42:52.405Z"
+      },
+      {
+        "name": "Courtney Ryan",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:41:56.653Z"
+      },
+      {
+        "name": "Daniel Paul Cruz",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:41:11.506Z"
+      },
+      {
+        "name": "James Hansen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:38:19.262Z"
+      },
+      {
+        "name": "Michelle M. Arnold",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T22:37:08.043Z"
+      },
+      {
         "name": "Lewis Moon",
         "texts": 1,
         "responded": false,
@@ -517,11 +817,11 @@
     ]
   },
   "mtd": {
-    "contacts": 54,
-    "uniqueCallsAttempted": 115,
-    "uniqueTextsSent": 100,
-    "uniqueCallsAnswered": 26,
-    "uniqueTextsResponded": 20,
+    "contacts": 55,
+    "uniqueCallsAttempted": 142,
+    "uniqueTextsSent": 123,
+    "uniqueCallsAnswered": 28,
+    "uniqueTextsResponded": 22,
     "automationTexted": 24
   },
   "daily": [
@@ -554,13 +854,13 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 43,
-      "uniqueTextsSent": 40,
-      "uniqueCallsAnswered": 10,
-      "uniqueTextsResponded": 9,
+      "uniqueCallsAttempted": 70,
+      "uniqueTextsSent": 63,
+      "uniqueCallsAnswered": 12,
+      "uniqueTextsResponded": 11,
       "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 150
+  "conversationsScanned": 152
 }
