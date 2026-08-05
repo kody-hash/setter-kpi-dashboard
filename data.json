@@ -1,20 +1,243 @@
 {
-  "generatedAt": "2026-08-05T16:02:19.121Z",
+  "generatedAt": "2026-08-05T17:54:02.484Z",
   "ranges": {
     "todayIso": "2026-08-05T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-05T16:01:51.403Z"
+    "nowIso": "2026-08-05T17:53:40.145Z"
   },
   "today": {
-    "contacts": 4,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 2,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1,
+    "contacts": 6,
+    "uniqueCallsAttempted": 19,
+    "uniqueTextsSent": 20,
+    "uniqueCallsAnswered": 5,
+    "uniqueTextsResponded": 3,
     "automationTexted": 2,
     "campaign": null,
-    "calledContacts": [],
+    "calledContacts": [
+      {
+        "name": "Craig Norman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T17:50:39.660Z"
+      },
+      {
+        "name": "Lázaro Bautista",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T17:43:35.469Z"
+      },
+      {
+        "name": "Sue A Rutherford",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-05T16:49:57.735Z"
+      },
+      {
+        "name": "Mark Leiser",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-05T16:49:24.884Z"
+      },
+      {
+        "name": "Peter Livingston",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:47:20.818Z"
+      },
+      {
+        "name": "Peace Mka",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:45:25.217Z"
+      },
+      {
+        "name": "Madhu",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:44:07.942Z"
+      },
+      {
+        "name": "Kim Maher Fine",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:41:12.653Z"
+      },
+      {
+        "name": "Jennifer Demetrulias Mccormick",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:33:07.580Z"
+      },
+      {
+        "name": "Edgar Camez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:31:20.501Z"
+      },
+      {
+        "name": "Adam Leach",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-05T16:29:14.665Z"
+      },
+      {
+        "name": "Jj Alicabo",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-05T16:26:49.532Z"
+      },
+      {
+        "name": "Mike Esposito",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:25:31.242Z"
+      },
+      {
+        "name": "Randy Wood",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:22:20.874Z"
+      },
+      {
+        "name": "Eva Madrigal | Realtor",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:20:20.082Z"
+      },
+      {
+        "name": "Yariv Elazar",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-05T16:18:46.982Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-05T16:12:08.978Z"
+      },
+      {
+        "name": "Gage Mersereau",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T16:11:13.277Z"
+      },
+      {
+        "name": "James Hedrick",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-05T16:06:10.937Z"
+      }
+    ],
     "textedContacts": [
+      {
+        "name": "Craig Norman",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T17:50:39.660Z"
+      },
+      {
+        "name": "Lázaro Bautista",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T17:43:35.469Z"
+      },
+      {
+        "name": "Mark Leiser",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:49:24.884Z"
+      },
+      {
+        "name": "Peter Livingston",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:47:20.818Z"
+      },
+      {
+        "name": "Peace Mka",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:45:25.217Z"
+      },
+      {
+        "name": "Madhu",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-05T16:44:07.942Z"
+      },
+      {
+        "name": "Kim Maher Fine",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:41:12.653Z"
+      },
+      {
+        "name": "Jennifer Demetrulias Mccormick",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:33:07.580Z"
+      },
+      {
+        "name": "Edgar Camez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:31:20.501Z"
+      },
+      {
+        "name": "Adam Leach",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:29:14.665Z"
+      },
+      {
+        "name": "Jj Alicabo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:26:49.532Z"
+      },
+      {
+        "name": "Mike Esposito",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:25:31.242Z"
+      },
+      {
+        "name": "Randy Wood",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:22:20.874Z"
+      },
+      {
+        "name": "Eva Madrigal | Realtor",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:20:20.082Z"
+      },
+      {
+        "name": "Yariv Elazar",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:18:46.982Z"
+      },
+      {
+        "name": "Joseph M. Szabo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:12:08.978Z"
+      },
+      {
+        "name": "Gage Mersereau",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-05T16:11:13.277Z"
+      },
+      {
+        "name": "James Hedrick",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T16:06:10.937Z"
+      },
       {
         "name": "Bill Becker",
         "texts": 1,
@@ -30,11 +253,11 @@
     ]
   },
   "mtd": {
-    "contacts": 61,
-    "uniqueCallsAttempted": 149,
-    "uniqueTextsSent": 133,
-    "uniqueCallsAnswered": 31,
-    "uniqueTextsResponded": 24,
+    "contacts": 63,
+    "uniqueCallsAttempted": 168,
+    "uniqueTextsSent": 151,
+    "uniqueCallsAnswered": 36,
+    "uniqueTextsResponded": 26,
     "automationTexted": 29
   },
   "daily": [
@@ -76,13 +299,13 @@
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 2,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1,
+      "uniqueCallsAttempted": 19,
+      "uniqueTextsSent": 20,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 3,
       "automationTexted": 2,
       "campaign": null
     }
   ],
-  "conversationsScanned": 164
+  "conversationsScanned": 169
 }
