@@ -1,24 +1,66 @@
 {
-  "generatedAt": "2026-08-04T23:43:45.141Z",
+  "generatedAt": "2026-08-05T01:08:21.537Z",
   "ranges": {
     "todayIso": "2026-08-04T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-04T23:43:24.188Z"
+    "nowIso": "2026-08-05T01:08:01.687Z"
   },
   "today": {
     "contacts": 21,
-    "uniqueCallsAttempted": 70,
-    "uniqueTextsSent": 63,
-    "uniqueCallsAnswered": 12,
-    "uniqueTextsResponded": 11,
+    "uniqueCallsAttempted": 77,
+    "uniqueTextsSent": 71,
+    "uniqueCallsAnswered": 15,
+    "uniqueTextsResponded": 12,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
       {
-        "name": "Mark Leiser",
+        "name": "Ana Claudia Urias",
         "calls": 1,
         "answered": false,
-        "lastAt": "2026-08-04T23:43:09.906Z"
+        "lastAt": "2026-08-05T00:02:13.316Z"
+      },
+      {
+        "name": "Ben Stephens",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T00:00:06.555Z"
+      },
+      {
+        "name": "Christina Marie",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:58:57.451Z"
+      },
+      {
+        "name": "Wendy Coleman",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-04T23:57:07.526Z"
+      },
+      {
+        "name": "Ranjana Anand",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T23:54:56.876Z"
+      },
+      {
+        "name": "Erick Baer",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T23:52:05.709Z"
+      },
+      {
+        "name": "Jennifer Demetrulias Mccormick",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-04T23:46:05.116Z"
+      },
+      {
+        "name": "Mark Leiser",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-04T23:44:24.553Z"
       },
       {
         "name": "Dan Martin",
@@ -437,6 +479,54 @@
     ],
     "textedContacts": [
       {
+        "name": "Ana Claudia Urias",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T00:02:13.316Z"
+      },
+      {
+        "name": "Ben Stephens",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T00:00:06.555Z"
+      },
+      {
+        "name": "Christina Marie",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:58:57.451Z"
+      },
+      {
+        "name": "Wendy Coleman",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:57:07.526Z"
+      },
+      {
+        "name": "Ranjana Anand",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-04T23:54:56.876Z"
+      },
+      {
+        "name": "Erick Baer",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:52:05.709Z"
+      },
+      {
+        "name": "Jennifer Demetrulias Mccormick",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:46:05.116Z"
+      },
+      {
+        "name": "Mark Leiser",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-04T23:44:24.553Z"
+      },
+      {
         "name": "Dan Martin",
         "texts": 1,
         "responded": false,
@@ -818,10 +908,10 @@
   },
   "mtd": {
     "contacts": 55,
-    "uniqueCallsAttempted": 142,
-    "uniqueTextsSent": 123,
-    "uniqueCallsAnswered": 28,
-    "uniqueTextsResponded": 22,
+    "uniqueCallsAttempted": 149,
+    "uniqueTextsSent": 131,
+    "uniqueCallsAnswered": 31,
+    "uniqueTextsResponded": 23,
     "automationTexted": 24
   },
   "daily": [
@@ -854,13 +944,13 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 70,
-      "uniqueTextsSent": 63,
-      "uniqueCallsAnswered": 12,
-      "uniqueTextsResponded": 11,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 71,
+      "uniqueCallsAnswered": 15,
+      "uniqueTextsResponded": 12,
       "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 152
+  "conversationsScanned": 157
 }
