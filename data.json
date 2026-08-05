@@ -1,19 +1,43 @@
 {
-  "generatedAt": "2026-08-05T20:47:41.654Z",
+  "generatedAt": "2026-08-05T22:14:13.973Z",
   "ranges": {
     "todayIso": "2026-08-05T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-05T20:47:16.610Z"
+    "nowIso": "2026-08-05T22:13:57.820Z"
   },
   "today": {
-    "contacts": 8,
-    "uniqueCallsAttempted": 24,
-    "uniqueTextsSent": 24,
-    "uniqueCallsAnswered": 5,
+    "contacts": 9,
+    "uniqueCallsAttempted": 28,
+    "uniqueTextsSent": 27,
+    "uniqueCallsAnswered": 6,
     "uniqueTextsResponded": 4,
     "automationTexted": 3,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Colby Cartee",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T22:13:23.503Z"
+      },
+      {
+        "name": "Jamie St Claire",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T22:09:03.896Z"
+      },
+      {
+        "name": "Gary Short",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-05T22:06:55.810Z"
+      },
+      {
+        "name": "Leslie Henson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-05T22:05:31.838Z"
+      },
       {
         "name": "Mike Tertany",
         "calls": 1,
@@ -161,6 +185,24 @@
     ],
     "textedContacts": [
       {
+        "name": "Colby Cartee",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T22:13:23.503Z"
+      },
+      {
+        "name": "Gary Short",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T22:06:55.810Z"
+      },
+      {
+        "name": "Leslie Henson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T22:05:31.838Z"
+      },
+      {
         "name": "Mike Tertany",
         "texts": 1,
         "responded": false,
@@ -307,10 +349,10 @@
     ]
   },
   "mtd": {
-    "contacts": 65,
-    "uniqueCallsAttempted": 173,
-    "uniqueTextsSent": 155,
-    "uniqueCallsAnswered": 36,
+    "contacts": 66,
+    "uniqueCallsAttempted": 177,
+    "uniqueTextsSent": 158,
+    "uniqueCallsAnswered": 37,
     "uniqueTextsResponded": 27,
     "automationTexted": 30
   },
@@ -353,9 +395,9 @@
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 24,
-      "uniqueTextsSent": 24,
-      "uniqueCallsAnswered": 5,
+      "uniqueCallsAttempted": 28,
+      "uniqueTextsSent": 27,
+      "uniqueCallsAnswered": 6,
       "uniqueTextsResponded": 4,
       "automationTexted": 3,
       "campaign": null
