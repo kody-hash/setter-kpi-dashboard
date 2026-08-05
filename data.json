@@ -1,19 +1,49 @@
 {
-  "generatedAt": "2026-08-05T17:54:02.484Z",
+  "generatedAt": "2026-08-05T19:39:37.119Z",
   "ranges": {
     "todayIso": "2026-08-05T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-05T17:53:40.145Z"
+    "nowIso": "2026-08-05T19:39:11.885Z"
   },
   "today": {
-    "contacts": 6,
-    "uniqueCallsAttempted": 19,
-    "uniqueTextsSent": 20,
+    "contacts": 7,
+    "uniqueCallsAttempted": 24,
+    "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 5,
-    "uniqueTextsResponded": 3,
-    "automationTexted": 2,
+    "uniqueTextsResponded": 4,
+    "automationTexted": 3,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Mike Tertany",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T18:14:16.024Z"
+      },
+      {
+        "name": "Courtney Ryan",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T18:00:18.464Z"
+      },
+      {
+        "name": "Daniel Paul Cruz",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-05T17:59:17.310Z"
+      },
+      {
+        "name": "Mariavillicana400@gmail.com",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T17:57:32.939Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T17:55:04.813Z"
+      },
       {
         "name": "Craig Norman",
         "calls": 1,
@@ -131,6 +161,30 @@
     ],
     "textedContacts": [
       {
+        "name": "Mike Tertany",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T18:14:16.024Z"
+      },
+      {
+        "name": "Courtney Ryan",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T18:00:18.464Z"
+      },
+      {
+        "name": "Daniel Paul Cruz",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T17:59:17.310Z"
+      },
+      {
+        "name": "Holly Whiteside",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T17:55:04.813Z"
+      },
+      {
         "name": "Craig Norman",
         "texts": 1,
         "responded": false,
@@ -187,7 +241,7 @@
       {
         "name": "Adam Leach",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-08-05T16:29:14.665Z"
       },
       {
@@ -253,12 +307,12 @@
     ]
   },
   "mtd": {
-    "contacts": 63,
-    "uniqueCallsAttempted": 168,
-    "uniqueTextsSent": 151,
+    "contacts": 64,
+    "uniqueCallsAttempted": 173,
+    "uniqueTextsSent": 155,
     "uniqueCallsAnswered": 36,
-    "uniqueTextsResponded": 26,
-    "automationTexted": 29
+    "uniqueTextsResponded": 27,
+    "automationTexted": 30
   },
   "daily": [
     {
@@ -299,13 +353,13 @@
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 19,
-      "uniqueTextsSent": 20,
+      "uniqueCallsAttempted": 24,
+      "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 2,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 3,
       "campaign": null
     }
   ],
-  "conversationsScanned": 169
+  "conversationsScanned": 171
 }
