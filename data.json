@@ -1,19 +1,91 @@
 {
-  "generatedAt": "2026-08-05T23:25:43.420Z",
+  "generatedAt": "2026-08-06T00:52:19.236Z",
   "ranges": {
     "todayIso": "2026-08-05T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-05T23:25:27.859Z"
+    "nowIso": "2026-08-06T00:52:00.873Z"
   },
   "today": {
-    "contacts": 10,
-    "uniqueCallsAttempted": 45,
-    "uniqueTextsSent": 43,
-    "uniqueCallsAnswered": 9,
-    "uniqueTextsResponded": 9,
+    "contacts": 13,
+    "uniqueCallsAttempted": 54,
+    "uniqueTextsSent": 50,
+    "uniqueCallsAnswered": 12,
+    "uniqueTextsResponded": 10,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Teresa Schafer",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-06T00:12:48.397Z"
+      },
+      {
+        "name": "Michelle M. Arnold",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-06T00:05:45.441Z"
+      },
+      {
+        "name": "Megan Lee Petersen",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-06T00:04:18.251Z"
+      },
+      {
+        "name": "Wes Fulkerson",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-06T00:01:18.962Z"
+      },
+      {
+        "name": "Vanessa Quinto",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-06T00:00:36.784Z"
+      },
+      {
+        "name": "Madhu",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T23:59:22.053Z"
+      },
+      {
+        "name": "Gracie Sawyer",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T23:56:15.088Z"
+      },
+      {
+        "name": "Keith Shelton",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-05T23:53:42.925Z"
+      },
+      {
+        "name": "Paul Felstein",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T23:49:55.206Z"
+      },
+      {
+        "name": "Saycheeseifuplease",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-05T23:48:14.698Z"
+      },
+      {
+        "name": "Suzanne Lee",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T23:32:45.255Z"
+      },
+      {
+        "name": "Mike Daddy",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-05T23:28:55.237Z"
+      },
       {
         "name": "Leslie Henson",
         "calls": 2,
@@ -93,12 +165,6 @@
         "lastAt": "2026-08-05T22:43:11.105Z"
       },
       {
-        "name": "Mike Daddy",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-05T22:38:52.918Z"
-      },
-      {
         "name": "Car Carb",
         "calls": 1,
         "answered": false,
@@ -121,12 +187,6 @@
         "calls": 1,
         "answered": false,
         "lastAt": "2026-08-05T22:24:13.154Z"
-      },
-      {
-        "name": "Gracie Sawyer",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-05T22:20:23.218Z"
       },
       {
         "name": "Jamie St Claire",
@@ -207,12 +267,6 @@
         "lastAt": "2026-08-05T16:45:25.217Z"
       },
       {
-        "name": "Madhu",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-05T16:44:07.942Z"
-      },
-      {
         "name": "Kim Maher Fine",
         "calls": 1,
         "answered": false,
@@ -287,6 +341,66 @@
     ],
     "textedContacts": [
       {
+        "name": "Teresa Schafer",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-06T00:12:48.397Z"
+      },
+      {
+        "name": "Michelle M. Arnold",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-06T00:05:45.441Z"
+      },
+      {
+        "name": "Megan Lee Petersen",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-06T00:04:18.251Z"
+      },
+      {
+        "name": "Vanessa Quinto",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-06T00:00:36.784Z"
+      },
+      {
+        "name": "Madhu",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-05T23:59:22.053Z"
+      },
+      {
+        "name": "Gracie Sawyer",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-05T23:56:15.088Z"
+      },
+      {
+        "name": "Keith Shelton",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T23:53:42.925Z"
+      },
+      {
+        "name": "Saycheeseifuplease",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T23:48:14.698Z"
+      },
+      {
+        "name": "Suzanne Lee",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-05T23:32:45.255Z"
+      },
+      {
+        "name": "Mike Daddy",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-05T23:28:55.237Z"
+      },
+      {
         "name": "Leslie Henson",
         "texts": 3,
         "responded": true,
@@ -359,12 +473,6 @@
         "lastAt": "2026-08-05T22:43:11.105Z"
       },
       {
-        "name": "Mike Daddy",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-05T22:38:52.918Z"
-      },
-      {
         "name": "Car Carb",
         "texts": 1,
         "responded": false,
@@ -387,12 +495,6 @@
         "texts": 2,
         "responded": true,
         "lastAt": "2026-08-05T22:24:13.154Z"
-      },
-      {
-        "name": "Gracie Sawyer",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-05T22:20:23.218Z"
       },
       {
         "name": "Gary Short",
@@ -453,12 +555,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-08-05T16:45:25.217Z"
-      },
-      {
-        "name": "Madhu",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-05T16:44:07.942Z"
       },
       {
         "name": "Kim Maher Fine",
@@ -547,12 +643,12 @@
     ]
   },
   "mtd": {
-    "contacts": 67,
-    "uniqueCallsAttempted": 166,
-    "uniqueTextsSent": 150,
-    "uniqueCallsAnswered": 32,
-    "uniqueTextsResponded": 22,
-    "automationTexted": 24
+    "contacts": 70,
+    "uniqueCallsAttempted": 203,
+    "uniqueTextsSent": 181,
+    "uniqueCallsAnswered": 43,
+    "uniqueTextsResponded": 33,
+    "automationTexted": 31
   },
   "daily": [
     {
@@ -561,7 +657,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "automationTexted": 4,
       "campaign": null
     },
     {
@@ -570,36 +666,36 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 7,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 57,
-      "uniqueTextsSent": 49,
-      "uniqueCallsAnswered": 12,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 5,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 11,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 64,
-      "uniqueTextsSent": 58,
-      "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 10,
-      "automationTexted": 5,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 71,
+      "uniqueCallsAnswered": 15,
+      "uniqueTextsResponded": 12,
+      "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 45,
-      "uniqueTextsSent": 43,
-      "uniqueCallsAnswered": 9,
-      "uniqueTextsResponded": 9,
+      "uniqueCallsAttempted": 54,
+      "uniqueTextsSent": 50,
+      "uniqueCallsAnswered": 12,
+      "uniqueTextsResponded": 10,
       "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 176
+  "conversationsScanned": 179
 }
