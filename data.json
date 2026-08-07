@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T23:18:28.288Z",
+  "generatedAt": "2026-08-07T23:59:57.646Z",
   "ranges": {
     "todayIso": "2026-08-07T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-07T23:18:13.566Z"
+    "nowIso": "2026-08-07T23:59:41.803Z"
   },
   "today": {
     "contacts": 9,
@@ -92,11 +92,11 @@
   },
   "mtd": {
     "contacts": 95,
-    "uniqueCallsAttempted": 159,
-    "uniqueTextsSent": 140,
-    "uniqueCallsAnswered": 33,
-    "uniqueTextsResponded": 21,
-    "automationTexted": 26
+    "uniqueCallsAttempted": 175,
+    "uniqueTextsSent": 153,
+    "uniqueCallsAnswered": 39,
+    "uniqueTextsResponded": 29,
+    "automationTexted": 30
   },
   "daily": [
     {
@@ -114,31 +114,31 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 5,
-      "campaign": null
-    },
-    {
-      "date": "2026-08-03",
-      "uniqueCallsAttempted": 44,
-      "uniqueTextsSent": 37,
-      "uniqueCallsAnswered": 9,
-      "uniqueTextsResponded": 4,
-      "automationTexted": 4,
-      "campaign": null
-    },
-    {
-      "date": "2026-08-04",
-      "uniqueCallsAttempted": 43,
-      "uniqueTextsSent": 40,
-      "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 2,
       "automationTexted": 6,
       "campaign": null
     },
     {
+      "date": "2026-08-03",
+      "uniqueCallsAttempted": 56,
+      "uniqueTextsSent": 46,
+      "uniqueCallsAnswered": 12,
+      "uniqueTextsResponded": 11,
+      "automationTexted": 6,
+      "campaign": null
+    },
+    {
+      "date": "2026-08-04",
+      "uniqueCallsAttempted": 48,
+      "uniqueTextsSent": 45,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 7,
+      "campaign": null
+    },
+    {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 54,
-      "uniqueTextsSent": 50,
+      "uniqueCallsAttempted": 53,
+      "uniqueTextsSent": 49,
       "uniqueCallsAnswered": 12,
       "uniqueTextsResponded": 10,
       "automationTexted": 4,
