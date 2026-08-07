@@ -1,144 +1,28 @@
 {
-  "generatedAt": "2026-08-07T02:35:42.326Z",
+  "generatedAt": "2026-08-07T14:55:48.841Z",
   "ranges": {
-    "todayIso": "2026-08-06T07:00:00.000Z",
+    "todayIso": "2026-08-07T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-07T02:35:18.837Z"
+    "nowIso": "2026-08-07T14:55:08.898Z"
   },
   "today": {
-    "contacts": 13,
-    "uniqueCallsAttempted": 12,
-    "uniqueTextsSent": 7,
-    "uniqueCallsAnswered": 3,
-    "uniqueTextsResponded": 2,
-    "automationTexted": 3,
+    "contacts": 0,
+    "uniqueCallsAttempted": 0,
+    "uniqueTextsSent": 0,
+    "uniqueCallsAnswered": 0,
+    "uniqueTextsResponded": 0,
+    "automationTexted": 0,
     "campaign": null,
-    "calledContacts": [
-      {
-        "name": "Paul Felstein",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T17:41:43.869Z"
-      },
-      {
-        "name": "Yariv Elazar",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T17:40:07.187Z"
-      },
-      {
-        "name": "Vanessa Quinto",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T17:29:33.168Z"
-      },
-      {
-        "name": "Gage Mersereau",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-08-06T17:28:03.499Z"
-      },
-      {
-        "name": "Coleman O'daniel",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-08-06T17:23:02.992Z"
-      },
-      {
-        "name": "Keith Shelton",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-08-06T16:59:48.733Z"
-      },
-      {
-        "name": "Charles Green",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T16:58:38.855Z"
-      },
-      {
-        "name": "Daniel Paul Cruz",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T16:56:55.848Z"
-      },
-      {
-        "name": "Jessica Steed",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T16:28:12.767Z"
-      },
-      {
-        "name": "Jamie St Claire",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T16:18:29.408Z"
-      },
-      {
-        "name": "Roger Recker",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T16:11:57.966Z"
-      },
-      {
-        "name": "Craig Norman",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-06T16:08:29.642Z"
-      }
-    ],
-    "textedContacts": [
-      {
-        "name": "Yariv Elazar",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-06T17:40:07.187Z"
-      },
-      {
-        "name": "Gage Mersereau",
-        "texts": 3,
-        "responded": true,
-        "lastAt": "2026-08-06T17:28:03.499Z"
-      },
-      {
-        "name": "Charles Green",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-06T16:58:38.855Z"
-      },
-      {
-        "name": "Daniel Paul Cruz",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-06T16:56:55.848Z"
-      },
-      {
-        "name": "Roger Recker",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-06T16:11:57.966Z"
-      },
-      {
-        "name": "Craig Norman",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-06T16:08:29.642Z"
-      },
-      {
-        "name": "Jorge Olmos",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-06T15:01:07.506Z"
-      }
-    ]
+    "calledContacts": [],
+    "textedContacts": []
   },
   "mtd": {
-    "contacts": 84,
+    "contacts": 86,
     "uniqueCallsAttempted": 215,
     "uniqueTextsSent": 188,
     "uniqueCallsAnswered": 46,
     "uniqueTextsResponded": 35,
-    "automationTexted": 33
+    "automationTexted": 35
   },
   "daily": [
     {
@@ -165,7 +49,7 @@
       "uniqueTextsSent": 60,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 11,
-      "automationTexted": 7,
+      "automationTexted": 8,
       "campaign": null
     },
     {
@@ -192,9 +76,9 @@
       "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 2,
-      "automationTexted": 3,
+      "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 193
+  "conversationsScanned": 195
 }
