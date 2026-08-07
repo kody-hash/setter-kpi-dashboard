@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-07T20:06:43.925Z",
+  "generatedAt": "2026-08-07T20:59:50.100Z",
   "ranges": {
     "todayIso": "2026-08-07T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-07T20:06:21.953Z"
+    "nowIso": "2026-08-07T20:59:26.318Z"
   },
   "today": {
     "contacts": 8,
     "uniqueCallsAttempted": 6,
-    "uniqueTextsSent": 4,
+    "uniqueTextsSent": 6,
     "uniqueCallsAnswered": 5,
-    "uniqueTextsResponded": 1,
+    "uniqueTextsResponded": 3,
     "automationTexted": 0,
     "campaign": null,
     "calledContacts": [
@@ -18,13 +18,13 @@
         "name": "Teema Grace",
         "calls": 2,
         "answered": true,
-        "lastAt": "2026-08-07T19:54:36.760Z"
+        "lastAt": "2026-08-07T20:54:51.759Z"
       },
       {
         "name": "Chris Portillo",
         "calls": 2,
         "answered": true,
-        "lastAt": "2026-08-07T19:46:29.715Z"
+        "lastAt": "2026-08-07T20:22:15.011Z"
       },
       {
         "name": "David Linke",
@@ -53,6 +53,18 @@
     ],
     "textedContacts": [
       {
+        "name": "Teema Grace",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-07T20:54:51.759Z"
+      },
+      {
+        "name": "Chris Portillo",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-07T20:22:15.011Z"
+      },
+      {
         "name": "Cody Fsk",
         "texts": 1,
         "responded": false,
@@ -80,10 +92,10 @@
   },
   "mtd": {
     "contacts": 94,
-    "uniqueCallsAttempted": 221,
-    "uniqueTextsSent": 192,
+    "uniqueCallsAttempted": 220,
+    "uniqueTextsSent": 194,
     "uniqueCallsAnswered": 51,
-    "uniqueTextsResponded": 36,
+    "uniqueTextsResponded": 38,
     "automationTexted": 35
   },
   "daily": [
@@ -107,7 +119,7 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 72,
+      "uniqueCallsAttempted": 71,
       "uniqueTextsSent": 60,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 11,
@@ -144,9 +156,9 @@
     {
       "date": "2026-08-07",
       "uniqueCallsAttempted": 6,
-      "uniqueTextsSent": 4,
+      "uniqueTextsSent": 6,
       "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 1,
+      "uniqueTextsResponded": 3,
       "automationTexted": 0,
       "campaign": null
     }
