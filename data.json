@@ -1,27 +1,75 @@
 {
-  "generatedAt": "2026-08-07T19:16:29.419Z",
+  "generatedAt": "2026-08-07T20:06:43.925Z",
   "ranges": {
     "todayIso": "2026-08-07T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-07T19:15:59.947Z"
+    "nowIso": "2026-08-07T20:06:21.953Z"
   },
   "today": {
     "contacts": 8,
-    "uniqueCallsAttempted": 1,
-    "uniqueTextsSent": 1,
-    "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 0,
+    "uniqueCallsAttempted": 6,
+    "uniqueTextsSent": 4,
+    "uniqueCallsAnswered": 5,
+    "uniqueTextsResponded": 1,
     "automationTexted": 0,
     "campaign": null,
     "calledContacts": [
       {
+        "name": "Teema Grace",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-07T19:54:36.760Z"
+      },
+      {
+        "name": "Chris Portillo",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-07T19:46:29.715Z"
+      },
+      {
+        "name": "David Linke",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-07T19:43:33.537Z"
+      },
+      {
+        "name": "Cody Fsk",
+        "calls": 3,
+        "answered": false,
+        "lastAt": "2026-08-07T19:42:36.170Z"
+      },
+      {
+        "name": "David Persico",
+        "calls": 3,
+        "answered": true,
+        "lastAt": "2026-08-07T19:41:27.283Z"
+      },
+      {
         "name": "Steven Larsen",
         "calls": 2,
         "answered": true,
-        "lastAt": "2026-08-07T19:09:50.997Z"
+        "lastAt": "2026-08-07T19:21:30.266Z"
       }
     ],
     "textedContacts": [
+      {
+        "name": "Cody Fsk",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-07T19:42:36.170Z"
+      },
+      {
+        "name": "David Persico",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-07T19:41:27.283Z"
+      },
+      {
+        "name": "Steven Larsen",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-07T19:21:30.266Z"
+      },
       {
         "name": "Coleman O'daniel",
         "texts": 1,
@@ -32,10 +80,10 @@
   },
   "mtd": {
     "contacts": 94,
-    "uniqueCallsAttempted": 216,
-    "uniqueTextsSent": 189,
-    "uniqueCallsAnswered": 47,
-    "uniqueTextsResponded": 35,
+    "uniqueCallsAttempted": 221,
+    "uniqueTextsSent": 192,
+    "uniqueCallsAnswered": 51,
+    "uniqueTextsResponded": 36,
     "automationTexted": 35
   },
   "daily": [
@@ -95,10 +143,10 @@
     },
     {
       "date": "2026-08-07",
-      "uniqueCallsAttempted": 1,
-      "uniqueTextsSent": 1,
-      "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 0,
+      "uniqueCallsAttempted": 6,
+      "uniqueTextsSent": 4,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 1,
       "automationTexted": 0,
       "campaign": null
     }
