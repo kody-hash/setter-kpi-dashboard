@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-10T15:02:20.828Z",
+  "generatedAt": "2026-08-10T16:10:07.533Z",
   "ranges": {
     "todayIso": "2026-08-10T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-10T15:00:58.073Z"
+    "nowIso": "2026-08-10T16:09:15.581Z"
   },
   "today": {
-    "contacts": 1,
+    "contacts": 3,
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 0,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
-    "automationTexted": 1,
+    "automationTexted": 2,
     "campaign": null,
     "calledContacts": [],
     "textedContacts": []
   },
   "mtd": {
-    "contacts": 115,
-    "uniqueCallsAttempted": 221,
-    "uniqueTextsSent": 194,
+    "contacts": 117,
+    "uniqueCallsAttempted": 218,
+    "uniqueTextsSent": 191,
     "uniqueCallsAnswered": 51,
     "uniqueTextsResponded": 38,
-    "automationTexted": 53
+    "automationTexted": 54
   },
   "daily": [
     {
@@ -45,8 +45,8 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 72,
-      "uniqueTextsSent": 60,
+      "uniqueCallsAttempted": 71,
+      "uniqueTextsSent": 59,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 11,
       "automationTexted": 8,
@@ -54,8 +54,8 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 77,
-      "uniqueTextsSent": 71,
+      "uniqueCallsAttempted": 76,
+      "uniqueTextsSent": 70,
       "uniqueCallsAnswered": 15,
       "uniqueTextsResponded": 12,
       "automationTexted": 7,
@@ -63,8 +63,8 @@
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 54,
-      "uniqueTextsSent": 50,
+      "uniqueCallsAttempted": 53,
+      "uniqueTextsSent": 49,
       "uniqueCallsAnswered": 12,
       "uniqueTextsResponded": 10,
       "automationTexted": 4,
@@ -112,9 +112,9 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 1,
+      "automationTexted": 2,
       "campaign": null
     }
   ],
-  "conversationsScanned": 228
+  "conversationsScanned": 229
 }
