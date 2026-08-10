@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-10T17:09:49.641Z",
+  "generatedAt": "2026-08-10T18:04:50.245Z",
   "ranges": {
     "todayIso": "2026-08-10T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-10T17:09:23.465Z"
+    "nowIso": "2026-08-10T18:03:52.403Z"
   },
   "today": {
-    "contacts": 5,
+    "contacts": 6,
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 0,
     "uniqueCallsAnswered": 0,
@@ -17,11 +17,11 @@
     "textedContacts": []
   },
   "mtd": {
-    "contacts": 119,
-    "uniqueCallsAttempted": 213,
-    "uniqueTextsSent": 186,
-    "uniqueCallsAnswered": 50,
-    "uniqueTextsResponded": 33,
+    "contacts": 120,
+    "uniqueCallsAttempted": 221,
+    "uniqueTextsSent": 194,
+    "uniqueCallsAnswered": 51,
+    "uniqueTextsResponded": 38,
     "automationTexted": 54
   },
   "daily": [
@@ -45,17 +45,17 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 64,
-      "uniqueTextsSent": 53,
-      "uniqueCallsAnswered": 15,
-      "uniqueTextsResponded": 6,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 11,
       "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
       "uniqueCallsAttempted": 77,
-      "uniqueTextsSent": 70,
+      "uniqueTextsSent": 71,
       "uniqueCallsAnswered": 15,
       "uniqueTextsResponded": 12,
       "automationTexted": 7,
@@ -116,5 +116,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 230
+  "conversationsScanned": 232
 }
