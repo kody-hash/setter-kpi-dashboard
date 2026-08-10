@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-10T22:49:27.146Z",
+  "generatedAt": "2026-08-10T23:38:02.551Z",
   "ranges": {
     "todayIso": "2026-08-10T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-10T22:49:01.130Z"
+    "nowIso": "2026-08-10T23:37:33.557Z"
   },
   "today": {
     "contacts": 8,
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 2,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 1,
+    "uniqueTextsResponded": 2,
     "automationTexted": 3,
     "campaign": null,
     "calledContacts": [],
     "textedContacts": [
       {
         "name": "Danny Corral",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-10T22:48:57.198Z"
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-10T22:50:42.490Z"
       },
       {
         "name": "Jo Ann Long",
@@ -31,11 +31,11 @@
   },
   "mtd": {
     "contacts": 122,
-    "uniqueCallsAttempted": 193,
-    "uniqueTextsSent": 172,
-    "uniqueCallsAnswered": 48,
-    "uniqueTextsResponded": 35,
-    "automationTexted": 53
+    "uniqueCallsAttempted": 218,
+    "uniqueTextsSent": 193,
+    "uniqueCallsAnswered": 50,
+    "uniqueTextsResponded": 40,
+    "automationTexted": 55
   },
   "daily": [
     {
@@ -44,7 +44,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "automationTexted": 4,
       "campaign": null
     },
     {
@@ -58,28 +58,28 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 65,
-      "uniqueTextsSent": 55,
-      "uniqueCallsAnswered": 15,
-      "uniqueTextsResponded": 10,
+      "uniqueCallsAttempted": 71,
+      "uniqueTextsSent": 59,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 11,
       "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 67,
-      "uniqueTextsSent": 62,
-      "uniqueCallsAnswered": 15,
-      "uniqueTextsResponded": 11,
-      "automationTexted": 6,
+      "uniqueCallsAttempted": 76,
+      "uniqueTextsSent": 70,
+      "uniqueCallsAnswered": 14,
+      "uniqueTextsResponded": 12,
+      "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 43,
-      "uniqueTextsSent": 40,
-      "uniqueCallsAnswered": 10,
-      "uniqueTextsResponded": 8,
+      "uniqueCallsAttempted": 53,
+      "uniqueTextsSent": 49,
+      "uniqueCallsAnswered": 12,
+      "uniqueTextsResponded": 10,
       "automationTexted": 4,
       "campaign": null
     },
@@ -124,7 +124,7 @@
       "uniqueCallsAttempted": 0,
       "uniqueTextsSent": 2,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 1,
+      "uniqueTextsResponded": 2,
       "automationTexted": 3,
       "campaign": null
     }
