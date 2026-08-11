@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T00:34:11.193Z",
+  "generatedAt": "2026-08-11T01:38:24.659Z",
   "ranges": {
     "todayIso": "2026-08-10T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-11T00:33:52.841Z"
+    "nowIso": "2026-08-11T01:38:11.818Z"
   },
   "today": {
     "contacts": 9,
@@ -31,11 +31,11 @@
   },
   "mtd": {
     "contacts": 123,
-    "uniqueCallsAttempted": 142,
-    "uniqueTextsSent": 121,
-    "uniqueCallsAnswered": 38,
-    "uniqueTextsResponded": 32,
-    "automationTexted": 47
+    "uniqueCallsAttempted": 93,
+    "uniqueTextsSent": 78,
+    "uniqueCallsAnswered": 21,
+    "uniqueTextsResponded": 22,
+    "automationTexted": 37
   },
   "daily": [
     {
@@ -44,7 +44,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "automationTexted": 2,
       "campaign": null
     },
     {
@@ -53,32 +53,32 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 8,
+      "automationTexted": 5,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 50,
-      "uniqueTextsSent": 40,
-      "uniqueCallsAnswered": 13,
+      "uniqueCallsAttempted": 34,
+      "uniqueTextsSent": 26,
+      "uniqueCallsAnswered": 7,
       "uniqueTextsResponded": 9,
-      "automationTexted": 6,
+      "automationTexted": 2,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 52,
-      "uniqueTextsSent": 47,
-      "uniqueCallsAnswered": 12,
-      "uniqueTextsResponded": 10,
-      "automationTexted": 4,
+      "uniqueCallsAttempted": 18,
+      "uniqueTextsSent": 18,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 2,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 22,
+      "uniqueCallsAttempted": 23,
       "uniqueTextsSent": 19,
-      "uniqueCallsAnswered": 5,
+      "uniqueCallsAnswered": 4,
       "uniqueTextsResponded": 6,
       "automationTexted": 2,
       "campaign": null
@@ -129,5 +129,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 240
+  "conversationsScanned": 241
 }
