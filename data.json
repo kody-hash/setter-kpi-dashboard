@@ -1,28 +1,47 @@
 {
-  "generatedAt": "2026-08-12T01:49:16.521Z",
+  "generatedAt": "2026-08-12T15:01:17.065Z",
   "ranges": {
-    "todayIso": "2026-08-11T07:00:00.000Z",
+    "todayIso": "2026-08-12T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-12T01:49:00.263Z"
+    "nowIso": "2026-08-12T14:59:32.016Z"
   },
   "today": {
-    "contacts": 6,
+    "contacts": 1,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 0,
+    "uniqueTextsSent": 3,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
-    "automationTexted": 3,
+    "automationTexted": 1,
     "campaign": null,
     "calledContacts": [],
-    "textedContacts": []
+    "textedContacts": [
+      {
+        "name": "_marocco_",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-12T14:52:04.508Z"
+      },
+      {
+        "name": "Todd Sumney",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-12T14:49:53.172Z"
+      },
+      {
+        "name": "(623) 451-5132",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-12T14:48:57.587Z"
+      }
+    ]
   },
   "mtd": {
-    "contacts": 129,
-    "uniqueCallsAttempted": 72,
-    "uniqueTextsSent": 57,
-    "uniqueCallsAnswered": 16,
-    "uniqueTextsResponded": 18,
-    "automationTexted": 36
+    "contacts": 133,
+    "uniqueCallsAttempted": 221,
+    "uniqueTextsSent": 199,
+    "uniqueCallsAnswered": 51,
+    "uniqueTextsResponded": 40,
+    "automationTexted": 61
   },
   "daily": [
     {
@@ -31,7 +50,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 2,
+      "automationTexted": 4,
       "campaign": null
     },
     {
@@ -40,34 +59,34 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 4,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 28,
-      "uniqueTextsSent": 20,
-      "uniqueCallsAnswered": 5,
-      "uniqueTextsResponded": 8,
-      "automationTexted": 2,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
+      "uniqueCallsAnswered": 16,
+      "uniqueTextsResponded": 11,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 12,
-      "uniqueTextsSent": 11,
-      "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 0,
-      "automationTexted": 1,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 71,
+      "uniqueCallsAnswered": 15,
+      "uniqueTextsResponded": 12,
+      "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 14,
-      "uniqueTextsSent": 11,
-      "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 1,
+      "uniqueCallsAttempted": 54,
+      "uniqueTextsSent": 50,
+      "uniqueCallsAnswered": 12,
+      "uniqueTextsResponded": 10,
+      "automationTexted": 4,
       "campaign": null
     },
     {
@@ -76,7 +95,7 @@
       "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 2,
-      "automationTexted": 3,
+      "automationTexted": 4,
       "campaign": null
     },
     {
@@ -121,9 +140,18 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "automationTexted": 5,
+      "campaign": null
+    },
+    {
+      "date": "2026-08-12",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 3,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 1,
       "campaign": null
     }
   ],
-  "conversationsScanned": 248
+  "conversationsScanned": 252
 }
