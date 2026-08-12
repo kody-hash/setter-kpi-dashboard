@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-12T22:03:26.554Z",
+  "generatedAt": "2026-08-12T23:02:41.015Z",
   "ranges": {
     "todayIso": "2026-08-12T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-12T22:02:52.829Z"
+    "nowIso": "2026-08-12T23:02:07.645Z"
   },
   "today": {
-    "contacts": 4,
+    "contacts": 6,
     "uniqueCallsAttempted": 1,
     "uniqueTextsSent": 8,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 2,
+    "uniqueTextsResponded": 3,
     "automationTexted": 2,
     "campaign": null,
     "calledContacts": [
@@ -25,7 +25,7 @@
       {
         "name": "Keith Shelton",
         "texts": 2,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-08-12T15:58:29.286Z"
       },
       {
@@ -73,11 +73,11 @@
     ]
   },
   "mtd": {
-    "contacts": 136,
-    "uniqueCallsAttempted": 218,
-    "uniqueTextsSent": 201,
-    "uniqueCallsAnswered": 50,
-    "uniqueTextsResponded": 41,
+    "contacts": 138,
+    "uniqueCallsAttempted": 222,
+    "uniqueTextsSent": 204,
+    "uniqueCallsAnswered": 52,
+    "uniqueTextsResponded": 43,
     "automationTexted": 62
   },
   "daily": [
@@ -101,8 +101,8 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 71,
-      "uniqueTextsSent": 59,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 11,
       "automationTexted": 8,
@@ -110,10 +110,10 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 74,
-      "uniqueTextsSent": 69,
-      "uniqueCallsAnswered": 13,
-      "uniqueTextsResponded": 11,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 71,
+      "uniqueCallsAnswered": 15,
+      "uniqueTextsResponded": 12,
       "automationTexted": 7,
       "campaign": null
     },
@@ -185,7 +185,7 @@
       "uniqueCallsAttempted": 1,
       "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 2,
+      "uniqueTextsResponded": 3,
       "automationTexted": 2,
       "campaign": null
     }
