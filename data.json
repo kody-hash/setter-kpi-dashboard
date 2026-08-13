@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-13T19:28:09.581Z",
+  "generatedAt": "2026-08-13T20:05:50.156Z",
   "ranges": {
     "todayIso": "2026-08-13T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-13T19:26:17.486Z"
+    "nowIso": "2026-08-13T20:05:09.492Z"
   },
   "today": {
-    "contacts": 5,
+    "contacts": 6,
     "uniqueCallsAttempted": 2,
     "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 1,
     "uniqueTextsResponded": 3,
-    "automationTexted": 0,
+    "automationTexted": 1,
     "campaign": null,
     "calledContacts": [
       {
@@ -28,6 +28,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Tom Gee",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-08-13T19:33:28.017Z"
+      },
       {
         "name": "Gregory Cekalovich",
         "texts": 7,
@@ -155,12 +161,6 @@
         "lastAt": "2026-08-13T17:29:23.203Z"
       },
       {
-        "name": "Tom Gee",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-13T17:28:54.450Z"
-      },
-      {
         "name": "Jocelyn Brandon",
         "texts": 1,
         "responded": false,
@@ -175,12 +175,12 @@
     ]
   },
   "mtd": {
-    "contacts": 148,
+    "contacts": 149,
     "uniqueCallsAttempted": 224,
     "uniqueTextsSent": 228,
     "uniqueCallsAnswered": 53,
     "uniqueTextsResponded": 46,
-    "automationTexted": 65
+    "automationTexted": 66
   },
   "daily": [
     {
@@ -297,9 +297,9 @@
       "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 3,
-      "automationTexted": 0,
+      "automationTexted": 1,
       "campaign": null
     }
   ],
-  "conversationsScanned": 267
+  "conversationsScanned": 268
 }
