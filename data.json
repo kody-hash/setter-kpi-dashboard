@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-13T20:05:50.156Z",
+  "generatedAt": "2026-08-13T21:04:47.024Z",
   "ranges": {
     "todayIso": "2026-08-13T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-13T20:05:09.492Z"
+    "nowIso": "2026-08-13T21:04:08.227Z"
   },
   "today": {
-    "contacts": 6,
+    "contacts": 8,
     "uniqueCallsAttempted": 2,
     "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 1,
@@ -175,7 +175,7 @@
     ]
   },
   "mtd": {
-    "contacts": 149,
+    "contacts": 151,
     "uniqueCallsAttempted": 224,
     "uniqueTextsSent": 228,
     "uniqueCallsAnswered": 53,
@@ -301,5 +301,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 268
+  "conversationsScanned": 269
 }
