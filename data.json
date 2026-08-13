@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-13T22:04:27.648Z",
+  "generatedAt": "2026-08-13T23:03:55.548Z",
   "ranges": {
     "todayIso": "2026-08-13T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-13T22:03:45.854Z"
+    "nowIso": "2026-08-13T23:03:20.926Z"
   },
   "today": {
-    "contacts": 10,
+    "contacts": 13,
     "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 24,
+    "uniqueTextsSent": 27,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 3,
-    "automationTexted": 1,
+    "uniqueTextsResponded": 4,
+    "automationTexted": 3,
     "campaign": null,
     "calledContacts": [
       {
@@ -28,6 +28,24 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Gary Chen",
+        "texts": 1,
+        "responded": true,
+        "lastAt": "2026-08-13T22:25:17.428Z"
+      },
+      {
+        "name": "Brian Omar",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T22:24:49.891Z"
+      },
+      {
+        "name": "Cheryl White",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T22:24:13.989Z"
+      },
       {
         "name": "Tom Gee",
         "texts": 3,
@@ -175,12 +193,12 @@
     ]
   },
   "mtd": {
-    "contacts": 153,
+    "contacts": 156,
     "uniqueCallsAttempted": 224,
-    "uniqueTextsSent": 228,
+    "uniqueTextsSent": 231,
     "uniqueCallsAnswered": 53,
-    "uniqueTextsResponded": 46,
-    "automationTexted": 66
+    "uniqueTextsResponded": 47,
+    "automationTexted": 68
   },
   "daily": [
     {
@@ -294,12 +312,12 @@
     {
       "date": "2026-08-13",
       "uniqueCallsAttempted": 2,
-      "uniqueTextsSent": 24,
+      "uniqueTextsSent": 27,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 3,
-      "automationTexted": 1,
+      "uniqueTextsResponded": 4,
+      "automationTexted": 3,
       "campaign": null
     }
   ],
-  "conversationsScanned": 269
+  "conversationsScanned": 272
 }
