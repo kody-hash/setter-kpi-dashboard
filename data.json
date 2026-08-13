@@ -1,27 +1,185 @@
 {
-  "generatedAt": "2026-08-13T17:14:04.959Z",
+  "generatedAt": "2026-08-13T18:12:04.178Z",
   "ranges": {
     "todayIso": "2026-08-13T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-13T17:13:19.749Z"
+    "nowIso": "2026-08-13T18:09:57.341Z"
   },
   "today": {
-    "contacts": 2,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 0,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
+    "contacts": 4,
+    "uniqueCallsAttempted": 2,
+    "uniqueTextsSent": 24,
+    "uniqueCallsAnswered": 1,
+    "uniqueTextsResponded": 2,
     "automationTexted": 0,
     "campaign": null,
-    "calledContacts": [],
-    "textedContacts": []
+    "calledContacts": [
+      {
+        "name": "Ram Ramirez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-13T17:37:52.513Z"
+      },
+      {
+        "name": "Keith Shelton",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-13T17:24:58.465Z"
+      }
+    ],
+    "textedContacts": [
+      {
+        "name": "Cara Wakefield",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-08-13T18:08:57.773Z"
+      },
+      {
+        "name": "Gregory Cekalovich",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-13T18:08:08.081Z"
+      },
+      {
+        "name": "Christian Lacasse",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T18:06:30.577Z"
+      },
+      {
+        "name": "Joe",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T18:06:04.786Z"
+      },
+      {
+        "name": "Leigh",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T18:03:39.951Z"
+      },
+      {
+        "name": "Kelly Gillespie Hatch",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:50:38.425Z"
+      },
+      {
+        "name": "Andrew Hehr",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:50:17.592Z"
+      },
+      {
+        "name": "Linda Marino",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:49:31.033Z"
+      },
+      {
+        "name": "Leroy Johnson",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:48:22.052Z"
+      },
+      {
+        "name": "Megan Groh",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:46:21.944Z"
+      },
+      {
+        "name": "Danny Corral",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:45:19.201Z"
+      },
+      {
+        "name": "Larry Mack",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:43:45.818Z"
+      },
+      {
+        "name": "Terry Day",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:43:09.791Z"
+      },
+      {
+        "name": "Kelly Jensen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:42:47.376Z"
+      },
+      {
+        "name": "Robert Skrip",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:42:19.278Z"
+      },
+      {
+        "name": "Merri Lininger Cox",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:41:24.589Z"
+      },
+      {
+        "name": "Hope Starr",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:40:36.759Z"
+      },
+      {
+        "name": "Jorge Rojo",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:39:44.641Z"
+      },
+      {
+        "name": "Alejandro Ortega",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:37:20.012Z"
+      },
+      {
+        "name": "Paul Aslanian",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:33:57.577Z"
+      },
+      {
+        "name": "Lisa Mcdermed",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:29:23.203Z"
+      },
+      {
+        "name": "Tom Gee",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:28:54.450Z"
+      },
+      {
+        "name": "Jocelyn Brandon",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:28:31.264Z"
+      },
+      {
+        "name": "Keith Shelton",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-13T17:24:58.465Z"
+      }
+    ]
   },
   "mtd": {
-    "contacts": 145,
-    "uniqueCallsAttempted": 222,
-    "uniqueTextsSent": 204,
-    "uniqueCallsAnswered": 52,
-    "uniqueTextsResponded": 43,
+    "contacts": 147,
+    "uniqueCallsAttempted": 224,
+    "uniqueTextsSent": 228,
+    "uniqueCallsAnswered": 53,
+    "uniqueTextsResponded": 45,
     "automationTexted": 65
   },
   "daily": [
@@ -135,13 +293,13 @@
     },
     {
       "date": "2026-08-13",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 0,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0,
+      "uniqueCallsAttempted": 2,
+      "uniqueTextsSent": 24,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 2,
       "automationTexted": 0,
       "campaign": null
     }
   ],
-  "conversationsScanned": 265
+  "conversationsScanned": 266
 }
