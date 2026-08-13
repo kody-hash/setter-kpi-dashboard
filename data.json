@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T23:59:05.903Z",
+  "generatedAt": "2026-08-13T01:51:24.790Z",
   "ranges": {
     "todayIso": "2026-08-12T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-12T23:58:46.438Z"
+    "nowIso": "2026-08-13T01:51:09.189Z"
   },
   "today": {
     "contacts": 7,
@@ -74,11 +74,11 @@
   },
   "mtd": {
     "contacts": 139,
-    "uniqueCallsAttempted": 143,
-    "uniqueTextsSent": 134,
-    "uniqueCallsAnswered": 40,
-    "uniqueTextsResponded": 33,
-    "automationTexted": 51
+    "uniqueCallsAttempted": 58,
+    "uniqueTextsSent": 46,
+    "uniqueCallsAnswered": 17,
+    "uniqueTextsResponded": 17,
+    "automationTexted": 39
   },
   "daily": [
     {
@@ -96,40 +96,40 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 4,
+      "automationTexted": 3,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 49,
-      "uniqueTextsSent": 41,
-      "uniqueCallsAnswered": 11,
-      "uniqueTextsResponded": 11,
-      "automationTexted": 8,
+      "uniqueCallsAttempted": 23,
+      "uniqueTextsSent": 14,
+      "uniqueCallsAnswered": 4,
+      "uniqueTextsResponded": 7,
+      "automationTexted": 3,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 52,
-      "uniqueTextsSent": 48,
-      "uniqueCallsAnswered": 13,
-      "uniqueTextsResponded": 11,
-      "automationTexted": 5,
+      "uniqueCallsAttempted": 8,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 1,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 1,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 25,
-      "uniqueTextsSent": 24,
-      "uniqueCallsAnswered": 7,
-      "uniqueTextsResponded": 2,
-      "automationTexted": 3,
+      "uniqueCallsAttempted": 10,
+      "uniqueTextsSent": 7,
+      "uniqueCallsAnswered": 3,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 1,
       "campaign": null
     },
     {
       "date": "2026-08-06",
       "uniqueCallsAttempted": 10,
-      "uniqueTextsSent": 5,
+      "uniqueTextsSent": 4,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 1,
       "automationTexted": 2,
