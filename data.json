@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-13T18:12:04.178Z",
+  "generatedAt": "2026-08-13T19:28:09.581Z",
   "ranges": {
     "todayIso": "2026-08-13T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-13T18:09:57.341Z"
+    "nowIso": "2026-08-13T19:26:17.486Z"
   },
   "today": {
-    "contacts": 4,
+    "contacts": 5,
     "uniqueCallsAttempted": 2,
     "uniqueTextsSent": 24,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 2,
+    "uniqueTextsResponded": 3,
     "automationTexted": 0,
     "campaign": null,
     "calledContacts": [
@@ -29,16 +29,16 @@
     ],
     "textedContacts": [
       {
-        "name": "Cara Wakefield",
-        "texts": 4,
+        "name": "Gregory Cekalovich",
+        "texts": 7,
         "responded": true,
-        "lastAt": "2026-08-13T18:08:57.773Z"
+        "lastAt": "2026-08-13T18:21:19.909Z"
       },
       {
-        "name": "Gregory Cekalovich",
-        "texts": 2,
+        "name": "Cara Wakefield",
+        "texts": 5,
         "responded": true,
-        "lastAt": "2026-08-13T18:08:08.081Z"
+        "lastAt": "2026-08-13T18:11:12.118Z"
       },
       {
         "name": "Christian Lacasse",
@@ -157,7 +157,7 @@
       {
         "name": "Tom Gee",
         "texts": 1,
-        "responded": false,
+        "responded": true,
         "lastAt": "2026-08-13T17:28:54.450Z"
       },
       {
@@ -175,11 +175,11 @@
     ]
   },
   "mtd": {
-    "contacts": 147,
+    "contacts": 148,
     "uniqueCallsAttempted": 224,
     "uniqueTextsSent": 228,
     "uniqueCallsAnswered": 53,
-    "uniqueTextsResponded": 45,
+    "uniqueTextsResponded": 46,
     "automationTexted": 65
   },
   "daily": [
@@ -296,10 +296,10 @@
       "uniqueCallsAttempted": 2,
       "uniqueTextsSent": 24,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 2,
+      "uniqueTextsResponded": 3,
       "automationTexted": 0,
       "campaign": null
     }
   ],
-  "conversationsScanned": 266
+  "conversationsScanned": 267
 }
