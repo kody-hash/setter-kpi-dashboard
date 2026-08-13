@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T15:01:31.625Z",
+  "generatedAt": "2026-08-13T16:10:58.173Z",
   "ranges": {
     "todayIso": "2026-08-13T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-13T15:00:17.415Z"
+    "nowIso": "2026-08-13T16:10:11.991Z"
   },
   "today": {
     "contacts": 0,
@@ -143,5 +143,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 260
+  "conversationsScanned": 264
 }
