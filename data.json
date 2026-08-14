@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-14T19:00:53.447Z",
+  "generatedAt": "2026-08-14T19:52:03.613Z",
   "ranges": {
     "todayIso": "2026-08-14T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-14T19:00:06.082Z"
+    "nowIso": "2026-08-14T19:51:19.420Z"
   },
   "today": {
-    "contacts": 4,
+    "contacts": 5,
     "uniqueCallsAttempted": 1,
     "uniqueTextsSent": 0,
     "uniqueCallsAnswered": 0,
@@ -24,9 +24,9 @@
     "textedContacts": []
   },
   "mtd": {
-    "contacts": 161,
-    "uniqueCallsAttempted": 221,
-    "uniqueTextsSent": 227,
+    "contacts": 162,
+    "uniqueCallsAttempted": 225,
+    "uniqueTextsSent": 231,
     "uniqueCallsAnswered": 53,
     "uniqueTextsResponded": 47,
     "automationTexted": 69
@@ -52,8 +52,8 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 71,
-      "uniqueTextsSent": 59,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
       "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 11,
       "automationTexted": 8,
@@ -61,8 +61,8 @@
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 76,
-      "uniqueTextsSent": 70,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 71,
       "uniqueCallsAnswered": 15,
       "uniqueTextsResponded": 12,
       "automationTexted": 7,
@@ -70,8 +70,8 @@
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 53,
-      "uniqueTextsSent": 49,
+      "uniqueCallsAttempted": 54,
+      "uniqueTextsSent": 50,
       "uniqueCallsAnswered": 12,
       "uniqueTextsResponded": 10,
       "automationTexted": 4,
@@ -79,8 +79,8 @@
     },
     {
       "date": "2026-08-06",
-      "uniqueCallsAttempted": 11,
-      "uniqueTextsSent": 6,
+      "uniqueCallsAttempted": 12,
+      "uniqueTextsSent": 7,
       "uniqueCallsAnswered": 3,
       "uniqueTextsResponded": 2,
       "automationTexted": 4,
@@ -159,5 +159,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 283
+  "conversationsScanned": 284
 }
