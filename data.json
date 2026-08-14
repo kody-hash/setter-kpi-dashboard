@@ -1,24 +1,31 @@
 {
-  "generatedAt": "2026-08-14T15:55:39.075Z",
+  "generatedAt": "2026-08-14T16:57:06.859Z",
   "ranges": {
     "todayIso": "2026-08-14T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-14T15:54:35.121Z"
+    "nowIso": "2026-08-14T16:56:27.938Z"
   },
   "today": {
     "contacts": 3,
-    "uniqueCallsAttempted": 0,
+    "uniqueCallsAttempted": 1,
     "uniqueTextsSent": 0,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
     "automationTexted": 1,
     "campaign": null,
-    "calledContacts": [],
+    "calledContacts": [
+      {
+        "name": "Tanner Riggs",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-14T16:56:20.797Z"
+      }
+    ],
     "textedContacts": []
   },
   "mtd": {
     "contacts": 160,
-    "uniqueCallsAttempted": 224,
+    "uniqueCallsAttempted": 225,
     "uniqueTextsSent": 231,
     "uniqueCallsAnswered": 53,
     "uniqueTextsResponded": 47,
@@ -144,7 +151,7 @@
     },
     {
       "date": "2026-08-14",
-      "uniqueCallsAttempted": 0,
+      "uniqueCallsAttempted": 1,
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
@@ -152,5 +159,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 278
+  "conversationsScanned": 281
 }
