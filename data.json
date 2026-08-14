@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T22:42:00.904Z",
+  "generatedAt": "2026-08-14T23:02:02.115Z",
   "ranges": {
     "todayIso": "2026-08-14T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-14T22:41:25.815Z"
+    "nowIso": "2026-08-14T23:01:23.122Z"
   },
   "today": {
-    "contacts": 6,
+    "contacts": 7,
     "uniqueCallsAttempted": 2,
     "uniqueTextsSent": 1,
-    "uniqueCallsAnswered": 0,
+    "uniqueCallsAnswered": 1,
     "uniqueTextsResponded": 1,
     "automationTexted": 1,
     "campaign": null,
@@ -17,8 +17,8 @@
       {
         "name": "Daniel Paul Cruz",
         "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-14T22:38:18.641Z"
+        "answered": true,
+        "lastAt": "2026-08-14T22:44:30.543Z"
       },
       {
         "name": "Tanner Riggs",
@@ -30,17 +30,17 @@
     "textedContacts": [
       {
         "name": "Daniel Paul Cruz",
-        "texts": 1,
+        "texts": 2,
         "responded": true,
-        "lastAt": "2026-08-14T22:38:18.641Z"
+        "lastAt": "2026-08-14T22:44:30.543Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 163,
+    "contacts": 164,
     "uniqueCallsAttempted": 226,
     "uniqueTextsSent": 232,
-    "uniqueCallsAnswered": 53,
+    "uniqueCallsAnswered": 54,
     "uniqueTextsResponded": 48,
     "automationTexted": 69
   },
@@ -166,11 +166,11 @@
       "date": "2026-08-14",
       "uniqueCallsAttempted": 2,
       "uniqueTextsSent": 1,
-      "uniqueCallsAnswered": 0,
+      "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 1,
       "automationTexted": 1,
       "campaign": null
     }
   ],
-  "conversationsScanned": 285
+  "conversationsScanned": 286
 }
