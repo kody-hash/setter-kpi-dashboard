@@ -1,19 +1,31 @@
 {
-  "generatedAt": "2026-08-17T19:54:46.481Z",
+  "generatedAt": "2026-08-17T20:30:45.042Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T19:53:55.968Z"
+    "nowIso": "2026-08-17T20:29:48.033Z"
   },
   "today": {
     "contacts": 9,
-    "uniqueCallsAttempted": 4,
-    "uniqueTextsSent": 7,
-    "uniqueCallsAnswered": 2,
-    "uniqueTextsResponded": 3,
+    "uniqueCallsAttempted": 6,
+    "uniqueTextsSent": 11,
+    "uniqueCallsAnswered": 4,
+    "uniqueTextsResponded": 4,
     "automationTexted": 2,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Derrick",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-17T20:15:40.403Z"
+      },
+      {
+        "name": "Jazzmine Aguilar",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-17T20:11:47.310Z"
+      },
       {
         "name": "Jesse Guerrero",
         "calls": 1,
@@ -40,6 +52,30 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Derrick",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T20:15:40.403Z"
+      },
+      {
+        "name": "Jose Hernandez",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-08-17T20:15:25.792Z"
+      },
+      {
+        "name": "Jazzmine Aguilar",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T20:11:47.310Z"
+      },
+      {
+        "name": "Brandi",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T20:02:40.110Z"
+      },
       {
         "name": "Troy Mcgahey",
         "texts": 4,
@@ -86,10 +122,10 @@
   },
   "mtd": {
     "contacts": 191,
-    "uniqueCallsAttempted": 231,
-    "uniqueTextsSent": 247,
-    "uniqueCallsAnswered": 56,
-    "uniqueTextsResponded": 59,
+    "uniqueCallsAttempted": 233,
+    "uniqueTextsSent": 251,
+    "uniqueCallsAnswered": 58,
+    "uniqueTextsResponded": 60,
     "automationTexted": 87
   },
   "daily": [
@@ -239,13 +275,13 @@
     },
     {
       "date": "2026-08-17",
-      "uniqueCallsAttempted": 4,
-      "uniqueTextsSent": 7,
-      "uniqueCallsAnswered": 2,
-      "uniqueTextsResponded": 3,
+      "uniqueCallsAttempted": 6,
+      "uniqueTextsSent": 11,
+      "uniqueCallsAnswered": 4,
+      "uniqueTextsResponded": 4,
       "automationTexted": 2,
       "campaign": null
     }
   ],
-  "conversationsScanned": 320
+  "conversationsScanned": 325
 }
