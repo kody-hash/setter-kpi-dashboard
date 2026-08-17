@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T19:31:09.715Z",
+  "generatedAt": "2026-08-17T19:54:46.481Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T19:29:57.241Z"
+    "nowIso": "2026-08-17T19:53:55.968Z"
   },
   "today": {
     "contacts": 9,
@@ -41,16 +41,16 @@
     ],
     "textedContacts": [
       {
+        "name": "Troy Mcgahey",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-08-17T19:46:11.164Z"
+      },
+      {
         "name": "John P Teti",
         "texts": 1,
         "responded": false,
         "lastAt": "2026-08-17T19:28:18.607Z"
-      },
-      {
-        "name": "Troy Mcgahey",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-08-17T19:09:46.644Z"
       },
       {
         "name": "Michael R Alexander Ii",
@@ -247,5 +247,5 @@
       "campaign": null
     }
   ],
-  "conversationsScanned": 319
+  "conversationsScanned": 320
 }
