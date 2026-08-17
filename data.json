@@ -1,28 +1,35 @@
 {
-  "generatedAt": "2026-08-17T14:31:29.721Z",
+  "generatedAt": "2026-08-17T15:03:26.719Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T14:30:29.246Z"
+    "nowIso": "2026-08-17T15:02:24.188Z"
   },
   "today": {
-    "contacts": 0,
+    "contacts": 6,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 0,
+    "uniqueTextsSent": 1,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
-    "automationTexted": 0,
+    "automationTexted": 1,
     "campaign": null,
     "calledContacts": [],
-    "textedContacts": []
+    "textedContacts": [
+      {
+        "name": "Lauren Pernatozzi",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T15:02:17.359Z"
+      }
+    ]
   },
   "mtd": {
-    "contacts": 182,
+    "contacts": 188,
     "uniqueCallsAttempted": 227,
-    "uniqueTextsSent": 240,
+    "uniqueTextsSent": 241,
     "uniqueCallsAnswered": 54,
     "uniqueTextsResponded": 56,
-    "automationTexted": 85
+    "automationTexted": 86
   },
   "daily": [
     {
@@ -168,7 +175,16 @@
       "uniqueTextsResponded": 3,
       "automationTexted": 8,
       "campaign": null
+    },
+    {
+      "date": "2026-08-17",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 1,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 1,
+      "campaign": null
     }
   ],
-  "conversationsScanned": 308
+  "conversationsScanned": 316
 }
