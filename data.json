@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-17T15:03:26.719Z",
+  "generatedAt": "2026-08-17T15:42:11.603Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T15:02:24.188Z"
+    "nowIso": "2026-08-17T15:41:13.927Z"
   },
   "today": {
     "contacts": 6,
     "uniqueCallsAttempted": 0,
     "uniqueTextsSent": 1,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
+    "uniqueTextsResponded": 1,
     "automationTexted": 1,
     "campaign": null,
     "calledContacts": [],
     "textedContacts": [
       {
         "name": "Lauren Pernatozzi",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-17T15:02:17.359Z"
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-17T15:32:24.106Z"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "uniqueCallsAttempted": 227,
     "uniqueTextsSent": 241,
     "uniqueCallsAnswered": 54,
-    "uniqueTextsResponded": 56,
+    "uniqueTextsResponded": 57,
     "automationTexted": 86
   },
   "daily": [
@@ -181,7 +181,7 @@
       "uniqueCallsAttempted": 0,
       "uniqueTextsSent": 1,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0,
+      "uniqueTextsResponded": 1,
       "automationTexted": 1,
       "campaign": null
     }
