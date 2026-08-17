@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-17T20:30:45.042Z",
+  "generatedAt": "2026-08-17T20:57:52.720Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T20:29:48.033Z"
+    "nowIso": "2026-08-17T20:57:00.374Z"
   },
   "today": {
     "contacts": 9,
     "uniqueCallsAttempted": 6,
-    "uniqueTextsSent": 11,
+    "uniqueTextsSent": 12,
     "uniqueCallsAnswered": 4,
     "uniqueTextsResponded": 4,
     "automationTexted": 2,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Jesse Guerrero",
+        "calls": 3,
+        "answered": true,
+        "lastAt": "2026-08-17T20:54:05.273Z"
+      },
       {
         "name": "Derrick",
         "calls": 1,
@@ -25,12 +31,6 @@
         "calls": 2,
         "answered": true,
         "lastAt": "2026-08-17T20:11:47.310Z"
-      },
-      {
-        "name": "Jesse Guerrero",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-08-17T19:28:35.483Z"
       },
       {
         "name": "Michael R Alexander Ii",
@@ -52,6 +52,12 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Jesse Guerrero",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-08-17T20:54:05.273Z"
+      },
       {
         "name": "Derrick",
         "texts": 1,
@@ -123,7 +129,7 @@
   "mtd": {
     "contacts": 191,
     "uniqueCallsAttempted": 233,
-    "uniqueTextsSent": 251,
+    "uniqueTextsSent": 252,
     "uniqueCallsAnswered": 58,
     "uniqueTextsResponded": 60,
     "automationTexted": 87
@@ -276,7 +282,7 @@
     {
       "date": "2026-08-17",
       "uniqueCallsAttempted": 6,
-      "uniqueTextsSent": 11,
+      "uniqueTextsSent": 12,
       "uniqueCallsAnswered": 4,
       "uniqueTextsResponded": 4,
       "automationTexted": 2,
