@@ -1,19 +1,61 @@
 {
-  "generatedAt": "2026-08-17T22:01:29.681Z",
+  "generatedAt": "2026-08-17T22:42:48.830Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T22:00:11.939Z"
+    "nowIso": "2026-08-17T22:42:02.962Z"
   },
   "today": {
     "contacts": 11,
-    "uniqueCallsAttempted": 11,
-    "uniqueTextsSent": 17,
-    "uniqueCallsAnswered": 4,
-    "uniqueTextsResponded": 6,
-    "automationTexted": 4,
+    "uniqueCallsAttempted": 17,
+    "uniqueTextsSent": 22,
+    "uniqueCallsAnswered": 7,
+    "uniqueTextsResponded": 7,
+    "automationTexted": 5,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Zach Lopez",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-17T22:35:57.840Z"
+      },
+      {
+        "name": "Jazzmine Aguilar",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-17T22:35:43.267Z"
+      },
+      {
+        "name": "Abraham Valdez",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-17T22:34:13.975Z"
+      },
+      {
+        "name": "Edward A Robers",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-17T22:30:52.469Z"
+      },
+      {
+        "name": "Justin Bingham",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-17T22:24:54.876Z"
+      },
+      {
+        "name": "Gordon Goosen",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-17T22:24:15.494Z"
+      },
+      {
+        "name": "Gleanby Obsequias",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-17T22:10:35.193Z"
+      },
       {
         "name": "Frank Torres",
         "calls": 1,
@@ -31,12 +73,6 @@
         "calls": 2,
         "answered": false,
         "lastAt": "2026-08-17T21:54:28.443Z"
-      },
-      {
-        "name": "Jazzmine Aguilar",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-08-17T21:48:26.522Z"
       },
       {
         "name": "Stacy Flowers Ludwig",
@@ -83,6 +119,42 @@
     ],
     "textedContacts": [
       {
+        "name": "Jazzmine Aguilar",
+        "texts": 11,
+        "responded": true,
+        "lastAt": "2026-08-17T22:35:43.267Z"
+      },
+      {
+        "name": "Abraham Valdez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T22:34:13.975Z"
+      },
+      {
+        "name": "Edward A Robers",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T22:30:52.469Z"
+      },
+      {
+        "name": "Justin Bingham",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T22:24:54.876Z"
+      },
+      {
+        "name": "Gordon Goosen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T22:24:15.494Z"
+      },
+      {
+        "name": "Gleanby Obsequias",
+        "texts": 4,
+        "responded": true,
+        "lastAt": "2026-08-17T22:10:35.193Z"
+      },
+      {
         "name": "Frank Torres",
         "texts": 1,
         "responded": false,
@@ -99,12 +171,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-08-17T21:54:28.443Z"
-      },
-      {
-        "name": "Jazzmine Aguilar",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-08-17T21:48:26.522Z"
       },
       {
         "name": "Stacy Flowers Ludwig",
@@ -190,8 +256,8 @@
     "contacts": 193,
     "uniqueCallsAttempted": 237,
     "uniqueTextsSent": 257,
-    "uniqueCallsAnswered": 58,
-    "uniqueTextsResponded": 62,
+    "uniqueCallsAnswered": 59,
+    "uniqueTextsResponded": 61,
     "automationTexted": 89
   },
   "daily": [
@@ -201,7 +267,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 4,
+      "automationTexted": 3,
       "campaign": null
     },
     {
@@ -215,25 +281,25 @@
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 72,
-      "uniqueTextsSent": 60,
-      "uniqueCallsAnswered": 16,
+      "uniqueCallsAttempted": 69,
+      "uniqueTextsSent": 58,
+      "uniqueCallsAnswered": 15,
       "uniqueTextsResponded": 11,
       "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 77,
-      "uniqueTextsSent": 71,
-      "uniqueCallsAnswered": 15,
-      "uniqueTextsResponded": 12,
+      "uniqueCallsAttempted": 73,
+      "uniqueTextsSent": 68,
+      "uniqueCallsAnswered": 14,
+      "uniqueTextsResponded": 10,
       "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 53,
+      "uniqueCallsAttempted": 54,
       "uniqueTextsSent": 50,
       "uniqueCallsAnswered": 12,
       "uniqueTextsResponded": 10,
@@ -341,13 +407,13 @@
     },
     {
       "date": "2026-08-17",
-      "uniqueCallsAttempted": 11,
-      "uniqueTextsSent": 17,
-      "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 6,
-      "automationTexted": 4,
+      "uniqueCallsAttempted": 17,
+      "uniqueTextsSent": 22,
+      "uniqueCallsAnswered": 7,
+      "uniqueTextsResponded": 7,
+      "automationTexted": 5,
       "campaign": null
     }
   ],
-  "conversationsScanned": 327
+  "conversationsScanned": 328
 }
