@@ -1,20 +1,75 @@
 {
-  "generatedAt": "2026-08-17T18:51:51.927Z",
+  "generatedAt": "2026-08-17T19:31:09.715Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T18:51:09.190Z"
+    "nowIso": "2026-08-17T19:29:57.241Z"
   },
   "today": {
-    "contacts": 8,
-    "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 2,
-    "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 2,
+    "contacts": 9,
+    "uniqueCallsAttempted": 4,
+    "uniqueTextsSent": 7,
+    "uniqueCallsAnswered": 2,
+    "uniqueTextsResponded": 3,
     "automationTexted": 2,
     "campaign": null,
-    "calledContacts": [],
+    "calledContacts": [
+      {
+        "name": "Jesse Guerrero",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-17T19:28:35.483Z"
+      },
+      {
+        "name": "Michael R Alexander Ii",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-17T19:04:07.015Z"
+      },
+      {
+        "name": "Tony Roush",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-17T18:55:19.532Z"
+      },
+      {
+        "name": "Caterina Costante",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-17T18:53:47.032Z"
+      }
+    ],
     "textedContacts": [
+      {
+        "name": "John P Teti",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T19:28:18.607Z"
+      },
+      {
+        "name": "Troy Mcgahey",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-17T19:09:46.644Z"
+      },
+      {
+        "name": "Michael R Alexander Ii",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T19:04:07.015Z"
+      },
+      {
+        "name": "Mike Mcdowell",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T19:00:07.455Z"
+      },
+      {
+        "name": "Gary Chen",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T18:57:37.085Z"
+      },
       {
         "name": "Tori Reily",
         "texts": 1,
@@ -30,11 +85,11 @@
     ]
   },
   "mtd": {
-    "contacts": 190,
-    "uniqueCallsAttempted": 227,
-    "uniqueTextsSent": 242,
-    "uniqueCallsAnswered": 54,
-    "uniqueTextsResponded": 58,
+    "contacts": 191,
+    "uniqueCallsAttempted": 231,
+    "uniqueTextsSent": 247,
+    "uniqueCallsAnswered": 56,
+    "uniqueTextsResponded": 59,
     "automationTexted": 87
   },
   "daily": [
@@ -184,13 +239,13 @@
     },
     {
       "date": "2026-08-17",
-      "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 2,
-      "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 2,
+      "uniqueCallsAttempted": 4,
+      "uniqueTextsSent": 7,
+      "uniqueCallsAnswered": 2,
+      "uniqueTextsResponded": 3,
       "automationTexted": 2,
       "campaign": null
     }
   ],
-  "conversationsScanned": 318
+  "conversationsScanned": 319
 }
