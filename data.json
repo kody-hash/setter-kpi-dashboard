@@ -1,48 +1,28 @@
 {
-  "generatedAt": "2026-08-15T02:19:32.559Z",
+  "generatedAt": "2026-08-17T14:31:29.721Z",
   "ranges": {
-    "todayIso": "2026-08-14T07:00:00.000Z",
+    "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-15T02:18:59.037Z"
+    "nowIso": "2026-08-17T14:30:29.246Z"
   },
   "today": {
-    "contacts": 8,
-    "uniqueCallsAttempted": 2,
-    "uniqueTextsSent": 1,
-    "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 1,
-    "automationTexted": 1,
+    "contacts": 0,
+    "uniqueCallsAttempted": 0,
+    "uniqueTextsSent": 0,
+    "uniqueCallsAnswered": 0,
+    "uniqueTextsResponded": 0,
+    "automationTexted": 0,
     "campaign": null,
-    "calledContacts": [
-      {
-        "name": "Daniel Paul Cruz",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-08-14T22:44:30.543Z"
-      },
-      {
-        "name": "Tanner Riggs",
-        "calls": 1,
-        "answered": false,
-        "lastAt": "2026-08-14T16:56:20.797Z"
-      }
-    ],
-    "textedContacts": [
-      {
-        "name": "Daniel Paul Cruz",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-08-14T22:44:30.543Z"
-      }
-    ]
+    "calledContacts": [],
+    "textedContacts": []
   },
   "mtd": {
-    "contacts": 165,
-    "uniqueCallsAttempted": 218,
-    "uniqueTextsSent": 225,
-    "uniqueCallsAnswered": 50,
-    "uniqueTextsResponded": 47,
-    "automationTexted": 67
+    "contacts": 182,
+    "uniqueCallsAttempted": 227,
+    "uniqueTextsSent": 240,
+    "uniqueCallsAnswered": 54,
+    "uniqueTextsResponded": 56,
+    "automationTexted": 85
   },
   "daily": [
     {
@@ -60,24 +40,24 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 7,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 68,
-      "uniqueTextsSent": 56,
-      "uniqueCallsAnswered": 14,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
+      "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 11,
-      "automationTexted": 7,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 73,
-      "uniqueTextsSent": 68,
-      "uniqueCallsAnswered": 13,
-      "uniqueTextsResponded": 11,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 71,
+      "uniqueCallsAnswered": 15,
+      "uniqueTextsResponded": 12,
       "automationTexted": 7,
       "campaign": null
     },
@@ -164,13 +144,31 @@
     },
     {
       "date": "2026-08-14",
-      "uniqueCallsAttempted": 2,
+      "uniqueCallsAttempted": 3,
       "uniqueTextsSent": 1,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 1,
       "automationTexted": 1,
       "campaign": null
+    },
+    {
+      "date": "2026-08-15",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 5,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 5,
+      "automationTexted": 8,
+      "campaign": null
+    },
+    {
+      "date": "2026-08-16",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 3,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 8,
+      "campaign": null
     }
   ],
-  "conversationsScanned": 288
+  "conversationsScanned": 308
 }
