@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-17T22:42:48.830Z",
+  "generatedAt": "2026-08-17T23:02:05.027Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T22:42:02.962Z"
+    "nowIso": "2026-08-17T23:01:29.228Z"
   },
   "today": {
     "contacts": 11,
-    "uniqueCallsAttempted": 17,
+    "uniqueCallsAttempted": 18,
     "uniqueTextsSent": 22,
-    "uniqueCallsAnswered": 7,
+    "uniqueCallsAnswered": 8,
     "uniqueTextsResponded": 7,
     "automationTexted": 5,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Deborah Brock-Sneed",
+        "calls": 1,
+        "answered": true,
+        "lastAt": "2026-08-17T22:43:29.456Z"
+      },
       {
         "name": "Zach Lopez",
         "calls": 2,
@@ -254,11 +260,11 @@
   },
   "mtd": {
     "contacts": 193,
-    "uniqueCallsAttempted": 237,
-    "uniqueTextsSent": 257,
-    "uniqueCallsAnswered": 59,
-    "uniqueTextsResponded": 61,
-    "automationTexted": 89
+    "uniqueCallsAttempted": 158,
+    "uniqueTextsSent": 182,
+    "uniqueCallsAnswered": 47,
+    "uniqueTextsResponded": 52,
+    "automationTexted": 82
   },
   "daily": [
     {
@@ -276,43 +282,43 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 8,
+      "automationTexted": 6,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 69,
-      "uniqueTextsSent": 58,
-      "uniqueCallsAnswered": 15,
-      "uniqueTextsResponded": 11,
+      "uniqueCallsAttempted": 48,
+      "uniqueTextsSent": 38,
+      "uniqueCallsAnswered": 11,
+      "uniqueTextsResponded": 9,
       "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 73,
-      "uniqueTextsSent": 68,
-      "uniqueCallsAnswered": 14,
-      "uniqueTextsResponded": 10,
-      "automationTexted": 7,
+      "uniqueCallsAttempted": 49,
+      "uniqueTextsSent": 44,
+      "uniqueCallsAnswered": 12,
+      "uniqueTextsResponded": 11,
+      "automationTexted": 5,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 54,
-      "uniqueTextsSent": 50,
-      "uniqueCallsAnswered": 12,
-      "uniqueTextsResponded": 10,
-      "automationTexted": 4,
+      "uniqueCallsAttempted": 22,
+      "uniqueTextsSent": 21,
+      "uniqueCallsAnswered": 5,
+      "uniqueTextsResponded": 3,
+      "automationTexted": 3,
       "campaign": null
     },
     {
       "date": "2026-08-06",
-      "uniqueCallsAttempted": 12,
-      "uniqueTextsSent": 7,
+      "uniqueCallsAttempted": 9,
+      "uniqueTextsSent": 5,
       "uniqueCallsAnswered": 3,
-      "uniqueTextsResponded": 2,
-      "automationTexted": 4,
+      "uniqueTextsResponded": 1,
+      "automationTexted": 2,
       "campaign": null
     },
     {
@@ -407,9 +413,9 @@
     },
     {
       "date": "2026-08-17",
-      "uniqueCallsAttempted": 17,
+      "uniqueCallsAttempted": 18,
       "uniqueTextsSent": 22,
-      "uniqueCallsAnswered": 7,
+      "uniqueCallsAnswered": 8,
       "uniqueTextsResponded": 7,
       "automationTexted": 5,
       "campaign": null
