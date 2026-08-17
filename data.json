@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T15:42:11.603Z",
+  "generatedAt": "2026-08-17T16:01:55.741Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T15:41:13.927Z"
+    "nowIso": "2026-08-17T16:00:29.855Z"
   },
   "today": {
     "contacts": 6,
@@ -17,9 +17,9 @@
     "textedContacts": [
       {
         "name": "Lauren Pernatozzi",
-        "texts": 2,
+        "texts": 3,
         "responded": true,
-        "lastAt": "2026-08-17T15:32:24.106Z"
+        "lastAt": "2026-08-17T15:42:30.983Z"
       }
     ]
   },
