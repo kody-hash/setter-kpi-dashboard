@@ -1,19 +1,55 @@
 {
-  "generatedAt": "2026-08-17T21:33:07.422Z",
+  "generatedAt": "2026-08-17T22:01:29.681Z",
   "ranges": {
     "todayIso": "2026-08-17T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-17T21:32:24.873Z"
+    "nowIso": "2026-08-17T22:00:11.939Z"
   },
   "today": {
     "contacts": 11,
-    "uniqueCallsAttempted": 6,
-    "uniqueTextsSent": 13,
+    "uniqueCallsAttempted": 11,
+    "uniqueTextsSent": 17,
     "uniqueCallsAnswered": 4,
-    "uniqueTextsResponded": 5,
+    "uniqueTextsResponded": 6,
     "automationTexted": 4,
     "campaign": null,
     "calledContacts": [
+      {
+        "name": "Frank Torres",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-17T21:59:12.884Z"
+      },
+      {
+        "name": "Joe Metry",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-17T21:58:32.376Z"
+      },
+      {
+        "name": "Shelley Arnett Evans",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-17T21:54:28.443Z"
+      },
+      {
+        "name": "Jazzmine Aguilar",
+        "calls": 2,
+        "answered": true,
+        "lastAt": "2026-08-17T21:48:26.522Z"
+      },
+      {
+        "name": "Stacy Flowers Ludwig",
+        "calls": 2,
+        "answered": false,
+        "lastAt": "2026-08-17T21:47:51.504Z"
+      },
+      {
+        "name": "Scott Gray",
+        "calls": 1,
+        "answered": false,
+        "lastAt": "2026-08-17T21:38:24.530Z"
+      },
       {
         "name": "Jesse Guerrero",
         "calls": 3,
@@ -25,12 +61,6 @@
         "calls": 1,
         "answered": true,
         "lastAt": "2026-08-17T20:15:40.403Z"
-      },
-      {
-        "name": "Jazzmine Aguilar",
-        "calls": 2,
-        "answered": true,
-        "lastAt": "2026-08-17T20:11:47.310Z"
       },
       {
         "name": "Michael R Alexander Ii",
@@ -52,6 +82,36 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Frank Torres",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T21:59:12.884Z"
+      },
+      {
+        "name": "Joe Metry",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T21:58:32.376Z"
+      },
+      {
+        "name": "Shelley Arnett Evans",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T21:54:28.443Z"
+      },
+      {
+        "name": "Jazzmine Aguilar",
+        "texts": 2,
+        "responded": true,
+        "lastAt": "2026-08-17T21:48:26.522Z"
+      },
+      {
+        "name": "Stacy Flowers Ludwig",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-17T21:47:51.504Z"
+      },
       {
         "name": "Jose Hernandez",
         "texts": 9,
@@ -75,12 +135,6 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-08-17T20:15:40.403Z"
-      },
-      {
-        "name": "Jazzmine Aguilar",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-17T20:11:47.310Z"
       },
       {
         "name": "Brandi",
@@ -134,11 +188,11 @@
   },
   "mtd": {
     "contacts": 193,
-    "uniqueCallsAttempted": 224,
-    "uniqueTextsSent": 247,
-    "uniqueCallsAnswered": 54,
-    "uniqueTextsResponded": 60,
-    "automationTexted": 88
+    "uniqueCallsAttempted": 237,
+    "uniqueTextsSent": 257,
+    "uniqueCallsAnswered": 58,
+    "uniqueTextsResponded": 62,
+    "automationTexted": 89
   },
   "daily": [
     {
@@ -156,30 +210,30 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 7,
+      "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-03",
-      "uniqueCallsAttempted": 68,
-      "uniqueTextsSent": 57,
-      "uniqueCallsAnswered": 15,
+      "uniqueCallsAttempted": 72,
+      "uniqueTextsSent": 60,
+      "uniqueCallsAnswered": 16,
       "uniqueTextsResponded": 11,
       "automationTexted": 8,
       "campaign": null
     },
     {
       "date": "2026-08-04",
-      "uniqueCallsAttempted": 72,
-      "uniqueTextsSent": 68,
-      "uniqueCallsAnswered": 12,
-      "uniqueTextsResponded": 11,
+      "uniqueCallsAttempted": 77,
+      "uniqueTextsSent": 71,
+      "uniqueCallsAnswered": 15,
+      "uniqueTextsResponded": 12,
       "automationTexted": 7,
       "campaign": null
     },
     {
       "date": "2026-08-05",
-      "uniqueCallsAttempted": 54,
+      "uniqueCallsAttempted": 53,
       "uniqueTextsSent": 50,
       "uniqueCallsAnswered": 12,
       "uniqueTextsResponded": 10,
@@ -287,10 +341,10 @@
     },
     {
       "date": "2026-08-17",
-      "uniqueCallsAttempted": 6,
-      "uniqueTextsSent": 13,
+      "uniqueCallsAttempted": 11,
+      "uniqueTextsSent": 17,
       "uniqueCallsAnswered": 4,
-      "uniqueTextsResponded": 5,
+      "uniqueTextsResponded": 6,
       "automationTexted": 4,
       "campaign": null
     }
