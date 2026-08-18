@@ -1,28 +1,35 @@
 {
-  "generatedAt": "2026-08-18T15:49:41.108Z",
+  "generatedAt": "2026-08-18T16:36:42.868Z",
   "ranges": {
     "todayIso": "2026-08-18T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-18T15:48:52.422Z"
+    "nowIso": "2026-08-18T16:34:38.198Z"
   },
   "today": {
-    "contacts": 4,
+    "contacts": 5,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 0,
+    "uniqueTextsSent": 1,
     "uniqueCallsAnswered": 0,
     "uniqueTextsResponded": 0,
-    "automationTexted": 3,
+    "automationTexted": 4,
     "campaign": null,
     "calledContacts": [],
-    "textedContacts": []
+    "textedContacts": [
+      {
+        "name": "Edward A Robers",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-08-18T16:34:30.359Z"
+      }
+    ]
   },
   "mtd": {
-    "contacts": 206,
+    "contacts": 207,
     "uniqueCallsAttempted": 246,
-    "uniqueTextsSent": 267,
+    "uniqueTextsSent": 268,
     "uniqueCallsAnswered": 62,
     "uniqueTextsResponded": 66,
-    "automationTexted": 98
+    "automationTexted": 99
   },
   "daily": [
     {
@@ -181,12 +188,12 @@
     {
       "date": "2026-08-18",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 0,
+      "uniqueTextsSent": 1,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "automationTexted": 4,
       "campaign": null
     }
   ],
-  "conversationsScanned": 337
+  "conversationsScanned": 339
 }
