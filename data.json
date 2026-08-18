@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T14:37:02.832Z",
+  "generatedAt": "2026-08-18T15:16:43.787Z",
   "ranges": {
     "todayIso": "2026-08-18T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-18T14:36:01.160Z"
+    "nowIso": "2026-08-18T15:13:04.016Z"
   },
   "today": {
     "contacts": 4,
@@ -22,7 +22,7 @@
     "uniqueTextsSent": 267,
     "uniqueCallsAnswered": 62,
     "uniqueTextsResponded": 66,
-    "automationTexted": 97
+    "automationTexted": 98
   },
   "daily": [
     {
@@ -94,7 +94,7 @@
       "uniqueTextsSent": 0,
       "uniqueCallsAnswered": 0,
       "uniqueTextsResponded": 0,
-      "automationTexted": 3,
+      "automationTexted": 4,
       "campaign": null
     },
     {
