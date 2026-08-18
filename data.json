@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-18T17:05:27.862Z",
+  "generatedAt": "2026-08-18T17:45:01.248Z",
   "ranges": {
     "todayIso": "2026-08-18T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-18T17:04:33.450Z"
+    "nowIso": "2026-08-18T17:44:10.486Z"
   },
   "today": {
-    "contacts": 5,
+    "contacts": 6,
     "uniqueCallsAttempted": 1,
-    "uniqueTextsSent": 7,
+    "uniqueTextsSent": 8,
     "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 1,
-    "automationTexted": 4,
+    "uniqueTextsResponded": 2,
+    "automationTexted": 5,
     "campaign": null,
     "calledContacts": [
       {
@@ -22,6 +22,18 @@
       }
     ],
     "textedContacts": [
+      {
+        "name": "Person Painting",
+        "texts": 5,
+        "responded": true,
+        "lastAt": "2026-08-18T17:29:16.273Z"
+      },
+      {
+        "name": "Gerald Howard",
+        "texts": 2,
+        "responded": false,
+        "lastAt": "2026-08-18T17:21:45.177Z"
+      },
       {
         "name": "Edward A Robers",
         "texts": 6,
@@ -57,22 +69,16 @@
         "texts": 1,
         "responded": false,
         "lastAt": "2026-08-18T17:01:59.828Z"
-      },
-      {
-        "name": "Ge Howard",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-18T17:01:41.397Z"
       }
     ]
   },
   "mtd": {
-    "contacts": 207,
+    "contacts": 208,
     "uniqueCallsAttempted": 247,
-    "uniqueTextsSent": 274,
+    "uniqueTextsSent": 275,
     "uniqueCallsAnswered": 63,
-    "uniqueTextsResponded": 67,
-    "automationTexted": 99
+    "uniqueTextsResponded": 68,
+    "automationTexted": 100
   },
   "daily": [
     {
@@ -231,12 +237,12 @@
     {
       "date": "2026-08-18",
       "uniqueCallsAttempted": 1,
-      "uniqueTextsSent": 7,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 1,
-      "uniqueTextsResponded": 1,
-      "automationTexted": 4,
+      "uniqueTextsResponded": 2,
+      "automationTexted": 5,
       "campaign": null
     }
   ],
-  "conversationsScanned": 340
+  "conversationsScanned": 341
 }
