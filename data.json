@@ -1,28 +1,53 @@
 {
-  "generatedAt": "2026-08-19T14:37:42.465Z",
+  "generatedAt": "2026-08-19T15:51:17.851Z",
   "ranges": {
     "todayIso": "2026-08-19T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-19T14:36:26.870Z"
+    "nowIso": "2026-08-19T15:48:34.894Z"
   },
   "today": {
-    "contacts": 1,
+    "contacts": 3,
     "uniqueCallsAttempted": 0,
-    "uniqueTextsSent": 0,
+    "uniqueTextsSent": 4,
     "uniqueCallsAnswered": 0,
-    "uniqueTextsResponded": 0,
+    "uniqueTextsResponded": 1,
     "automationTexted": 1,
     "campaign": null,
     "calledContacts": [],
-    "textedContacts": []
+    "textedContacts": [
+      {
+        "name": "Griff Desertdogs",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-19T15:48:00.718Z"
+      },
+      {
+        "name": "Ronald Ballantyne",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-19T15:46:40.842Z"
+      },
+      {
+        "name": "James Painting",
+        "texts": 3,
+        "responded": true,
+        "lastAt": "2026-08-19T15:43:39.775Z"
+      },
+      {
+        "name": "Jorge Fernandez",
+        "texts": 1,
+        "responded": false,
+        "lastAt": "2026-08-19T15:32:53.427Z"
+      }
+    ]
   },
   "mtd": {
-    "contacts": 220,
+    "contacts": 222,
     "uniqueCallsAttempted": 247,
-    "uniqueTextsSent": 276,
+    "uniqueTextsSent": 279,
     "uniqueCallsAnswered": 63,
-    "uniqueTextsResponded": 70,
-    "automationTexted": 105
+    "uniqueTextsResponded": 71,
+    "automationTexted": 102
   },
   "daily": [
     {
@@ -181,21 +206,21 @@
     {
       "date": "2026-08-18",
       "uniqueCallsAttempted": 1,
-      "uniqueTextsSent": 9,
+      "uniqueTextsSent": 8,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 4,
-      "automationTexted": 9,
+      "automationTexted": 6,
       "campaign": null
     },
     {
       "date": "2026-08-19",
       "uniqueCallsAttempted": 0,
-      "uniqueTextsSent": 0,
+      "uniqueTextsSent": 4,
       "uniqueCallsAnswered": 0,
-      "uniqueTextsResponded": 0,
+      "uniqueTextsResponded": 1,
       "automationTexted": 1,
       "campaign": null
     }
   ],
-  "conversationsScanned": 351
+  "conversationsScanned": 353
 }
