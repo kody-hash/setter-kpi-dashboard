@@ -1,90 +1,28 @@
 {
-  "generatedAt": "2026-08-19T02:32:28.286Z",
+  "generatedAt": "2026-08-19T14:37:42.465Z",
   "ranges": {
-    "todayIso": "2026-08-18T07:00:00.000Z",
+    "todayIso": "2026-08-19T07:00:00.000Z",
     "monthIso": "2026-08-01T07:00:00.000Z",
-    "nowIso": "2026-08-19T02:31:41.664Z"
+    "nowIso": "2026-08-19T14:36:26.870Z"
   },
   "today": {
-    "contacts": 16,
-    "uniqueCallsAttempted": 1,
-    "uniqueTextsSent": 9,
-    "uniqueCallsAnswered": 1,
-    "uniqueTextsResponded": 4,
-    "automationTexted": 8,
+    "contacts": 1,
+    "uniqueCallsAttempted": 0,
+    "uniqueTextsSent": 0,
+    "uniqueCallsAnswered": 0,
+    "uniqueTextsResponded": 0,
+    "automationTexted": 1,
     "campaign": null,
-    "calledContacts": [
-      {
-        "name": "Jameson Kent Van Ness",
-        "calls": 1,
-        "answered": true,
-        "lastAt": "2026-08-18T16:40:23.443Z"
-      }
-    ],
-    "textedContacts": [
-      {
-        "name": "Jorge Valdez",
-        "texts": 2,
-        "responded": true,
-        "lastAt": "2026-08-18T21:53:01.879Z"
-      },
-      {
-        "name": "Person Painting",
-        "texts": 5,
-        "responded": true,
-        "lastAt": "2026-08-18T17:29:16.273Z"
-      },
-      {
-        "name": "Gerald Howard",
-        "texts": 2,
-        "responded": false,
-        "lastAt": "2026-08-18T17:21:45.177Z"
-      },
-      {
-        "name": "Edward A Robers",
-        "texts": 6,
-        "responded": true,
-        "lastAt": "2026-08-18T17:03:42.267Z"
-      },
-      {
-        "name": "Joe Lovetere",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-18T17:03:08.400Z"
-      },
-      {
-        "name": "Charles Nathan Moses",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-18T17:02:50.618Z"
-      },
-      {
-        "name": "Veronica Gonzales",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-18T17:02:32.627Z"
-      },
-      {
-        "name": "Francisco Garza",
-        "texts": 1,
-        "responded": false,
-        "lastAt": "2026-08-18T17:02:17.915Z"
-      },
-      {
-        "name": "Jorge Fernandez",
-        "texts": 1,
-        "responded": true,
-        "lastAt": "2026-08-18T17:01:59.828Z"
-      }
-    ]
+    "calledContacts": [],
+    "textedContacts": []
   },
   "mtd": {
-    "contacts": 218,
+    "contacts": 220,
     "uniqueCallsAttempted": 247,
     "uniqueTextsSent": 276,
     "uniqueCallsAnswered": 63,
     "uniqueTextsResponded": 70,
-    "automationTexted": 103
+    "automationTexted": 105
   },
   "daily": [
     {
@@ -246,9 +184,18 @@
       "uniqueTextsSent": 9,
       "uniqueCallsAnswered": 1,
       "uniqueTextsResponded": 4,
-      "automationTexted": 8,
+      "automationTexted": 9,
+      "campaign": null
+    },
+    {
+      "date": "2026-08-19",
+      "uniqueCallsAttempted": 0,
+      "uniqueTextsSent": 0,
+      "uniqueCallsAnswered": 0,
+      "uniqueTextsResponded": 0,
+      "automationTexted": 1,
       "campaign": null
     }
   ],
-  "conversationsScanned": 349
+  "conversationsScanned": 351
 }
